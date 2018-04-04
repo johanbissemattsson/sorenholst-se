@@ -1,7 +1,7 @@
 ---
-templateKey: 'page'
+templateKey: page
 title: In English
 ---
-In english
+Hejsan hoppsan
 
-Hej hejs
+**Fetstil**
