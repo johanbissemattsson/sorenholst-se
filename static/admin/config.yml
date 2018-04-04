@@ -54,5 +54,5 @@ collections:
               {label: 'Alt text', name: 'alt', widget: 'string'}
             ]}
           ]}
-          ]},
+        ]},
       ]}
