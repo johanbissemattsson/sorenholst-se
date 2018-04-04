@@ -32,11 +32,11 @@ collections:
   - name: 'index'
     label: 'Index page'
     folder: 'src/pages'
-    filter: {field: 'templateKey', value: 'index'}
+    filter: {field: 'templateKey', value: 'index-page'}
     extension: 'md'
     slug: '{{slug}}'
-    create: false
+    create: true
     fields:
       - {label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'index-page'}
       - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Body', name: 'body', widget: 'markdown'}      
+      - {label: 'UID', name: 'uid', widget: 'string'} 
