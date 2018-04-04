@@ -3,7 +3,8 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { canUseDOM } from 'exenv';
 
-import Navbar from '../components/Navbar';
+import Nav from '../components/Nav';
+
 import 'normalize.css';
 import './index.css';
 
@@ -22,10 +23,10 @@ export default class TemplateWrapper extends Component {
   render() {
     const { children } = this.props;
     return (
-      <div>
-        <Helmet title="Sören Holst" />
-        <Navbar />
-        <div>{children()}</div>
+      <div className='site-container'>
+        <Helmet title='Sören Holst' />
+        <Nav />
+        <div className='page-container'>{children()}</div>
       </div>
     );
   }
