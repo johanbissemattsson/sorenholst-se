@@ -4,6 +4,8 @@ import Helmet from 'react-helmet';
 import { canUseDOM } from 'exenv';
 
 import Nav from '../components/Nav';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 import 'normalize.css';
 import './index.css';
@@ -26,7 +28,9 @@ export default class TemplateWrapper extends Component {
       <div className='site-container'>
         <Helmet title='Sören Holst' />
         <Nav />
+        <Header />
         <div className='page-container'>{children()}</div>
+        <Footer />
       </div>
     );
   }
