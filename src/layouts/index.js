@@ -4,7 +4,6 @@ import Helmet from 'react-helmet';
 import { canUseDOM } from 'exenv';
 
 import Nav from '../components/Nav';
-import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 import 'normalize.css';
@@ -16,19 +15,19 @@ export default class TemplateWrapper extends Component {
       const WebFont = require('webfontloader');
       WebFont.load({
         google: {
-          families: ['Open Sans']
+          families: ['Open Sans', 'Roboto Slab']
         }
       });
     }
   }
 
   render() {
-    const { children } = this.props;
+    const { children, location } = this.props;
+    const isIndex = location.pathname === '/' && true;
     return (
       <div className='site-container'>
         <Helmet title='Sören Holst' />
-        <Nav />
-        <Header />
+        <Nav isIndex={isIndex}/>
         <div className='page-container'>{children()}</div>
         <Footer />
       </div>

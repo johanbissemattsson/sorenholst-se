@@ -5,7 +5,7 @@ export default class Footer extends Component {
   render() {
     return (
       <div className='site-footer-container'>
-        <footer className='site-footer'>
+        <footer className='site-footer' id='kontakt'>
             <h2 className='site-title'>Sören Holst</h2>
             <div className='contact-information'>
               <section>
