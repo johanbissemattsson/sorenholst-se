@@ -39,8 +39,8 @@ collections:
     fields:
       - {label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'index-page'}
       - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'UID', name: 'uid', widget: 'string'} 
-      - {label: 'Description', name: 'description', widget: 'markdown'}
+      - {label: 'Subtitle', name: 'subtitle', widget: 'string'}
+      - {label: 'Description', name: 'description', widget: 'markdown'}      
       - {label: 'Body', name: 'body', widget: 'hidden'}
       - label: 'Sections'
         name: 'sections'
