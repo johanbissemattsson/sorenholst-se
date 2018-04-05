@@ -24,11 +24,11 @@ sections:
 
 
           [Läs mer om boken på förlagets
-          hemsida](https://www.johanbissemattsson.se)
+          hemsida](http://fritanke.se/bocker/tankar-som-andrar-allt-2/)
         featuredImage:
-          alt: Testbild
+          alt: Tankar som förändrar allt
           src: /img/products-grid1.jpg
-        link: 'https://www.johanbissemattsson.se'
+        link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
       - title: Tankeexperiment i Fyskikaktuellt
         description: >-
           Under avdelningen _"Tankeexperiment"_ i Svenska Fysikersamfundets
@@ -40,9 +40,9 @@ sections:
 
           [Alla artiklar från Fysikaktuellt](/in-english)
         featuredImage:
-          alt: Testbild
+          alt: Tankeexperiment
           src: /img/meeting-space.png
-        link: /in-english
+        link: /tankeexperiment
     uid: tankeexperiment
   - title: Relativitetsteori
     description: >-
@@ -57,13 +57,14 @@ sections:
           i matte och fysik – den enda matematik som behövs är enkel algebra.
 
 
-          [Instuderingsfrågor till boken](/in-english)
+          [Läs mer om boken](/rumtid)
 
 
-          [Bokens sida hos förlaget](https://www.johanbissemattsson.se)
+          [Instuderingsfrågor till boken](/rumtid/#instuderingsfragor)
         featuredImage:
-          alt: Testbild
+          alt: Rumtid – en introduktion till Einsteins relativitetsteori
           src: /img/products-grid1.jpg
+        link: /rumtid
       - title: Föreläsning om relativitetsteori
         description: >-
           Vad är det egentligen som får månen att hållas kvar i bana kring
@@ -75,10 +76,58 @@ sections:
 
           Föreläsningen är från 19 mars 2015 och ingick i Fysikums serie med
           öppna föreläsningar.
+
+
+          [Titta på föreläsningen](https://www.youtube.com/watch?v=xluTDeLls_Q)
         featuredImage:
-          alt: Testbild
+          alt: Föreläsning om relativitetsteori
           src: /img/meeting-space.png
-        link: 'https://www.johanbissemattsson.se'
+        link: 'https://www.youtube.com/watch?v=xluTDeLls_Q'
     uid: relativitetsteori
+  - title: Undervisning
+    description: >-
+      Jag undervisar på Fysikums kandidatprogram i fysik och håller även
+      sommarkurser.
+    sectionItems:
+      - title: Kurser
+        description: >2-
+           Här är de kurser som är aktuella för närvarande:
+
+          * **[Mekanik
+          II](http://www.fysik.su.se/studentportal/kursinformation/schema/kursfakta.php?kurs=FK3014)**
+            Kursen ingår som delkurs i Klassisk Fysik (30 hp), den första fysikkursen på Fysikums kandidatprogram.
+          * **[Allmän relativitetsteori](/generalrelativity)**
+            Kurs på masternivå om Einsteins teori, som visar hur fenomenet gravitation inte är en kraft, utan måste förstås som en effekt av rumtidens krökning.
+          * **[Sommarkurs i Relativitetsteori](/relativitetsteori)**
+            Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
+          * **[Tankeexperiment i fysiken](/tankeexperiment)**
+            Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
+        featuredImage:
+          alt: Kurser
+          src: /img/meeting-space.png
+      - title: STINT Programme for Excellence in Teaching
+        description: >-
+          Hösten 2007 vistades jag vid Skidmore College i Saratoga Springs, New
+          York, inom ramen för stiftelsen STINT's 'Programme for Excellence in
+          Teaching'. Jag höll en kurs i Relativitetsteori, och ägnade mig åt att
+          studera collegemiljön, och särskilt den amerikanska 'liberal arts'
+          traditionen. Företrädare för denna utbildningstradition är ofta små
+          privata college, så som Skidmore, med särskilt fokus på pedagogik och
+          undervisning.
+
+
+          Att arbeta vid en amerikansk institution gav också intressanta
+          inblickar i samhället. Somliga fördomar bekräftades - andra kom på
+          skam. Min rapport nedan behandlar både mina intryck av collegemiljön
+          och av det amerikanska samhället i stort.
+
+
+          Rapport från min vistelse vid Skidmore College
+
+          Krönika om min vistelse vid Skidmore College
+        featuredImage:
+          alt: STINT Programme for Excellence in Teaching
+          src: /img/tutorials.png
+    uid: undervisning
 ---
 
