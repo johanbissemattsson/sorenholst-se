@@ -14,7 +14,7 @@ sections:
       filosofi. Det är också något som jag fascinerats av lorem ipsum ad est
       dolores est finalique voriste quantum domingo ad est.
     sectionItems:
-      - title: Tankar som förändrar allt
+      - title: Tankar som ändrar allt
         description: >-
           Hösten 2012 kom min bok _Tankar som ändrar allt_. Om tankeexperiement
           och nya världsbilder ut på Fri Tanke förlag. Boken handlar om hur
