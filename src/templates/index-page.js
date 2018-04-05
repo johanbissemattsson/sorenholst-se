@@ -11,7 +11,7 @@ const ScrollLink = ReactScroll.Link;
 export const IndexPageTemplate = ({ title, subtitle, description, sections, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
-  const convertMarkdownToHtml = ((markdownString) => Remark().use(html).processSync(markdownString, ((err, file) => file)).contents);
+  const convertMarkdownToHtml = ((markdownString) => Remark().use(html).processSync(markdownString, ((err, file) => err ? {contents: '' } : file)).contents);
 
   return (
     <div className='index page'>

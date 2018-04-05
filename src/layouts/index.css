@@ -15,6 +15,7 @@ h2 {
 }
 
 img {
+  display: block;
   width: 100%;
   height: auto;
 }
@@ -26,6 +27,20 @@ a {
 
 a:hover {
   color: rgba(0, 0, 0, 1);
+}
+
+ul li h2 {
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+  margin-bottom: -1em;
+}
+
+@media only screen and (min-width: 960px) {
+  ul li h2 {
+    font-size: 1.142857142857143em;
+    margin-bottom: -0.875em;
+  }
 }
 
 @media only screen and (min-width: 640px) {
@@ -321,6 +336,9 @@ a:hover {
 @media only screen and (min-width: 960px) {
   .section-item {
     font-size: 1em;
+  }
+  .section-item-content {
+    font-size: 0.875em;
   }
 }
 
