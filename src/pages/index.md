@@ -25,6 +25,9 @@ sections:
 
           [Läs mer om boken på förlagets
           hemsida](https://www.johanbissemattsson.se)
+        featuredImage:
+          alt: Testbild
+          src: /img/products-grid1.jpg
         link: 'https://www.johanbissemattsson.se'
       - title: Tankeexperiment i Fyskikaktuellt
         description: >-
@@ -58,6 +61,9 @@ sections:
 
 
           [Bokens sida hos förlaget](https://www.johanbissemattsson.se)
+        featuredImage:
+          alt: Testbild
+          src: /img/products-grid1.jpg
       - title: Föreläsning om relativitetsteori
         description: >-
           Vad är det egentligen som får månen att hållas kvar i bana kring
