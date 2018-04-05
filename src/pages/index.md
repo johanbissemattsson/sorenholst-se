@@ -149,6 +149,8 @@ sections:
           * **En förrädisk könsrasism**
             Vårt samhälle värderar ännu män och kvinnor enligt en rasistisk logik, där knappt märkbara statistiska skillnader tas till intäkt för att bevara djupgående könsstereotyper.
             (Artikeln publicerad i Humanisten nr 5-6 2008)
+
+          [Alla debattinlägg](/debattinlagg)
     uid: debatt-och-samhalle
 ---
 
