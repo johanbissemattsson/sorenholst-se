@@ -45,7 +45,6 @@ a:hover {
 .site-nav-container {
   display: flex;
   align-items: center;
-  background: #333345;
   min-height: 96px;
 }
 
@@ -120,7 +119,6 @@ a:hover {
 }
 
 .index-header-container {
-  background: #333345;
   display: flex;
 }
 
@@ -201,10 +199,6 @@ a:hover {
 
 .index-description {
   color: rgba(255, 255, 255, 0.5);
-}
-
-.site-footer-container {
-  background: #333345;
 }
 
 .site-footer {
@@ -333,10 +327,6 @@ a:hover {
   height: auto;  
 }
 
-.page-container {
-  background: #fff;
-}
-
 .page-title {
   margin: 0 auto;
   padding: 0 5%;
@@ -355,6 +345,7 @@ a:hover {
 
 .page-article {
   padding: 3em 0 4.5em 0;
+  background: #fff;
 }
 
 .section-header-content {
