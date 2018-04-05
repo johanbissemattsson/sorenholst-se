@@ -6,7 +6,7 @@ description: >-
   Jag är teoretisk fysiker verksam vid fysikinstitutionen vid Stockholms
   Universitet, Fysikum. Till mina huvudintressen inom fysiken hör
   relativitetsteori och kvantfysik.
-portraitImage: /img/coffee.png
+portraitImage: /img/bakgrund01.png
 sections:
   - title: Tankeexperiment
     description: >-
@@ -27,7 +27,7 @@ sections:
           hemsida](http://fritanke.se/bocker/tankar-som-andrar-allt-2/)
         featuredImage:
           alt: Tankar som förändrar allt
-          src: /img/products-grid1.jpg
+          src: /img/bakgrund01.png
         link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
       - title: Tankeexperiment i Fyskikaktuellt
         description: >-
@@ -41,7 +41,7 @@ sections:
           [Alla artiklar från Fysikaktuellt](/in-english)
         featuredImage:
           alt: Tankeexperiment
-          src: /img/meeting-space.png
+          src: /img/bakgrund01.png
         link: /tankeexperiment
     uid: tankeexperiment
   - title: Relativitetsteori
@@ -63,7 +63,7 @@ sections:
           [Instuderingsfrågor till boken](/rumtid/#instuderingsfragor)
         featuredImage:
           alt: Rumtid – en introduktion till Einsteins relativitetsteori
-          src: /img/products-grid1.jpg
+          src: /img/bakgrund01.png
         link: /rumtid
       - title: Föreläsning om relativitetsteori
         description: >-
@@ -81,7 +81,7 @@ sections:
           [Titta på föreläsningen](https://www.youtube.com/watch?v=xluTDeLls_Q)
         featuredImage:
           alt: Föreläsning om relativitetsteori
-          src: /img/meeting-space.png
+          src: /img/bakgrund01.png
         link: 'https://www.youtube.com/watch?v=xluTDeLls_Q'
     uid: relativitetsteori
   - title: Undervisning
@@ -115,7 +115,7 @@ sections:
           sommaren 2018.
         featuredImage:
           alt: Kurser
-          src: /img/meeting-space.png
+          src: /img/bakgrund01.png
       - title: STINT Programme for Excellence in Teaching
         description: >-
           Hösten 2007 vistades jag vid Skidmore College i Saratoga Springs, New
@@ -138,7 +138,7 @@ sections:
           Krönika om min vistelse vid Skidmore College
         featuredImage:
           alt: STINT Programme for Excellence in Teaching
-          src: /img/tutorials.png
+          src: /img/bakgrund01.png
     uid: undervisning
   - title: Debatt och samhälle
     description: >-
