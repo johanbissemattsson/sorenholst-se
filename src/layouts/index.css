@@ -3,7 +3,7 @@ body {
   font-size: 14px;
   line-height: 1.5;
   color: #333;
-  background: #333345;
+  background: #335575;
 }
 
 h1, h2, h3 {
@@ -356,7 +356,8 @@ ul li h2 {
 
 .featured-image {
   width: 100%;
-  height: auto;  
+  height: auto;
+  max-width: 460px;
 }
 
 .page-title {
