@@ -3,11 +3,16 @@ import PropTypes from 'prop-types';
 import * as ReactScroll from 'react-scroll';
 import Content, { HTMLContent } from '../components/Content';
 import Link from '../components/Link';
+import Remark from 'remark';
+import html from 'remark-html';
 
 const ScrollLink = ReactScroll.Link;
 
 export const IndexPageTemplate = ({ title, subtitle, description, sections, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
+
+  const convertMarkdownToHtml = ((markdownString) => Remark().use(html).processSync(markdownString, ((err, file) => file)).contents);
+
   return (
     <div className='index page'>
     <div className='index-header-container'>
@@ -24,26 +29,23 @@ export const IndexPageTemplate = ({ title, subtitle, description, sections, cont
       </div>
       {sections && sections.length &&
         sections.map((section, sectionIndex) => {
-          const SectionDescription = contentComponent || Content;
           return (
             <div className='page-section-container' key={sectionIndex}>
               <section className='page-section' id={section.uid}>
                 <header className='section-header'>
                   <h2><ScrollLink className='section-link' activeClass='active' to={section.uid} spy={true} smooth={true} duration={500}>{section.title}</ScrollLink></h2>
-                  <SectionDescription className='section-header-content' content={section.description} />
+                  <PageContent className='section-header-content' content={convertMarkdownToHtml(section.description)} />
                 </header>
                 {section.sectionItems && section.sectionItems.length &&
                   <div className={'section-items items-' + section.sectionItems.length}>
                    {section.sectionItems.map((sectionItem, sectionItemIndex) => {
-                    const SectionItemDescription = contentComponent || Content;
-                    console.log(sectionItem);
                     return (
                       <div className='section-item' key={sectionItemIndex}>
                         {sectionItem.link ?
                           <Link to={sectionItem.link} className='section-item-link'>
                             {sectionItem.featuredImage &&
                               <div className='featured-image-container'>
-                                <img className='featured-image' src={sectionItem.featuredImage[0].src} width='448' height='280' alt={sectionItem.featuredImage[0].alt} />
+                                <img className='featured-image' src={sectionItem.featuredImage.src} width='448' height='280' alt={sectionItem.featuredImage.alt} />
                               </div>
                             }
                             {sectionItem.title && <h3>{sectionItem.title}</h3>}
@@ -52,13 +54,13 @@ export const IndexPageTemplate = ({ title, subtitle, description, sections, cont
                           <div>
                             {sectionItem.featuredImage &&
                               <div className='featured-image-container'>
-                                <img className='featured-image' src={sectionItem.featuredImage[0].src} width='448' height='280' alt={sectionItem.featuredImage[0].alt} />
+                                <img className='featured-image' src={sectionItem.featuredImage.src} width='448' height='280' alt={sectionItem.featuredImage.alt} />
                               </div>
                             }
                             {sectionItem.title && <h3>{sectionItem.title}</h3>}
                           </div>
                         }
-                        {sectionItem.description && <SectionItemDescription className='section-item-content'  content={sectionItem.description}/> }
+                        {sectionItem.description && <PageContent className='section-item-content'  content={convertMarkdownToHtml(sectionItem.description)}/> }
                       </div>
                     );
                   })}
@@ -93,7 +95,7 @@ IndexPageTemplate.propTypes = {
 }
 
 const IndexPage = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <IndexPageTemplate

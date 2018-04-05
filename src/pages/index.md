@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Index
+title: Sören Holst
 subtitle: 'Teoretisk fysiker, föreläsare och lorem ipsum'
 description: >-
   Jag är teoretisk fysiker verksam vid fysikinstitutionen vid Stockholms

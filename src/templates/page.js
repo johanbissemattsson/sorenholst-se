@@ -25,6 +25,7 @@ PageTemplate.propTypes = {
 
 const Page = ({ data }) => {
   const { markdownRemark: post } = data
+  console.log(post);
 
   return (
     <PageTemplate
