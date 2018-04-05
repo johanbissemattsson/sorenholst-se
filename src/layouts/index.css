@@ -80,7 +80,7 @@ ul li h2 {
   flex: 1;
   margin: 0 auto;
   padding: 0 5%;
-  max-width: 1140px;
+  max-width: 1024px;
 }
 
 .site-nav .nav-items {
@@ -160,7 +160,7 @@ ul li h2 {
   flex: 1;
   margin: 0 auto;
   padding: 0 5%;
-  max-width: 1140px;
+  max-width: 1024px;
   display: flex;
   flex-direction: column;
 }
@@ -238,7 +238,7 @@ ul li h2 {
 .site-footer {
   margin: 0 auto;
   padding: 2.5em 5%;
-  max-width: 1140px;
+  max-width: 1024px;
   color: #fff;
 }
 
@@ -284,7 +284,7 @@ ul li h2 {
 .page-section {
   margin: 0 auto;
   padding: 3em 5%;
-  max-width: 1140px;
+  max-width: 1024px;
 }
 
 .section-header {
