@@ -94,25 +94,14 @@ sections:
            Här är de kurser som är aktuella för närvarande:
 
           * ## [Mekanik
-          II](http://www.fysik.su.se/studentportal/kursinformation/schema/kursfakta.php?kurs=FK3014)
+          II](https://www.fysik.su.se/utbildning/program-kurser/kursinformation/kursfakta-och-scheman)
             Kursen ingår som delkurs i Klassisk Fysik (30 hp), den första fysikkursen på Fysikums kandidatprogram.
           * ## [Allmän relativitetsteori](/generalrelativity)
-
-          Kurs på masternivå om Einsteins teori, som visar hur fenomenet
-          gravitation inte är en kraft, utan måste förstås som en effekt av
-          rumtidens krökning.
-
+            Kurs på masternivå om Einsteins teori, som visar hur fenomenet gravitation inte är en kraft, utan måste förstås som en effekt av rumtidens krökning.
           * ## [Sommarkurs i Relativitetsteori](/relativitetsteori)
-
-          Kursen förklarar den speciella relativitetsteorin med ett minimum av
-          matematik och ger även en kortfattad introduktion till den allmänna
-          relativitetsteorin. Kursen vilar för tillfället.
-
+            Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
           * ## [Tankeexperiment i fysiken](/tankeexperiment)
-
-          Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har
-          spelat genom fysikhistorien, från Galileo och framåt. Kursen ges
-          sommaren 2018.
+            Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
         featuredImage:
           alt: Kurser
           src: /img/bakgrund01.png
