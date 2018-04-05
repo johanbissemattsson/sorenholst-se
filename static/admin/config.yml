@@ -49,6 +49,7 @@ collections:
         fields:
           - {label: 'Title', name: 'title', widget: 'string'}
           - {label: 'Description', name: 'description', widget: 'markdown'}
+          - {label: 'UID (used for anchor links)', name: 'uid', widget: 'string'}          
           - label: 'Section items'
             name: 'sectionItems'
             widget: 'list'
@@ -61,4 +62,4 @@ collections:
                 widget: 'object'
                 fields:
                   - {label: 'Image', name: 'src', widget: 'image'}
-                  - {label: 'Alt text', name: 'alt', widget: 'string'}
+                  - {label: 'Image alt text', name: 'alt', widget: 'string'}
