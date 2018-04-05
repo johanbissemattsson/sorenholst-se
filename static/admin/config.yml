@@ -40,7 +40,8 @@ collections:
       - {label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'index-page'}
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Subtitle', name: 'subtitle', widget: 'string'}
-      - {label: 'Description', name: 'description', widget: 'markdown'}      
+      - {label: 'Description', name: 'description', widget: 'markdown'}
+      - {label: 'Portrait image', name: 'portraitImage', widget: 'image'}
       - {label: 'Body', name: 'body', widget: 'hidden'}
       - label: 'Sections'
         name: 'sections'
