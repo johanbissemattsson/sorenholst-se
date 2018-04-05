@@ -36,10 +36,22 @@ ul li h2 {
   margin-bottom: -1em;
 }
 
+.section-item ul {
+  padding-left: 0;
+}
+
+.section-item ul li {
+  margin-left: 1em;
+}
+
 @media only screen and (min-width: 960px) {
   ul li h2 {
     font-size: 1.142857142857143em;
     margin-bottom: -0.875em;
+  }
+
+  .section-item ul li {
+    margin-left: 1.142857142857143em;
   }
 }
 
