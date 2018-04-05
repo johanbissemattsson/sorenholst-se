@@ -204,7 +204,6 @@ ul li h2 {
   }
 }
 .project-image {
-  background: rebeccapurple;
   height: 100px;
 }
 
@@ -353,10 +352,6 @@ ul li h2 {
   .section-item-content {
     font-size: 0.875em;
   }
-}
-
-.featured-image-container {
-  background: red;
 }
 
 .featured-image {
