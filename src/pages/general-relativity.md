@@ -24,7 +24,7 @@ This course is about this remarkable discovery: what it means, how the theory ca
 
 Please note that these notes are written primarily for myself as support during the lecture. Their content may therefore not be understandable for someone who didn't attend the lecture. (The first page is usually a summary of the content of the lecture. Green text are things that I say but not write on the board. Pink question marks are things that I may ask during the lecture.) 
 
-* Notes to lecture 1
+* [Notes to lecture 1](/img/lecture1.pdf)
 * Notes to lecture 2
 * Notes to lecture 3
 * Notes to lecture 4
