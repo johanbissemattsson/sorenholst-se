@@ -3,7 +3,7 @@ body {
   font-size: 14px;
   line-height: 1.5;
   color: #333;
-  background: #335575;
+  background: linear-gradient(to top, #8fbf99 0%,#a7cfdf 49%,#23538a 100%);
 }
 
 h1, h2, h3 {
@@ -348,9 +348,14 @@ ul li h2 {
 @media only screen and (min-width: 960px) {
   .section-item {
     font-size: 1em;
+    max-width: 512px;
   }
   .section-item-content {
     font-size: 0.875em;
+  }
+
+  .items-1 .section-item:first-of-type {
+    padding-left: 0;
   }
 }
 
