@@ -129,8 +129,8 @@ sections:
           Krönika om min vistelse vid Skidmore College
     title: Undervisning
     description: >-
-      Jag undervisar på Fysikums kandidatprogram i fysik och håller även
-      sommarkurser.
+      Jag undervisar på såväl kandidat- som masternivå på Fysikum, och håller
+      även sommarkurser.
     uid: undervisning
   - sectionItems:
       - description: |-
