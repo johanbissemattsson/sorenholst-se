@@ -1,20 +1,19 @@
 ---
 templateKey: index-page
 title: Sören Holst
-subtitle: 'Teoretisk fysiker, föreläsare och lorem ipsum'
+subtitle: 'Teoretisk fysiker, författare och föreläsare'
 description: >-
   Jag är teoretisk fysiker verksam vid fysikinstitutionen vid Stockholms
-  Universitet, Fysikum. Till mina huvudintressen inom fysiken hör
-  relativitetsteori och kvantfysik.
+  Universitet, [Fysikum](https://www.fysik.su.se). Till mina huvudintressen inom
+  fysiken hör relativitetsteori och kvantfysik.
 portraitImage: /img/bakgrund01.png
 sections:
-  - title: Tankeexperiment
-    description: >-
-      Att utföra tankeexperiment är ett vanligt sätt att resonera inom fysik och
-      filosofi. Det är också något som jag fascinerats av lorem ipsum ad est
-      dolores est finalique voriste quantum domingo ad est.
-    sectionItems:
-      - title: Tankar som ändrar allt
+  - sectionItems:
+      - featuredImage:
+          alt: Tankar som förändrar allt
+          src: /img/bakgrund01.png
+        link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
+        title: Tankar som ändrar allt
         description: >-
           Hösten 2012 kom min bok _Tankar som ändrar allt_. Om tankeexperiement
           och nya världsbilder ut på Fri Tanke förlag. Boken handlar om hur
@@ -25,11 +24,11 @@ sections:
 
           [Läs mer om boken på förlagets
           hemsida](http://fritanke.se/bocker/tankar-som-andrar-allt-2/)
-        featuredImage:
-          alt: Tankar som förändrar allt
+      - featuredImage:
+          alt: Tankeexperiment
           src: /img/bakgrund01.png
-        link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
-      - title: Tankeexperiment i Fyskikaktuellt
+        link: /tankeexperiment
+        title: Tankeexperiment i Fyskikaktuellt
         description: >-
           Under avdelningen _"Tankeexperiment"_ i Svenska Fysikersamfundets
           tidskrift Fysikaktuellt har jag i en serie nummer skrivit om olika
@@ -39,17 +38,20 @@ sections:
 
 
           [Alla artiklar från Fysikaktuellt](/in-english)
-        featuredImage:
-          alt: Tankeexperiment
-          src: /img/bakgrund01.png
-        link: /tankeexperiment
-    uid: tankeexperiment
-  - title: Relativitetsteori
+    title: Tankeexperiment
     description: >-
-      Relativitetsteori är ett av mina huvudintressen inom fysiken och fördjupat
-      mig, håller årligen förlaäsningar ipsum.
-    sectionItems:
-      - title: Bok i relativitetsteori
+      Inom vetenskap och filosofi använder man sig ibland av tankeexperiment,
+      dvs. en sorts tankelekar. Trots att de ofta handlar om orealistiska
+      situationer visar de sig vara förvånansvärt användbara, inte minst inom
+      fysik. Men hur kan man lära sig något om världen genom att experimentera i
+      tanken?
+    uid: tankeexperiment
+  - sectionItems:
+      - featuredImage:
+          alt: Rumtid – en introduktion till Einsteins relativitetsteori
+          src: /img/bakgrund01.png
+        link: /rumtid
+        title: Bok i relativitetsteori
         description: >-
           Våren 2006 kom min bok _Rumtid – en introduktion till Einsteins
           relativitetsteori_ ut. I Boken förklaras den speciella
@@ -61,11 +63,11 @@ sections:
 
 
           [Instuderingsfrågor till boken](/rumtid/#instuderingsfragor)
-        featuredImage:
-          alt: Rumtid – en introduktion till Einsteins relativitetsteori
+      - featuredImage:
+          alt: Föreläsning om relativitetsteori
           src: /img/bakgrund01.png
-        link: /rumtid
-      - title: Föreläsning om relativitetsteori
+        link: 'https://www.youtube.com/watch?v=xluTDeLls_Q'
+        title: Föreläsning om relativitetsteori
         description: >-
           Vad är det egentligen som får månen att hållas kvar i bana kring
           jorden, och vad är det som gör att äpplen faller till marken? En
@@ -79,17 +81,17 @@ sections:
 
 
           [Titta på föreläsningen](https://www.youtube.com/watch?v=xluTDeLls_Q)
-        featuredImage:
-          alt: Föreläsning om relativitetsteori
-          src: /img/bakgrund01.png
-        link: 'https://www.youtube.com/watch?v=xluTDeLls_Q'
-    uid: relativitetsteori
-  - title: Undervisning
+    title: Relativitetsteori
     description: >-
-      Jag undervisar på Fysikums kandidatprogram i fysik och håller även
-      sommarkurser.
-    sectionItems:
-      - title: Kurser
+      De båda relativitetsteorierna – den speciella och den allmänna –
+      formulerades av Einstein för över hundra år sedan, men utgör än idag två
+      av grundstenarna inom modern fysik.
+    uid: relativitetsteori
+  - sectionItems:
+      - featuredImage:
+          alt: Kurser
+          src: /img/bakgrund01.png
+        title: Kurser
         description: >2-
            Här är de kurser som är aktuella för närvarande:
 
@@ -102,10 +104,10 @@ sections:
             Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
           * ## [Tankeexperiment i fysiken](/tankeexperiment)
             Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
-        featuredImage:
-          alt: Kurser
+      - featuredImage:
+          alt: STINT Programme for Excellence in Teaching
           src: /img/bakgrund01.png
-      - title: STINT Programme for Excellence in Teaching
+        title: STINT Programme for Excellence in Teaching
         description: >-
           Hösten 2007 vistades jag vid Skidmore College i Saratoga Springs, New
           York, inom ramen för stiftelsen STINT's 'Programme for Excellence in
@@ -125,16 +127,12 @@ sections:
           Rapport från min vistelse vid Skidmore College
 
           Krönika om min vistelse vid Skidmore College
-        featuredImage:
-          alt: STINT Programme for Excellence in Teaching
-          src: /img/bakgrund01.png
-    uid: undervisning
-  - title: Debatt och samhälle
+    title: Undervisning
     description: >-
-      När jag engagerar mig i samhällsdebatten handlar det ofta om frågor som
-      rör religion, vetenskap, mänskliga rättigheter och jämställdhet. Här är
-      några exempel på artiklar jag skrivit:
-    sectionItems:
+      Jag undervisar på Fysikums kandidatprogram i fysik och håller även
+      sommarkurser.
+    uid: undervisning
+  - sectionItems:
       - description: |-
           * ## Humanismen - en tro bland andra?
             Humanismen och den humanistiska rörelsen framställs allt oftare som en alternativ religion. Inom organisationen hävdar vissa att humanismen erbjuder allt som religionerna erbjuder - men utan Gud - samt att man måste framhålla "det positiva i livsåskådningen, det vi tror på". Utanför organisationen framhåller andra (skadeglatt) att humanismen håller på att utvecklas till en "ateistisk tro". Jag ser med oro på dessa missuppfattningar om vad humanismen är och bör vara.
@@ -150,6 +148,11 @@ sections:
           * ## En förrädisk könsrasism
             Vårt samhälle värderar ännu män och kvinnor enligt en rasistisk logik, där knappt märkbara statistiska skillnader tas till intäkt för att bevara djupgående könsstereotyper.\
             (Artikeln publicerad i Humanisten nr 5-6 2008)
+    title: Debatt och samhälle
+    description: >-
+      När jag engagerar mig i samhällsdebatten handlar det ofta om frågor som
+      rör religion, vetenskap, mänskliga rättigheter och jämställdhet. Här är
+      några exempel på artiklar jag skrivit:
     uid: debatt-och-samhalle
 ---
 
