@@ -19,6 +19,8 @@ collections:
       - {label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'page'}
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Body', name: 'body', widget: 'markdown'}
+      - {label: 'Info box', name: 'bodyBox', widget: 'markdown'}
+      - {label: 'Extra content', name: 'bodyExtra', widget: 'markdown'}
   - name: 'index'
     label: 'Index Page'
     folder: 'src/pages'
@@ -56,3 +58,5 @@ collections:
                 fields:
                   - {label: 'Image', name: 'src', widget: 'image'}
                   - {label: 'Image alt text', name: 'alt', widget: 'string'}
+      - {label: 'Content under section items', name: 'more', widget: 'markdown'}
+                  
