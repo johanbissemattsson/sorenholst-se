@@ -1,5 +1,5 @@
 ---
 templateKey: page
-title: tankeexperiment
+title: Tankeexperiment
 ---
 Hej
