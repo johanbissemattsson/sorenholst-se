@@ -21,6 +21,15 @@ collections:
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Info box', name: 'bodyBox', widget: 'markdown', required: false}
       - {label: 'Extra content', name: 'bodyExtra', widget: 'markdown', required: false}
+      - label: 'List content (with images)'
+        name: 'sections'
+        widget: 'list'
+        required: false
+        fields:
+          - {label: 'List item title', name: 'listItemTitle', widget: 'string'}
+          - {label: 'List item content', name: 'listItemContent', widget: 'markdown', required: false}
+          - {label: 'List item image', name: 'listItemImage', widget: 'image', required: false}
+          - {label: 'List item link', name: 'listItemLink', widget: 'string', required: false}
   - name: 'index'
     label: 'Index Page'
     folder: 'src/pages'
