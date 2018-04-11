@@ -22,8 +22,7 @@ _(Publicerat i Fysikaktuellt nr 3 2009)_
 
 I mitten av 1900-talet användes tvillingparadoxen i försök att kullkasta relativitetsteorin. Än idag är det vanligt med missuppfattningar kring tankeexperimentet med de båda tvillingarna.
 
-_(Publicerat i Fysikaktuellt nr 4 2009)
-_
+_(Publicerat i Fysikaktuellt nr 4 2009)_
 
 - - -
 
