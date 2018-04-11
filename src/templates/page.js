@@ -11,7 +11,7 @@ export const PageTemplate = ({ title, content, contentComponent }) => {
       <Helmet title={title + ' | Sören Holst'} />
       <article className='page-article'>
         <h1 className='page-title'>{title}</h1>
-        <PageContent className='page-content' content={content} />
+        <PageContent className='page-content' content={content.replace(/\\/g, '  ')} />
       </article>
     </div>
   )
