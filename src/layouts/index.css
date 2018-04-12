@@ -3,7 +3,7 @@ body {
   font-size: 14px;
   line-height: 1.5;
   color: #333;
-  background: linear-gradient(to top, #8fbf99 0%,#a7cfdf 49%,#23538a 100%);
+  background: red;
 }
 
 h1, h2, h3 {
@@ -12,6 +12,7 @@ h1, h2, h3 {
 
 h2 {
   font-size: 1.5em;
+  margin: 1em 0 0.5em 0;
 }
 
 img {
@@ -38,7 +39,7 @@ ul li h2 {
 
 .section-item ul {
   margin: 0;
-  padding-left: 0;
+  padding-left: 0.5em;
 }
 
 .section-item ul li {
@@ -234,6 +235,14 @@ ul li h2 {
   color: rgba(255, 255, 255, 0.5);
 }
 
+.index-description a {
+  color: inherit;
+}
+
+.site-footer-container {
+  background: red;
+}
+
 .site-footer {
   margin: 0 auto;
   padding: 2.5em 5%;
@@ -402,5 +411,118 @@ ul li h2 {
   .section-header-content {
     font-size: 1.125em;
   }
+}
+
+
+.site-background-container {
+  background: red;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  min-height: 61.8vh;
+  padding-top: 96px;
+
+}
+
+.site-background {
+  min-height: 61.8vh;
+  width: 100%;
+}
+
+.box-container {
+  background: #ffffdd;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  border-radius: 2px;
+  padding: 0.25em 0 1.75em 0;
+  font-size: 0.875em;
+}
+
+.box {
+  padding: 0 5%;
+}
+.box ul {
+  padding-left: 0.5em;
+}
+
+.box ul li {
+  margin-left: 1em;
+}
+
+@media only screen and (min-width: 768px) {
+  .page-content.extra {
+    font-size: 1em;
+  }
+}
+
+
+@media only screen and (min-width: 768px) {
+  .box {
+    padding: 0 3.75%;
+  }
+
+  .box-container {
+    background: #ffffdd;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    border-radius: 2px;
+    margin: 0 -3.75%;
+    padding: 0.125em 0 1.875em 0;
+
+  }
+}
+
+.page-content .content-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.page-content .content-list li {
+  border-bottom: 1px solid #ccc;
+  padding: 1em 0;
+
+}
+
+.page-content .content-list li:first-child {
+  padding-top: 0;
+}
+
+.page-content .content-list li:last-child {
+  border-bottom: none;
+}
+
+.list-item-image-container {
+  margin-bottom: 1em;
+}
+
+@media only screen and (min-width: 640px) {
+  .page-content .content-list li {
+    display: flex;
+    font-size: 0.875em;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5em 0 2.5em 0;
+  }
+
+  .page-content .content-list li > * {
+    flex: 1;
+  }
+
+  .list-item-content-container {
+    padding-left: 5%;
+  }
+
+  .list-item-image-container {
+    padding-right: 5%;
+    align-self: flex-start;
+    margin-bottom: 0;
+  }
+
+}
+
+.list-page .page-title,
+.list-page .page-content {
+  max-width: 1024px;
 }
 

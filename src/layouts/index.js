@@ -30,6 +30,9 @@ export default class TemplateWrapper extends Component {
         <Nav isIndex={isIndex}/>
         <div className='page-container'>{children()}</div>
         <Footer />
+        <div className='site-background-container'>
+          <div className='site-background' />
+        </div>
       </div>
     );
   }

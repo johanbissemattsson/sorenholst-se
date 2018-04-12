@@ -38,7 +38,6 @@ collections:
     filter: {field: 'templateKey', value: 'index-page'}
     extension: 'md'
     slug: '{{slug}}'
-    create: false
     editor:
       preview: false    
     fields:
