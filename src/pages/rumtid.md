@@ -35,9 +35,9 @@ bodyBox: |-
 
   ## Svar till övningsuppgifter
 
-  * Svar rumtidsdiagram
-  * Svar tidsdilatation och rumtidsgeometri
-  * Svar energi och massa
+  * [Svar rumtidsdiagram](#)
+  * [Svar tidsdilatation och rumtidsgeometri](#)
+  * [Svar energi och massa](#)
 bodyExtra: ''
 ---
 På denna sida hittar du instuderingsfrågor till boken, samt blandade övningsuppgifter och problem anpassade till bokens framställning.
