@@ -47,4 +47,4 @@ list:
     listItemImage: /img/bakgrund01.png
     listItemTitle: Einsteins paradoxala fotonvägning
 ---
-##
+Nedan följer alla artiklar från Svenska Fysikersamfundets tidskrift [Fysikaktuellt](http://www.fysikersamfundet.se/fysikaktuellt.html):
