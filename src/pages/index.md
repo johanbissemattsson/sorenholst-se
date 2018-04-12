@@ -138,6 +138,7 @@ sections:
       När jag engagerar mig i samhällsdebatten handlar det ofta om frågor som
       rör religion, vetenskap, mänskliga rättigheter och jämställdhet. Här är
       några exempel på artiklar jag skrivit:
+    more: '[Fler artiklar](/alla-artiklar)'
     sectionItems:
       - description: |-
           * ## [Humanismen - en tro bland andra?](#)
@@ -155,6 +156,5 @@ sections:
             Vårt samhälle värderar ännu män och kvinnor enligt en rasistisk logik, där knappt märkbara statistiska skillnader tas till intäkt för att bevara djupgående könsstereotyper.\
             (Artikeln publicerad i Humanisten nr 5-6 2008)
     uid: debatt-och-samhalle
-more: '[Läs alla artiklar](#)'
 ---
 
