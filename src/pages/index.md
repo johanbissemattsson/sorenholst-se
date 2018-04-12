@@ -107,7 +107,7 @@ sections:
             Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
         featuredImage:
           alt: Kurser
-          src: /img/undervisning.png
+          src: /img/kurser.jpg
       - title: STINT Programme for Excellence in Teaching
         description: >-
           Hösten 2007 vistades jag vid Skidmore College i Saratoga Springs, New
