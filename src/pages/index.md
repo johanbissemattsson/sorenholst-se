@@ -127,6 +127,7 @@ sections:
 
           [Rapport från min vistelse vid Skidmore College](#)
 
+
           [Krönika om min vistelse vid Skidmore College](#)
         featuredImage:
           alt: STINT Programme for Excellence in Teaching
