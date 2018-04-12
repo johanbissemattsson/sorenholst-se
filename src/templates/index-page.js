@@ -8,7 +8,7 @@ import html from 'remark-html';
 
 const ScrollLink = ReactScroll.Link;
 
-export const IndexPageTemplate = ({ title, subtitle, description, sections, content, contentComponent }) => {
+export const IndexPageTemplate = ({ title, subtitle, description, sections, content, contentComponent, portraitImage}) => {
   const PageContent = contentComponent || Content;
 
   const convertMarkdownToHtml = ((markdownString) => Remark().use(html).processSync(markdownString.replace(/\\/g, '  '), ((err, file) => err ? {contents: '' } : file)).contents);
@@ -23,7 +23,7 @@ export const IndexPageTemplate = ({ title, subtitle, description, sections, cont
             <PageContent className='index-description' content={convertMarkdownToHtml(description)} />
           </div>
           <div className='portrait-image-container'>
-            <img src='aaa.jpg' className='project-image' alt='Sören Holst' height={1100} width={1110}/>
+            <img src={portraitImage.childImageSharp.sizes.src} className='portrait-image' alt='Sören Holst' />
           </div>
         </header>
       </div>
@@ -105,6 +105,7 @@ const IndexPage = ({ data }) => {
       description={post.frontmatter.description}
       sections={post.frontmatter.sections}
       content={post.html}
+      portraitImage={post.frontmatter.portraitImage}
     />
   )
 }
@@ -123,6 +124,23 @@ export const indexPageQuery = graphql`
         title
         subtitle
         description
+        portraitImage {
+          id
+          childImageSharp {
+            sizes {
+              base64
+              tracedSVG
+              aspectRatio
+              src
+              srcSet
+              srcWebp
+              srcSetWebp
+              sizes
+              originalImg
+              originalName
+            }
+          }
+        }
         sections {
           title
           uid

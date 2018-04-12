@@ -134,7 +134,7 @@ ul li h2 {
 
 .site-nav .nav-link {
   cursor: pointer;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.875);
   text-decoration: none;
   transition: color 0.25s;
 }
@@ -232,15 +232,16 @@ ul li h2 {
 }
 
 .index-description {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.875);
 }
 
 .index-description a {
   color: inherit;
 }
 
+.site-background-container,
 .site-footer-container {
-  background: red;
+  background: #8497c6;
 }
 
 .site-footer {
@@ -260,17 +261,15 @@ ul li h2 {
 
 .site-footer .contact-information {
   display: flex;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.875);
 }
 
 .site-footer .contact-information a {
-  color: rgba(255, 255, 255, 0.75);
-  text-decoration: none;
+  color: rgba(255, 255, 255, 0.875);
 }
 
 .site-footer .contact-information a:hover {
   color: rgba(255, 255, 255, 1);
-  text-decoration: underline;
 }
 
 .site-footer .contact-information section > *:first-child {
@@ -282,11 +281,11 @@ ul li h2 {
 }
 
 .page-section-container:nth-child(odd){
-  background: #fff;
+  background: #f9f9ff;
 }
 
 .page-section-container:nth-child(even){
-  background: #ebebeb;
+  background: #f0f0f7;
 }
 
 .page-section {
@@ -415,7 +414,6 @@ ul li h2 {
 
 
 .site-background-container {
-  background: red;
   height: 100px;
   width: 100%;
   position: absolute;
