@@ -131,7 +131,7 @@ sections:
           [Krönika om min vistelse vid Skidmore College](#)
         featuredImage:
           alt: STINT Programme for Excellence in Teaching
-          src: /img/skidmore.png
+          src: /img/skidmore-stor.jpg
     uid: undervisning
   - title: Debatt och samhälle
     description: >-
