@@ -23,7 +23,7 @@ export const IndexPageTemplate = ({ title, subtitle, description, sections, cont
             <PageContent className='index-description' content={convertMarkdownToHtml(description)} />
           </div>
           <div className='portrait-image-container'>
-            <img src={portraitImage.childImageSharp.sizes.src} className='portrait-image' alt='Sören Holst' />
+            <img src={portraitImage} className='portrait-image' alt='Sören Holst' />
           </div>
         </header>
       </div>
@@ -124,23 +124,7 @@ export const indexPageQuery = graphql`
         title
         subtitle
         description
-        portraitImage {
-          id
-          childImageSharp {
-            sizes {
-              base64
-              tracedSVG
-              aspectRatio
-              src
-              srcSet
-              srcWebp
-              srcSetWebp
-              sizes
-              originalImg
-              originalName
-            }
-          }
-        }
+        portraitImage
         sections {
           title
           uid

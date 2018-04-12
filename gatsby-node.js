@@ -45,8 +45,33 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     })
   })
 }
+/*
+const adminConfig = {
+  media_folder: 'static/img',
+  public_folder: '/img'
+}
 
-exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
+
+const adjustImagePath = nodePath => image => {
+  if (_.isString(image)) {
+    if (image.indexOf(adminConfig.public_folder) === 0) {
+      const nextImage = path.relative(
+        path.dirname(nodePath),
+        path.join(
+          __dirname,
+          adminConfig.media_folder,
+          image.substr(adminConfig.public_folder.length)
+        )
+      )
+      console.log('Adjusted image path', nextImage)
+      return nextImage
+    }
+  }
+  consoel.log(image);
+  return image
+}
+*/
+exports.onCreateNode = ({ node, boundActionCreators, getNode, loadNodeContent }) => {
   const { createNodeField } = boundActionCreators
 
   if (node.internal.type === `MarkdownRemark`) {
@@ -57,8 +82,21 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
       value,
     })
   }
-}
+/*
+  const { frontmatter } = node;
 
+  if (frontmatter) {
+    const adjust = adjustImagePath(node.fileAbsolutePath);
+    const { portraitImage } = frontmatter;
+    if (portraitImage) {
+        console.log('before',node.frontmatter.portraitImage );
+        node.frontmatter.portraitImage = adjust(portraitImage);
+        console.log('after',adjust(portraitImage));
+
+    }
+  }
+  */
+}
 /*
 const _ = require('lodash')
 const path = require('path')
