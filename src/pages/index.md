@@ -125,9 +125,9 @@ sections:
           och av det amerikanska samhället i stort.
 
 
-          Rapport från min vistelse vid Skidmore College
+          [Rapport från min vistelse vid Skidmore College](#)
 
-          Krönika om min vistelse vid Skidmore College
+          [Krönika om min vistelse vid Skidmore College](#)
         featuredImage:
           alt: STINT Programme for Excellence in Teaching
           src: /img/bakgrund01.png
