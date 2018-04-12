@@ -27,18 +27,25 @@ list:
     listItemImage: /img/bakgrund01.png
     listItemTitle: Schrödingers katt
   - listItemContent: "På hösten 1668 tar The Royal Society of London initiativ till en diskussion om de naturlagar som styr kollisioner mellan kroppar. En av dem som tar sig an frågan är den holländske fysikern och matematikern Christiaan Huygens (1629 - 1695), och han gör det med hjälp av ett tankeexperiment.\r\n\n(Publicerat i Fysikaktuellt nr 3 2010)"
+    listItemImage: /img/bakgrund01.png
     listItemTitle: Huygens kolliderande klot
   - listItemContent: "I populärvetenskapliga sammanhang nämns ibland att Einstein fantiserade om att rida på en ljuspuls. Men sällan förklaras vad han kan ha fått ut av tankeleken.\r\n\n(Publicerat i Fysikaktuellt nr 4 2010)"
+    listItemImage: /img/bakgrund01.png
     listItemTitle: Einstein rider på en ljuspuls
   - listItemContent: "Ett av Galileo Galileis livsverk blev att övertyga samtiden om att det är solen och inte jorden som befinner sig i vårt planetsystems centrum. Ett par tankeexperiment intar en central plats i hans argumentation.\r\n\n(Publicerat i Fysikaktuellt nr 1 2011)"
+    listItemImage: /img/bakgrund01.png
     listItemTitle: Galilei och den relativa rörelsen
   - listItemContent: "Albert Einstein kunde inte acceptera kvantfysikens besynnerliga bild av verkligheten. Han vägrade tro att fysikens grundläggande processer skulle vara slumpmässiga eller att naturens minsta enheter skulle vara behäftade med inneboende osäkerhet.\r\n\n(Publicerat i Fysikaktuellt nr 2 2011)"
+    listItemImage: /img/bakgrund01.png
     listItemTitle: EPR och den overkliga verkligheten
   - listItemContent: "Newtons storhet bestod i att han - med Arthur Koestlers ord - associerade ett fallande äpple inte med dess mogenhet utan med månens rörelse. För att förmedla sin insikt om den universella gravitationen tog han hjälp av ett par tankeexperiment.\r\n\n(Publicerat i Fysikaktuellt nr 3 2011)"
+    listItemImage: /img/bakgrund01.png
     listItemTitle: Newtons låtsasmåne
   - listItemContent: "Att enstaka partiklar, som exempelvis fotoner, kan interferera med sig själva tillhör ett av kvantfysikens ofta omskrivna mysterier. Mindre välkänt är en lika häpnadsväckande som oundviklig följd av detta: den roll kontrafaktiska skeenden spelar i kvantfysiken. Ett tankeexperiment, konstruerat 1993 av Avshalom Elitzur och Lev Vaidman, belyser saken.\r\n\n(Publicerat i Fysikaktuellt nr 4 2011)"
+    listItemImage: /img/bakgrund01.png
     listItemTitle: Bombproblemet
   - listItemContent: "Alla som någon gång har studerat mekanik har utsatts - kanske till leda - för lutande plan. Klossar som glider, kulor som rullar. Kroppar som rör sig nedför planet med eller utan friktion, ibland sammanlänkade med motvikter, ibland inte. Men för Galileo utgjorde det lutande planet en välkommen lösning på två besvärliga problem.\r\n\n(Publicerat i Fysikaktuellt nr 1 2012)"
+    listItemImage: /img/bakgrund01.png
     listItemTitle: Galileos "slow motion"
   - listItemContent: "Något som finns överallt, även där det råder perfekt vakuum. En sorts grundsubstans för själva rummet. Så föreställde sig fysiker etern under det sena 1800-talet. Men det fanns de som tvivlade.\r\n\n_(Publicerat i Fysikaktuellt nr 2 2012)\r_"
     listItemImage: /img/bakgrund01.png
