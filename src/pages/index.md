@@ -84,7 +84,7 @@ sections:
           [Titta på föreläsningen](https://www.youtube.com/watch?v=xluTDeLls_Q)
         featuredImage:
           alt: Föreläsning om relativitetsteori
-          src: /img/bakgrund01.png
+          src: /img/forelasning-relativitetsteori.png
         link: 'https://www.youtube.com/watch?v=xluTDeLls_Q'
     uid: relativitetsteori
   - title: Undervisning
