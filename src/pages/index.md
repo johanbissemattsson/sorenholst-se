@@ -8,12 +8,15 @@ description: >-
   fysiken hör relativitetsteori och kvantfysik.
 portraitImage: /img/bakgrund01.png
 sections:
-  - sectionItems:
-      - featuredImage:
-          alt: Tankar som förändrar allt
-          src: /img/bakgrund01.png
-        link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
-        title: Tankar som ändrar allt
+  - title: Tankeexperiment
+    description: >-
+      Inom vetenskap och filosofi använder man sig ibland av tankeexperiment,
+      dvs. en sorts tankelekar. Trots att de ofta handlar om orealistiska
+      situationer visar de sig vara förvånansvärt användbara, inte minst inom
+      fysik. Men hur kan man lära sig något om världen genom att experimentera i
+      tanken?
+    sectionItems:
+      - title: Tankar som ändrar allt
         description: >-
           Hösten 2012 kom min bok _Tankar som ändrar allt_. Om tankeexperiement
           och nya världsbilder ut på Fri Tanke förlag. Boken handlar om hur
@@ -24,11 +27,11 @@ sections:
 
           [Läs mer om boken på förlagets
           hemsida](http://fritanke.se/bocker/tankar-som-andrar-allt-2/)
-      - featuredImage:
-          alt: Tankeexperiment
+        featuredImage:
+          alt: Tankar som förändrar allt
           src: /img/bakgrund01.png
-        link: /tankeexperiment
-        title: Tankeexperiment i Fyskikaktuellt
+        link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
+      - title: Tankeexperiment i Fyskikaktuellt
         description: >-
           Under avdelningen _"Tankeexperiment"_ i Svenska Fysikersamfundets
           tidskrift Fysikaktuellt har jag i en serie nummer skrivit om olika
@@ -37,21 +40,19 @@ sections:
           artikel.
 
 
-          [Alla artiklar från Fysikaktuellt](/in-english)
-    title: Tankeexperiment
-    description: >-
-      Inom vetenskap och filosofi använder man sig ibland av tankeexperiment,
-      dvs. en sorts tankelekar. Trots att de ofta handlar om orealistiska
-      situationer visar de sig vara förvånansvärt användbara, inte minst inom
-      fysik. Men hur kan man lära sig något om världen genom att experimentera i
-      tanken?
-    uid: tankeexperiment
-  - sectionItems:
-      - featuredImage:
-          alt: Rumtid – en introduktion till Einsteins relativitetsteori
+          [Alla artiklar från Fysikaktuellt](/tankeexperiment)
+        featuredImage:
+          alt: Tankeexperiment
           src: /img/bakgrund01.png
-        link: /rumtid
-        title: Bok i relativitetsteori
+        link: /tankeexperiment
+    uid: tankeexperiment
+  - title: Relativitetsteori
+    description: >-
+      De båda relativitetsteorierna – den speciella och den allmänna –
+      formulerades av Einstein för över hundra år sedan, men utgör än idag två
+      av grundstenarna inom modern fysik.
+    sectionItems:
+      - title: Bok i relativitetsteori
         description: >-
           Våren 2006 kom min bok _Rumtid – en introduktion till Einsteins
           relativitetsteori_ ut. I Boken förklaras den speciella
@@ -63,11 +64,11 @@ sections:
 
 
           [Instuderingsfrågor till boken](/rumtid/#instuderingsfragor)
-      - featuredImage:
-          alt: Föreläsning om relativitetsteori
+        featuredImage:
+          alt: Rumtid – en introduktion till Einsteins relativitetsteori
           src: /img/bakgrund01.png
-        link: 'https://www.youtube.com/watch?v=xluTDeLls_Q'
-        title: Föreläsning om relativitetsteori
+        link: /rumtid
+      - title: Föreläsning om relativitetsteori
         description: >-
           Vad är det egentligen som får månen att hållas kvar i bana kring
           jorden, och vad är det som gör att äpplen faller till marken? En
@@ -81,33 +82,33 @@ sections:
 
 
           [Titta på föreläsningen](https://www.youtube.com/watch?v=xluTDeLls_Q)
-    title: Relativitetsteori
-    description: >-
-      De båda relativitetsteorierna – den speciella och den allmänna –
-      formulerades av Einstein för över hundra år sedan, men utgör än idag två
-      av grundstenarna inom modern fysik.
-    uid: relativitetsteori
-  - sectionItems:
-      - featuredImage:
-          alt: Kurser
+        featuredImage:
+          alt: Föreläsning om relativitetsteori
           src: /img/bakgrund01.png
-        title: Kurser
+        link: 'https://www.youtube.com/watch?v=xluTDeLls_Q'
+    uid: relativitetsteori
+  - title: Undervisning
+    description: >-
+      Jag undervisar på såväl kandidat- som masternivå på Fysikum, och håller
+      även sommarkurser.
+    sectionItems:
+      - title: Kurser
         description: >2-
            Här är de kurser som är aktuella för närvarande:
 
           * ## [Mekanik
           II](https://www.fysik.su.se/utbildning/program-kurser/kursinformation/kursfakta-och-scheman)
             Kursen ingår som delkurs i Klassisk Fysik (30 hp), den första fysikkursen på Fysikums kandidatprogram.
-          * ## [Allmän relativitetsteori](/generalrelativity)
+          * ## [Allmän relativitetsteori](/general-relativity)
             Kurs på masternivå om Einsteins teori, som visar hur fenomenet gravitation inte är en kraft, utan måste förstås som en effekt av rumtidens krökning.
-          * ## [Sommarkurs i Relativitetsteori](/relativitetsteori)
+          * ## [Sommarkurs i Relativitetsteori](/general-relativity)
             Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
           * ## [Tankeexperiment i fysiken](/tankeexperiment)
             Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
-      - featuredImage:
-          alt: STINT Programme for Excellence in Teaching
+        featuredImage:
+          alt: Kurser
           src: /img/bakgrund01.png
-        title: STINT Programme for Excellence in Teaching
+      - title: STINT Programme for Excellence in Teaching
         description: >-
           Hösten 2007 vistades jag vid Skidmore College i Saratoga Springs, New
           York, inom ramen för stiftelsen STINT's 'Programme for Excellence in
@@ -127,12 +128,16 @@ sections:
           Rapport från min vistelse vid Skidmore College
 
           Krönika om min vistelse vid Skidmore College
-    title: Undervisning
-    description: >-
-      Jag undervisar på såväl kandidat- som masternivå på Fysikum, och håller
-      även sommarkurser.
+        featuredImage:
+          alt: STINT Programme for Excellence in Teaching
+          src: /img/bakgrund01.png
     uid: undervisning
-  - sectionItems:
+  - title: Debatt och samhälle
+    description: >-
+      När jag engagerar mig i samhällsdebatten handlar det ofta om frågor som
+      rör religion, vetenskap, mänskliga rättigheter och jämställdhet. Här är
+      några exempel på artiklar jag skrivit:
+    sectionItems:
       - description: |-
           * ## Humanismen - en tro bland andra?
             Humanismen och den humanistiska rörelsen framställs allt oftare som en alternativ religion. Inom organisationen hävdar vissa att humanismen erbjuder allt som religionerna erbjuder - men utan Gud - samt att man måste framhålla "det positiva i livsåskådningen, det vi tror på". Utanför organisationen framhåller andra (skadeglatt) att humanismen håller på att utvecklas till en "ateistisk tro". Jag ser med oro på dessa missuppfattningar om vad humanismen är och bör vara.
@@ -148,11 +153,6 @@ sections:
           * ## En förrädisk könsrasism
             Vårt samhälle värderar ännu män och kvinnor enligt en rasistisk logik, där knappt märkbara statistiska skillnader tas till intäkt för att bevara djupgående könsstereotyper.\
             (Artikeln publicerad i Humanisten nr 5-6 2008)
-    title: Debatt och samhälle
-    description: >-
-      När jag engagerar mig i samhällsdebatten handlar det ofta om frågor som
-      rör religion, vetenskap, mänskliga rättigheter och jämställdhet. Här är
-      några exempel på artiklar jag skrivit:
     uid: debatt-och-samhalle
 ---
 
