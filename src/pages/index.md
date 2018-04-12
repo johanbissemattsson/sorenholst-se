@@ -6,7 +6,7 @@ description: >-
   Jag är teoretisk fysiker verksam vid fysikinstitutionen vid Stockholms
   Universitet, [Fysikum](https://www.fysik.su.se). Till mina huvudintressen inom
   fysiken hör relativitetsteori och kvantfysik.
-portraitImage: /img/bakgrund01.png
+portraitImage: /img/portratt-soren-holst.png
 sections:
   - title: Tankeexperiment
     description: >-
