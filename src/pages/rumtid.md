@@ -26,15 +26,12 @@ bodyBox: |-
 
   ## Övningsuppgifter
 
-  * **Rumtidsdiagram
-    **\
-      Övningar på att läsa av, tolka och rita rumtidsdiagram. Behandlar kapitel 1 till 5.
-  * **Tidsdilatation och rumtidsgeometri
-    **\
-      Tvillingparadoxliknande problem som har med åldrande att göra. Behandlar kapitel 1 till 5.
-  * **Energi och massa
-    **\
-      Övningar som handlar om energi och massa, och deras förhållande till världsvektorn. Behandlar kapitel 1 till 6.
+  * **Rumtidsdiagram**\
+    Övningar på att läsa av, tolka och rita rumtidsdiagram. Behandlar kapitel 1 till 5.
+  * **Tidsdilatation och rumtidsgeometr**\
+    Tvillingparadoxliknande problem som har med åldrande att göra. Behandlar kapitel 1 till 5.
+  * **Energi och massa**\
+    Övningar som handlar om energi och massa, och deras förhållande till världsvektorn. Behandlar kapitel 1 till 6.
 
   ## Svar till övningsuppgifter
 
