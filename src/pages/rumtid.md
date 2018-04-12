@@ -1,7 +1,46 @@
 ---
 templateKey: page
 title: Rumtid - en introduktion till Einsteins relativitetsteori
-bodyBox: "## Instuderingsfrågor\n\n* Instuderingsfrågor till kapitel 1 \r\n* Instuderingsfrågor till kapitel 2 \r\n* Instuderingsfrågor till kapitel 3 \r\n* Instuderingsfrågor till kapitel 4 \r\n* Instuderingsfrågor till kapitel 5 \r\n* Instuderingsfrågor till kapitel 6 \r\n* Instuderingsfrågor till kapitel 7 och 8 \r\n* Instuderingsfrågor till kapitel 9 \n\n## Svar till instuderingsfrågor\n\n* Svar till instuderingsfrågor kapitel 1 \r\n* Svar till instuderingsfrågor kapitel 2 \r\n* Svar till instuderingsfrågor kapitel 3 \r\n* Svar till instuderingsfrågor kapitel 4 \r\n* Svar till instuderingsfrågor kapitel 5 \r\n* Svar till instuderingsfrågor kapitel 6 \r\n* Svar till instuderingsfrågor kapitel 7 och 8 \r\n* Svar till instuderingsfrågor kapitel 9 \n\n## Övningsuppgifter\n\n* **Rumtidsdiagram\r**\\\n  Övningar på att läsa av, tolka och rita rumtidsdiagram. Behandlar kapitel 1 till 5.\r\n* **Tidsdilatation och rumtidsgeometri\r**\\\n  Tvillingparadoxliknande problem som har med åldrande att göra. Behandlar kapitel 1 till 5.\r\n* **Energi och massa\r**\\\n  Övningar som handlar om energi och massa, och deras förhållande till världsvektorn. Behandlar kapitel 1 till 6.\n\n## Svar till övningsuppgifter\n\n* Svar rumtidsdiagram\r\n* Svar tidsdilatation och rumtidsgeometri\r\n* Svar energi och massa"
+bodyBox: |-
+  ## Instuderingsfrågor
+
+  * [Instuderingsfrågor till kapitel 1](#)
+  * [Instuderingsfrågor till kapitel 2](#)
+  * [Instuderingsfrågor till kapitel 3](#)
+  * [Instuderingsfrågor till kapitel 4](#)
+  * [Instuderingsfrågor till kapitel 5](#)
+  * [Instuderingsfrågor till kapitel 6](#)
+  * [Instuderingsfrågor till kapitel 7 och 8](#)
+  * [Instuderingsfrågor till kapitel 9](#)
+
+  ## Svar till instuderingsfrågor
+
+  * [Svar till instuderingsfrågor kapitel 1](#)
+  * [Svar till instuderingsfrågor kapitel 2](#)
+  * [Svar till instuderingsfrågor kapitel 3](#)
+  * [Svar till instuderingsfrågor kapitel 4](#)
+  * [Svar till instuderingsfrågor kapitel 5](#)
+  * [Svar till instuderingsfrågor kapitel 6](#)
+  * [Svar till instuderingsfrågor kapitel 7 och 8](#)
+  * [Svar till instuderingsfrågor kapitel 9](#)
+
+  ## Övningsuppgifter
+
+  * **Rumtidsdiagram
+    **\
+      Övningar på att läsa av, tolka och rita rumtidsdiagram. Behandlar kapitel 1 till 5.
+  * **Tidsdilatation och rumtidsgeometri
+    **\
+      Tvillingparadoxliknande problem som har med åldrande att göra. Behandlar kapitel 1 till 5.
+  * **Energi och massa
+    **\
+      Övningar som handlar om energi och massa, och deras förhållande till världsvektorn. Behandlar kapitel 1 till 6.
+
+  ## Svar till övningsuppgifter
+
+  * Svar rumtidsdiagram
+  * Svar tidsdilatation och rumtidsgeometri
+  * Svar energi och massa
 bodyExtra: ''
 ---
 På denna sida hittar du instuderingsfrågor till boken, samt blandade övningsuppgifter och problem anpassade till bokens framställning.
