@@ -1,7 +1,7 @@
 ---
 templateKey: page
 title: Tankeexperiment
-sections:
+list:
   - listItemContent: >-
       Ett av fysikhistoriens mest välkända tankeexperiment är Galileos
       resonemang med den tunga och den lätta kroppen som får falla tillsammans.
