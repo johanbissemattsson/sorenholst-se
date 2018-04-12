@@ -68,5 +68,5 @@ collections:
                 fields:
                   - {label: 'Image', name: 'src', widget: 'image'}
                   - {label: 'Image alt text', name: 'alt', widget: 'string'}
-      - {label: 'Content under section items', name: 'more', widget: 'markdown', required: false}
+          - {label: 'Content under section items', name: 'more', widget: 'markdown', required: false}
                   

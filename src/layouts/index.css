@@ -204,8 +204,9 @@ ul li h2 {
     margin-left: -20%;
   }
 }
-.project-image {
-  height: 100px;
+.portrait-image {
+  max-height: 53vh;
+  width: auto;
 }
 
 .index-title {
