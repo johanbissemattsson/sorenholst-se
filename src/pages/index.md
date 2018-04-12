@@ -103,7 +103,7 @@ sections:
             Kurs på masternivå om Einsteins teori, som visar hur fenomenet gravitation inte är en kraft, utan måste förstås som en effekt av rumtidens krökning.
           * ## [Sommarkurs i Relativitetsteori](/general-relativity)
             Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
-          * ## [Tankeexperiment i fysiken](/tankeexperiment)
+          * ## [Tankeexperiment i fysiken](/tankeexperiment-i-fysiken)
             Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
         featuredImage:
           alt: Kurser
