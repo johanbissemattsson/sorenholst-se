@@ -1,7 +1,8 @@
 backend:
   name: git-gateway
   branch: master
-  repo: johanbissemattsson/knashemma
+  repo: johanbissemattsson/sorenholst-se
+  site_domain: location.hostname
 
 media_folder: static/img
 public_folder: /img
