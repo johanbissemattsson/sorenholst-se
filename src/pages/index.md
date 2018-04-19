@@ -85,7 +85,7 @@ sections:
         featuredImage:
           alt: Föreläsning om relativitetsteori
           src: /img/forelasning-relativitetsteori.png
-        link: '/forelasning-om-relativitetsteori'
+        link: /forelasning-om-relativitetsteori
     uid: relativitetsteori
   - title: Undervisning
     description: >-
@@ -101,7 +101,7 @@ sections:
             Kursen ingår som delkurs i Klassisk Fysik (30 hp), den första fysikkursen på Fysikums kandidatprogram.
           * ## [Allmän relativitetsteori](/general-relativity)
             Kurs på masternivå om Einsteins teori, som visar hur fenomenet gravitation inte är en kraft, utan måste förstås som en effekt av rumtidens krökning.
-          * ## [Sommarkurs i Relativitetsteori](/general-relativity)
+          * ## [Sommarkurs i Relativitetsteori](/sommarkurs-i-relativitetsteori)
             Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
           * ## [Tankeexperiment i fysiken](/tankeexperiment-i-fysiken)
             Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
