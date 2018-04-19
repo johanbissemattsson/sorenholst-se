@@ -43,7 +43,7 @@ sections:
           [Alla artiklar från Fysikaktuellt](/tankeexperiment)
         featuredImage:
           alt: Tankeexperiment
-          src: /img/bakgrund01.png
+          src: /img/tankeexperiment2.png
         link: /tankeexperiment
     uid: tankeexperiment
   - title: Relativitetsteori
@@ -81,11 +81,11 @@ sections:
           öppna föreläsningar.
 
 
-          [Titta på föreläsningen](https://www.youtube.com/watch?v=xluTDeLls_Q)
+          [Titta på föreläsningen](/forelasning-om-relativitetsteori)
         featuredImage:
           alt: Föreläsning om relativitetsteori
           src: /img/forelasning-relativitetsteori.png
-        link: 'https://www.youtube.com/watch?v=xluTDeLls_Q'
+        link: '/forelasning-om-relativitetsteori'
     uid: relativitetsteori
   - title: Undervisning
     description: >-
@@ -107,7 +107,7 @@ sections:
             Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
         featuredImage:
           alt: Kurser
-          src: /img/kurser.jpg
+          src: /img/kurser-ny.jpg
       - title: STINT Programme for Excellence in Teaching
         description: >-
           Hösten 2007 vistades jag vid Skidmore College i Saratoga Springs, New
@@ -131,14 +131,14 @@ sections:
           [Krönika om min vistelse vid Skidmore College](#)
         featuredImage:
           alt: STINT Programme for Excellence in Teaching
-          src: /img/skidmore-stor.jpg
+          src: /img/skidmore-ny.jpg
     uid: undervisning
   - title: Debatt och samhälle
     description: >-
       När jag engagerar mig i samhällsdebatten handlar det ofta om frågor som
       rör religion, vetenskap, mänskliga rättigheter och jämställdhet. Här är
       några exempel på artiklar jag skrivit:
-    more: '[Fler artiklar](/alla-artiklar)'
+    more: '[Fler artiklar](/alla-debattinlagg)'
     sectionItems:
       - description: |-
           * ## [Humanismen - en tro bland andra?](#)
@@ -154,7 +154,7 @@ sections:
             _(Artikeln publicerad på Newsmill 7 januari 2010)_
           * ## [En förrädisk könsrasism](#)
             Vårt samhälle värderar ännu män och kvinnor enligt en rasistisk logik, där knappt märkbara statistiska skillnader tas till intäkt för att bevara djupgående könsstereotyper.\
-            (Artikeln publicerad i Humanisten nr 5-6 2008)
+            _(Artikeln publicerad i Humanisten nr 5-6 2008)_
     uid: debatt-och-samhalle
 ---
 

@@ -8,11 +8,10 @@ import html from 'remark-html';
 
 const ScrollLink = ReactScroll.Link;
 
-export const IndexPageTemplate = ({ title, subtitle, description, sections, content, contentComponent, portraitImage}) => {
+export const IndexPageTemplate = ({ title, subtitle, description, sections, content, contentComponent, portraitImage }) => {
   const PageContent = contentComponent || Content;
 
   const convertMarkdownToHtml = ((markdownString) => Remark().use(html).processSync(markdownString.replace(/\\/g, '  '), ((err, file) => err ? {contents: '' } : file)).contents);
-
   return (
     <div className='index page'>
     <div className='index-header-container'>
@@ -23,7 +22,9 @@ export const IndexPageTemplate = ({ title, subtitle, description, sections, cont
             <PageContent className='index-description' content={convertMarkdownToHtml(description)} />
           </div>
           <div className='portrait-image-container'>
-            <img src={portraitImage} className='portrait-image' alt='Sören Holst' />
+            <div className='portrait-image'>
+              <img src={portraitImage} alt='Sören Holst' />
+            </div>
           </div>
         </header>
       </div>
@@ -65,6 +66,9 @@ export const IndexPageTemplate = ({ title, subtitle, description, sections, cont
                     );
                   })}
                   </div>
+                }
+                {section.more && 
+                  <PageContent className='section-more-content'  content={convertMarkdownToHtml(section.more)}/>
                 }                
               </section>
             </div>
@@ -129,6 +133,7 @@ export const indexPageQuery = graphql`
           title
           uid
           description
+          more
           sectionItems {
             title
             description

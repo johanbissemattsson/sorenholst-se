@@ -11,7 +11,9 @@
     "gatsby-plugin-netlify-cms": "^1.0.9",
     "gatsby-plugin-react-helmet": "^2.0.5",
     "gatsby-plugin-sharp": "^1.6.34",
+    "gatsby-remark-embed-video": "^1.1.3",
     "gatsby-remark-images": "^1.5.50",
+    "gatsby-remark-responsive-iframe": "^1.4.18",
     "gatsby-source-filesystem": "^1.5.23",
     "gatsby-transformer-remark": "^1.7.33",
     "gatsby-transformer-sharp": "^1.6.21",
@@ -24,6 +26,7 @@
     "react-scroll": "^1.7.8",
     "remark": "^9.0.0",
     "remark-html": "^7.0.0",
+    "remark-sub-super": "^1.0.11",
     "webfontloader": "^1.6.28"
   },
   "keywords": [
