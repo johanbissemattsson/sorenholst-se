@@ -6,7 +6,7 @@ description: >-
   Jag är teoretisk fysiker verksam vid fysikinstitutionen vid Stockholms
   Universitet, [Fysikum](https://www.fysik.su.se). Till mina huvudintressen inom
   fysiken hör relativitetsteori och kvantfysik.
-portraitImage: /img/portratt-soren-holst.png
+portraitImage: /media/portratt-soren-holst.png
 sections:
   - title: Tankeexperiment
     description: >-
@@ -29,7 +29,7 @@ sections:
           hemsida](http://fritanke.se/bocker/tankar-som-andrar-allt-2/)
         featuredImage:
           alt: Tankar som förändrar allt
-          src: /img/omslag-tankar-som-forandrar-allt.png
+          src: /media/omslag-tankar-som-forandrar-allt.png
         link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
       - title: Tankeexperiment i Fyskikaktuellt
         description: >-
@@ -43,7 +43,7 @@ sections:
           [Alla artiklar från Fysikaktuellt](/tankeexperiment)
         featuredImage:
           alt: Tankeexperiment
-          src: /img/tankeexperiment2.png
+          src: /media/tankeexperiment2.png
         link: /tankeexperiment
     uid: tankeexperiment
   - title: Relativitetsteori
@@ -66,7 +66,7 @@ sections:
           [Instuderingsfrågor till boken](/rumtid/#instuderingsfragor)
         featuredImage:
           alt: Rumtid – en introduktion till Einsteins relativitetsteori
-          src: /img/omslag-rumtid.png
+          src: /media/omslag-rumtid.png
         link: /rumtid
       - title: Föreläsning om relativitetsteori
         description: >-
@@ -84,8 +84,8 @@ sections:
           [Titta på föreläsningen](/forelasning-om-relativitetsteori)
         featuredImage:
           alt: Föreläsning om relativitetsteori
-          src: /img/forelasning-relativitetsteori.png
-        link: '/forelasning-om-relativitetsteori'
+          src: /media/forelasning-relativitetsteori.png
+        link: '/forelasning-om-relativitetsteori'                       
     uid: relativitetsteori
   - title: Undervisning
     description: >-
@@ -101,13 +101,13 @@ sections:
             Kursen ingår som delkurs i Klassisk Fysik (30 hp), den första fysikkursen på Fysikums kandidatprogram.
           * ## [Allmän relativitetsteori](/general-relativity)
             Kurs på masternivå om Einsteins teori, som visar hur fenomenet gravitation inte är en kraft, utan måste förstås som en effekt av rumtidens krökning.
-          * ## [Sommarkurs i Relativitetsteori](/general-relativity)
+          * ## [Sommarkurs i Relativitetsteori](/sommarkurs-i-relativitetsteori)
             Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
           * ## [Tankeexperiment i fysiken](/tankeexperiment-i-fysiken)
             Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
         featuredImage:
           alt: Kurser
-          src: /img/kurser-ny.jpg
+          src: /media/kurser-ny.jpg
       - title: STINT Programme for Excellence in Teaching
         description: >-
           Hösten 2007 vistades jag vid Skidmore College i Saratoga Springs, New
@@ -131,7 +131,7 @@ sections:
           [Krönika om min vistelse vid Skidmore College](#)
         featuredImage:
           alt: STINT Programme for Excellence in Teaching
-          src: /img/skidmore-ny.jpg
+          src: /media/skidmore-ny.jpg
     uid: undervisning
   - title: Debatt och samhälle
     description: >-
@@ -149,7 +149,7 @@ sections:
             _(Artikeln publicerad i Sans nr 3 2011)_
       - description: >-
           * ## [Varför vill Södertörns Högskola ha en vetenskapsfientlig
-          rektor?](img/nyrektorshv2.pdf)
+          rektor?](media/nyrektorshv2.pdf)
             Humanismen och den humanistiska rörelsen framställs allt oftare som en alternativ religion. Inom organisationen hävdar vissa att humanismen erbjuder allt som religionerna erbjuder - men utan Gud - samt att man måste framhålla "det positiva i livsåskådningen, det vi tror på". Utanför organisationen framhåller andra (skadeglatt) att humanismen håller på att utvecklas till en "ateistisk tro". Jag ser med oro på dessa missuppfattningar om vad humanismen är och bör vara.\
             _(Artikeln publicerad på Newsmill 7 januari 2010)_
           * ## [En förrädisk könsrasism](#)

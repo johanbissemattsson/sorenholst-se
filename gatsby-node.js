@@ -47,8 +47,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 }
 /*
 const adminConfig = {
-  media_folder: 'static/img',
-  public_folder: '/img'
+  media_folder: 'static/media',
+  public_folder: '/media'
 }
 
 

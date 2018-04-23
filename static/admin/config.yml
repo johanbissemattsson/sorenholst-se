@@ -4,8 +4,8 @@ backend:
   repo: johanbissemattsson/sorenholst-se
   site_domain: location.hostname
 
-media_folder: static/img
-public_folder: /img
+media_folder: static/media
+public_folder: /media
 
 collections:
   - name: 'pages'

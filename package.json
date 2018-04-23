@@ -26,7 +26,6 @@
     "react-scroll": "^1.7.8",
     "remark": "^9.0.0",
     "remark-html": "^7.0.0",
-    "remark-sub-super": "^1.0.11",
     "webfontloader": "^1.6.28"
   },
   "keywords": [

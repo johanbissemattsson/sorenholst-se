@@ -2,7 +2,7 @@
 templateKey: page
 title: Sommarkurs i Relativitetsteori
 ---
-**Fysikums sommarkurs i relativitetsteori (7,5 hp) är för tillfället vilande. **
+**Fysikums sommarkurs i relativitetsteori (7,5 hp) är för tillfället vilande.**
 
 **Nästa gång kursen går blir troligen sommaren 2019.**
 
@@ -17,7 +17,7 @@ Exempel på begrepp ur den speciella relativitetsteorin som tas upp är
 * tidsdilatation
 * längdkontraktion
 * relativ samtidighet
-* massa och energi: E=mc^2^
+* massa och energi: E=mc<sup>2</sup>
 
 I samband med den allmänna relativitetsteorin kommer vi att diskutera 
 
