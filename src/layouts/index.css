@@ -143,6 +143,18 @@ ul li h2 {
   font-weight: bold
 }
 
+.site-nav .nav-items .nav-home-item {
+    font-size: 1.5em;
+    position: relative;
+    top: -0.125em;
+}
+
+@media only screen and (min-width: 300px) {
+  .site-nav .nav-items .nav-home-item {
+    top: -0.125em;
+  }
+}
+
 .site-nav .nav-home-item .nav-link {
   color: rgba(0,0,0,0.575);
   font-weight: bold;
@@ -452,7 +464,7 @@ ul li h2 {
 }
 
 .page-title {
-  margin: 0 auto;
+  margin: 0 auto 0.5em auto;
   padding: 0 5%;
   max-width: 700px;
 }
@@ -518,7 +530,12 @@ ul li h2 {
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
   border-radius: 2px;
   padding: 0.25em 0 1.75em 0;
-  font-size: 0.875em;
+}
+
+@media only screen and (min-width: 640px) {
+  .box-container {
+    font-size: 0.875em;
+  }
 }
 
 .box {
@@ -607,3 +624,19 @@ ul li h2 {
   max-width: 1024px;
 }
 
+
+.omslag {
+  max-width: 240px;
+  margin: 2.5em auto 2.5em auto;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .23);
+}
+
+
+@media only screen and (min-width: 640px) {
+  .omslag {
+    width: 240px;
+    float: right;
+    margin: 0 0 5em 2.5em;
+  }
+  
+}

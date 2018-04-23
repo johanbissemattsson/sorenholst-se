@@ -85,61 +85,7 @@ sections:
         featuredImage:
           alt: Föreläsning om relativitetsteori
           src: /media/forelasning-relativitetsteori.png
-        link: '/forelasning-om-relativitetsteori'
-      - title: Föreläsning om relativitetsteori
-        description: >-
-          Vad är det egentligen som får månen att hållas kvar i bana kring
-          jorden, och vad är det som gör att äpplen faller till marken? En
-          kraft? Nej, inte alls, säger Einstein. Den allmänna relativitetsteorin
-          ställer en hel del intuitiva föreställningar på ända: om
-          gravitationen, och om tidens och rummets natur.
-
-
-          Föreläsningen är från 19 mars 2015 och ingick i Fysikums serie med
-          öppna föreläsningar.
-
-
-          [Titta på föreläsningen](/forelasning-om-relativitetsteori)
-        featuredImage:
-          alt: Föreläsning om relativitetsteori
-          src: /media/forelasning-relativitetsteori.png
-        link: '/forelasning-om-relativitetsteori'
-      - title: Föreläsning om relativitetsteori
-        description: >-
-          Vad är det egentligen som får månen att hållas kvar i bana kring
-          jorden, och vad är det som gör att äpplen faller till marken? En
-          kraft? Nej, inte alls, säger Einstein. Den allmänna relativitetsteorin
-          ställer en hel del intuitiva föreställningar på ända: om
-          gravitationen, och om tidens och rummets natur.
-
-
-          Föreläsningen är från 19 mars 2015 och ingick i Fysikums serie med
-          öppna föreläsningar.
-
-
-          [Titta på föreläsningen](/forelasning-om-relativitetsteori)
-        featuredImage:
-          alt: Föreläsning om relativitetsteori
-          src: /media/forelasning-relativitetsteori.png
-        link: '/forelasning-om-relativitetsteori'
-      - title: Föreläsning om relativitetsteori
-        description: >-
-          Vad är det egentligen som får månen att hållas kvar i bana kring
-          jorden, och vad är det som gör att äpplen faller till marken? En
-          kraft? Nej, inte alls, säger Einstein. Den allmänna relativitetsteorin
-          ställer en hel del intuitiva föreställningar på ända: om
-          gravitationen, och om tidens och rummets natur.
-
-
-          Föreläsningen är från 19 mars 2015 och ingick i Fysikums serie med
-          öppna föreläsningar.
-
-
-          [Titta på föreläsningen](/forelasning-om-relativitetsteori)
-        featuredImage:
-          alt: Föreläsning om relativitetsteori
-          src: /media/forelasning-relativitetsteori.png
-        link: '/forelasning-om-relativitetsteori'                              
+        link: '/forelasning-om-relativitetsteori'                       
     uid: relativitetsteori
   - title: Undervisning
     description: >-
@@ -155,7 +101,7 @@ sections:
             Kursen ingår som delkurs i Klassisk Fysik (30 hp), den första fysikkursen på Fysikums kandidatprogram.
           * ## [Allmän relativitetsteori](/general-relativity)
             Kurs på masternivå om Einsteins teori, som visar hur fenomenet gravitation inte är en kraft, utan måste förstås som en effekt av rumtidens krökning.
-          * ## [Sommarkurs i Relativitetsteori](/general-relativity)
+          * ## [Sommarkurs i Relativitetsteori](/sommarkurs-i-relativitetsteori)
             Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
           * ## [Tankeexperiment i fysiken](/tankeexperiment-i-fysiken)
             Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
@@ -211,3 +157,4 @@ sections:
             _(Artikeln publicerad i Humanisten nr 5-6 2008)_
     uid: debatt-och-samhalle
 ---
+

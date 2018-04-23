@@ -40,6 +40,7 @@ bodyBox: |-
   * [Svar energi och massa](#)
 bodyExtra: ''
 ---
+<div class='omslag'><img src='/media/rumtid.jpg' alt='Rumtid'/></div>
 På denna sida hittar du instuderingsfrågor till boken, samt blandade övningsuppgifter och problem anpassade till bokens framställning.
 
 [Länk till bokens sida hos Studentlitteratur](https://www.studentlitteratur.se/#32472-01)
