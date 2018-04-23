@@ -6,8 +6,8 @@ bodyBox: |-
 
   (Kommer att fyllas på under kursens gång.)
 
-  * [Kursens schema](#)
-  * [Preliminär planering](#)
+  * [Kursens schema](/media/tankeexperiment-schema.pdf)
+  * [Preliminär planering](/media/tankeexperiment-planering.pdf)
 bodyExtra: >-
   ## Kursens innehåll och syfte
 
