@@ -84,13 +84,8 @@ sections:
           [Titta på föreläsningen](/forelasning-om-relativitetsteori)
         featuredImage:
           alt: Föreläsning om relativitetsteori
-<<<<<<< HEAD
           src: /media/forelasning-relativitetsteori.png
         link: '/forelasning-om-relativitetsteori'                       
-=======
-          src: /img/forelasning-relativitetsteori.png
-        link: /forelasning-om-relativitetsteori
->>>>>>> 9f93013fe2a02a92982f535828d6fd859d887b2a
     uid: relativitetsteori
   - title: Undervisning
     description: >-
