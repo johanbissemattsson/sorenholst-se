@@ -29,7 +29,7 @@ sections:
           hemsida](http://fritanke.se/bocker/tankar-som-andrar-allt-2/)
         featuredImage:
           alt: Tankar som förändrar allt
-          src: /media/omslag-tankar-som-forandrar-allt.png
+          src: /media/Start-OmslagTankarSomForandrarAllt.png
         link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
       - title: Tankeexperiment i Fyskikaktuellt
         description: >-
@@ -66,7 +66,7 @@ sections:
           [Instuderingsfrågor till boken](/rumtid/#instuderingsfragor)
         featuredImage:
           alt: Rumtid – en introduktion till Einsteins relativitetsteori
-          src: /media/omslag-rumtid.png
+          src: /media/Start-OmslagRumtid.png
         link: /rumtid
       - title: Föreläsning om relativitetsteori
         description: >-
@@ -107,7 +107,7 @@ sections:
             Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
         featuredImage:
           alt: Kurser
-          src: /media/kurser-ny.jpg
+          src: /media/Start-Kurser.jpg
       - title: STINT Programme for Excellence in Teaching
         description: >-
           Hösten 2007 vistades jag vid Skidmore College i Saratoga Springs, New

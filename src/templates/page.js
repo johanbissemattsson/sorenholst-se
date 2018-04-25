@@ -4,6 +4,8 @@ import Content, { HTMLContent } from '../components/Content';
 import Helmet from 'react-helmet';
 import Remark from 'remark';
 import html from 'remark-html';
+import Link from '../components/Link';
+
 
 export const PageTemplate = ({ title, content, contentComponent, bodyBox, bodyExtra, list }) => {
   const PageContent = contentComponent || Content
@@ -44,11 +46,19 @@ export const PageTemplate = ({ title, content, contentComponent, bodyBox, bodyEx
                   <li key={index}>
                     {listItem.listItemImage &&
                       <div className='list-item-image-container'>
-                        <img src={listItem.listItemImage} alt={listItem.listItemTitle} />
+                        {listItem.listItemLink ? 
+                          <a href={listItem.listItemLink}><img src={listItem.listItemImage} alt={listItem.listItemTitle} /></a>
+                          : 
+                          <img src={listItem.listItemImage} alt={listItem.listItemTitle} />
+                        }
                       </div>
                     }
                     <div className='list-item-content-container'>
-                      {listItem.listItemTitle && <h2 className='list-item-title'>{listItem.listItemTitle}</h2>}
+                      {listItem.listItemLink ? listItem.listItemTitle &&
+                        <a href={listItem.listItemLink}><h2 className='list-item-title'>{listItem.listItemTitle}</h2></a>
+                      :
+                        listItem.listItemTitle && <h2 className='list-item-title'>{listItem.listItemTitle}</h2>
+                      }
                       {listItem.listItemContent && <PageContent className='list-item-content' content={convertMarkdownToHtml(listItem.listItemContent)} />}
                     </div>
 
