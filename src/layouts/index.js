@@ -23,7 +23,7 @@ export default class TemplateWrapper extends Component {
 
   render() {
     const { children, location } = this.props;
-    const isIndex = location.pathname === '/' && true;
+    const isIndex = location.pathname === '/' || '/in-english' && true;
     return (
       <div className='site-container'>
         <Helmet title='Sören Holst' />
