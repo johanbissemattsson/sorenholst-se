@@ -6,7 +6,6 @@ description: >-
   Jag är teoretisk fysiker verksam vid fysikinstitutionen vid Stockholms
   Universitet, [Fysikum](https://www.fysik.su.se). Till mina huvudintressen inom
   fysiken hör relativitetsteori och kvantfysik.
-portraitImage: /media/portratt-soren-holst.png
 sections:
   - title: Tankeexperiment
     description: >-
@@ -14,7 +13,8 @@ sections:
       dvs. en sorts tankelekar. Trots att de ofta handlar om orealistiska
       situationer visar de sig vara förvånansvärt användbara, inte minst inom
       fysik. Men hur kan man lära sig något om världen genom att experimentera i
-      tanken?
+      tanken? I artikeln [Thought experiments and the scarcity of good theories](media/Tankeexperiment-ArtikelTE.pdf) utvecklar jag dessa tankar.
+      
     sectionItems:
       - title: Tankar som ändrar allt
         description: >-
@@ -43,7 +43,7 @@ sections:
           [Alla artiklar från Fysikaktuellt](/tankeexperiment)
         featuredImage:
           alt: Tankeexperiment
-          src: /media/tankeexperiment2.png
+          src: /media/Start-Tankeexperiment.png
         link: /tankeexperiment
     uid: tankeexperiment
   - title: Relativitetsteori
@@ -66,7 +66,7 @@ sections:
           [Instuderingsfrågor till boken](/rumtid/#instuderingsfragor)
         featuredImage:
           alt: Rumtid – en introduktion till Einsteins relativitetsteori
-          src: /media/Start-OmslagRumtid.png
+          src: /media/Start-Rumtid.png
         link: /rumtid
       - title: Föreläsning om relativitetsteori
         description: >-
@@ -84,7 +84,7 @@ sections:
           [Titta på föreläsningen](/forelasning-om-relativitetsteori)
         featuredImage:
           alt: Föreläsning om relativitetsteori
-          src: /media/forelasning-relativitetsteori.png
+          src: /media/Start-ForelasningOmRelativitetsteori.png
         link: '/forelasning-om-relativitetsteori'                       
     uid: relativitetsteori
   - title: Undervisning
@@ -125,13 +125,13 @@ sections:
           och av det amerikanska samhället i stort.
 
 
-          [Rapport från min vistelse vid Skidmore College](#)
+          [Rapport från min vistelse vid Skidmore College](media/Skidmore-Report.pdf)
 
 
-          [Krönika om min vistelse vid Skidmore College](#)
+          [Krönika om min vistelse vid Skidmore College](media/Skidmore-Kronika.pdf)
         featuredImage:
           alt: STINT Programme for Excellence in Teaching
-          src: /media/skidmore-ny.jpg
+          src: /media/Start-Skidmore.jpg
     uid: undervisning
   - title: Debatt och samhälle
     description: >-
@@ -141,18 +141,18 @@ sections:
     more: '[Fler artiklar](/alla-debattinlagg)'
     sectionItems:
       - description: |-
-          * ## [Humanismen - en tro bland andra?](#)
+          * ## [Humanismen - en tro bland andra?](media/Debattartikel-Livsaskadning.pdf)
             Humanismen och den humanistiska rörelsen framställs allt oftare som en alternativ religion. Inom organisationen hävdar vissa att humanismen erbjuder allt som religionerna erbjuder - men utan Gud - samt att man måste framhålla "det positiva i livsåskådningen, det vi tror på". Utanför organisationen framhåller andra (skadeglatt) att humanismen håller på att utvecklas till en "ateistisk tro". Jag ser med oro på dessa missuppfattningar om vad humanismen är och bör vara.
             _(Artikeln publicerad i Humanistinfo nr 1 2013)_
-          * ## [Att döda foster och violinister](#)
+          * ## [Att döda foster och violinister](media/Debattartikel-Abortslutversion.pdf)
             Över en halv miljard kvinnor i fertil ålder lever i länder med mycket stränga abortlagar. Fostrets rätt till liv går före kvinnans. Men har pro life-rörelsen något stöd att hämta i sekulära argument, eller förutsätter den gudomliga påbud? Frågan aktualiserar ett berömt tankeexperiment av den amerikanska filosofen Judith Thomson.
             _(Artikeln publicerad i Sans nr 3 2011)_
       - description: >-
           * ## [Varför vill Södertörns Högskola ha en vetenskapsfientlig
-          rektor?](media/nyrektorshv2.pdf)
+          rektor?](media/Debattartikel-NyrektorSHv2.pdf)
             Humanismen och den humanistiska rörelsen framställs allt oftare som en alternativ religion. Inom organisationen hävdar vissa att humanismen erbjuder allt som religionerna erbjuder - men utan Gud - samt att man måste framhålla "det positiva i livsåskådningen, det vi tror på". Utanför organisationen framhåller andra (skadeglatt) att humanismen håller på att utvecklas till en "ateistisk tro". Jag ser med oro på dessa missuppfattningar om vad humanismen är och bör vara.\
             _(Artikeln publicerad på Newsmill 7 januari 2010)_
-          * ## [En förrädisk könsrasism](#)
+          * ## [En förrädisk könsrasism](http://www.fritankesmedja.se/en-forradisk-konsrasism)
             Vårt samhälle värderar ännu män och kvinnor enligt en rasistisk logik, där knappt märkbara statistiska skillnader tas till intäkt för att bevara djupgående könsstereotyper.\
             _(Artikeln publicerad i Humanisten nr 5-6 2008)_
     uid: debatt-och-samhalle

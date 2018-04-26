@@ -6,7 +6,6 @@ description: >-
   Jag är teoretisk fysiker verksam vid fysikinstitutionen vid Stockholms
   Universitet, [Fysikum](https://www.fysik.su.se). Till mina huvudintressen inom
   fysiken hör relativitetsteori och kvantfysik.
-portraitImage: /media/Start-Portratt.png
 sections:
   - title: Tankeexperiment
     description: >-

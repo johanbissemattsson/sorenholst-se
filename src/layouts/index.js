@@ -15,7 +15,7 @@ export default class TemplateWrapper extends Component {
       const WebFont = require('webfontloader');
       WebFont.load({
         google: {
-          families: ['Open Sans', 'Roboto Slab']
+          families: ['Open Sans:400,600,700', 'Roboto Slab:400,700']
         }
       });
     }
@@ -30,7 +30,7 @@ export default class TemplateWrapper extends Component {
         <Nav isIndex={isIndex}/>
         <div className='page-container'>{children()}</div>
         <Footer />
-        <div className='site-background-container'>
+        <div className={isIndex ? 'site-background-container index-background' : 'site-background-container'}>
           <div className='site-background' />
         </div>
       </div>
