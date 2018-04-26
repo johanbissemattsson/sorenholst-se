@@ -14,7 +14,8 @@ sections:
       dvs. en sorts tankelekar. Trots att de ofta handlar om orealistiska
       situationer visar de sig vara förvånansvärt användbara, inte minst inom
       fysik. Men hur kan man lära sig något om världen genom att experimentera i
-      tanken?
+      tanken? I artikeln [Thought experiments and the scarcity of good theories](media/Tankeexperiment-ArtikelTE.pdf) utvecklar jag dessa tankar.
+      
     sectionItems:
       - title: Tankar som ändrar allt
         description: >-

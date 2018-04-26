@@ -105,6 +105,7 @@ bodyExtra: >-
 
   [Kursens betygskriterier](media/Tankeexperiment-betygskriterier.pdf)
 ---
+![General Relativity](/media/Tankeexperiment-Intro.jpg)
 Fysikhistorien är full av tankeexperiment. Men kan man verkligen lära sig något om hur naturen fungerar bara genom att föreställa sig saker?
 
 Fysikums sommarkurs _Tankeexperiment i fysiken_ (7,5 hp) ges sommaren 2018, kvällstid vecka 25 till 30. 
