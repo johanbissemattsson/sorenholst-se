@@ -45,6 +45,10 @@ sections:
 
           [Thought experiments and the scarcity of good
           theories](media/Tankeexperiment-ArtikelTE.pdf)
+
+
+          [Thought experiments and the scarcity of good
+          theories](media/Tankeexperiment-ArtikelTE.pdf)
     title: Thought experiments
     description: >-
       Thought experiments is a common way of reasoning within certain parts of
