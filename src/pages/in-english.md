@@ -70,10 +70,7 @@ sections:
           (Also only in Swedish.)
 
 
-          [More about the book](/rumtid)
-
-
-          [Problems for the book](/rumtid/#instuderingsfragor)
+          [More about the book, including problems](/rumtid)
       - featuredImage:
           alt: Föreläsning om relativitetsteori
           src: /media/Start-ForelasningOmRelativitetsteori.png
