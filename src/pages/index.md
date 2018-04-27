@@ -42,7 +42,7 @@ sections:
 
 
 
-          **Hur funkar tankeexperiment?**
+          #### Hur funkar tankeexperiment?
 
 
           Hur kommer det sig att man kan lära sig något om verkligheten genom
