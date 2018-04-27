@@ -4,11 +4,11 @@ title: Sören Holst
 subtitle: 'Theoretical Physicist, author and lecturer'
 description: >-
   I am a Theoretical Physicist at the Physics Department of Stockholm
-  University, [Fysikum](https://www.fysik.su.se/english). My main interests lies
-  within the Theories of Relativity and within fundamentals of Quantum Physics.
-  I had my PhD in the spring 2000 with a thesis within the General Theory of
-  Relativity: "Horizons and Time machines - global structures in locally trivial
-  spacetimes".
+  University, [Fysikum](https://www.fysik.su.se/english/). My main interests
+  lies within the Theories of Relativity and within fundamentals of Quantum
+  Physics. I had my PhD in the spring 2000 with a thesis within the General
+  Theory of Relativity: "Horizons and Time machines - global structures in
+  locally trivial spacetimes".
 sections:
   - sectionItems:
       - featuredImage:
