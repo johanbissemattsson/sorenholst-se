@@ -5,10 +5,10 @@ subtitle: 'Theoretical Physicist, author and lecturer'
 description: >-
   I am a Theoretical Physicist at the Physics Department of Stockholm
   University, [Fysikum](https://www.fysik.su.se/english/). My main interests lie
-  within the Theories of Relativity and within fundamentals of Quantum Physics.
-  I had my PhD in the spring of 2000 with a thesis within the General Theory of
-  Relativity: "Horizons and Time machines - global structures in locally trivial
-  spacetimes".
+  within the Theories of Relativity and fundamentals of Quantum Physics. I had
+  my PhD in 2000 with a thesis concerning the General Theory of Relativity:
+  _Horizons and Time machines - global structures in locally trivial
+  spacetimes_.
 sections:
   - sectionItems:
       - featuredImage:
