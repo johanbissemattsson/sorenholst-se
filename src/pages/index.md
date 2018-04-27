@@ -40,7 +40,7 @@ sections:
           [Alla artiklar från Fysikaktuellt](/tankeexperiment)
 
 
-          \markup \vspace #15
+          <br>
 
 
           **Hur funkar tankeexperiment?**
