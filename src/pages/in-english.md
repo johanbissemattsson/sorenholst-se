@@ -17,7 +17,7 @@ sections:
         link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
         title: Book on thought experiments in Physics and Philosophy
         description: >-
-          My latest book (in swedish) came in the fall 2012 at Fri Tanke förlag
+          My latest book (in Swedish) came in the fall 2012 at Fri Tanke förlag
           (Free Thought Publishers): _Tankar som ändrar allt. Om tankeexperiment
           och nya världsbilder_ (Thoughts that change everything. On thought
           experiments and new world views).
@@ -57,41 +57,45 @@ sections:
           alt: Rumtid – en introduktion till Einsteins relativitetsteori
           src: /media/Start-Rumtid.png
         link: /rumtid
-        title: Bok i relativitetsteori
+        title: Book in Relativity
         description: >-
-          Våren 2006 kom min bok _Rumtid – en introduktion till Einsteins
-          relativitetsteori_ ut. I Boken förklaras den speciella
-          relativitetsteorin på ett sätt som kräver ett minimum av förkunskaper
-          i matte och fysik – den enda matematik som behövs är enkel algebra.
+          My book (in swedish) _Rumtid - en introduktion till Einsteins
+          relativitetsteori_ (Spacetime - an introduction to Einstein's Theory
+          of Relativity) was published in the spring 2006.
 
 
-          [Läs mer om boken](/rumtid)
+          This book takes a geometrical approach to Special Relativity, and the
+          theory is explained using as little mathematics as possible. Click on
+          the picture, and you will be directed to the homepage of the book.
+          (Also only in Swedish.)
 
 
-          [Instuderingsfrågor till boken](/rumtid/#instuderingsfragor)
+          [More about the book](/rumtid)
+
+
+          [Problems for the book](/rumtid/#instuderingsfragor)
       - featuredImage:
           alt: Föreläsning om relativitetsteori
           src: /media/Start-ForelasningOmRelativitetsteori.png
         link: /forelasning-om-relativitetsteori
-        title: Föreläsning om relativitetsteori
+        title: Popular lecture on Relativity (in Swedish)
         description: >-
-          Vad är det egentligen som får månen att hållas kvar i bana kring
-          jorden, och vad är det som gör att äpplen faller till marken? En
-          kraft? Nej, inte alls, säger Einstein. Den allmänna relativitetsteorin
-          ställer en hel del intuitiva föreställningar på ända: om
-          gravitationen, och om tidens och rummets natur.
+          What is it that keeps the Moon in orbit around the Earth, and what
+          causes an apple to fall to the ground? A force? Not at all, says
+          Einstein. The General Theory of Relativity challenges some of our
+          intuitive notions about gravitation, and the nature of space and time.
 
 
-          Föreläsningen är från 19 mars 2015 och ingick i Fysikums serie med
-          öppna föreläsningar.
+          The lecture is from March 19 of 2015, and was part in a series of open
+          lectures at the Physics Department.
 
 
-          [Titta på föreläsningen](/forelasning-om-relativitetsteori)
-    title: Relativitetsteori
+          [View lecture](/forelasning-om-relativitetsteori)
+    title: Theory of Relativity
     description: >-
-      De båda relativitetsteorierna – den speciella och den allmänna –
-      formulerades av Einstein för över hundra år sedan, men utgör än idag två
-      av grundstenarna inom modern fysik.
+      The Special and the General Theories of Relativity were both formulated by
+      Albert Einstein more than hundred years ago, but are still part of the
+      foundations of Modern Theoretical Physics.
     uid: relativitetsteori
   - sectionItems:
       - featuredImage:
