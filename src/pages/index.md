@@ -40,9 +40,10 @@ sections:
           [Alla artiklar från Fysikaktuellt](/tankeexperiment)
 
 
+          \markup \vspace #15
 
 
-          #### Hur funkar tankeexperiment?
+          **Hur funkar tankeexperiment?**
 
 
           Hur kommer det sig att man kan lära sig något om verkligheten genom
