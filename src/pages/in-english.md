@@ -35,7 +35,7 @@ sections:
           alt: Tankeexperiment
           src: /media/Start-Tankeexperiment.png
         link: media/Tankeexperiment-ArtikelTE.pdf
-        title: Why do thought experiments work?...
+        title: Why do thought experiments work?
         description: >-
           How is it possible that one can learn things about the real world by
           performing unrealistic experiments in ones mind? This is an issue
