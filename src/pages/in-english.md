@@ -38,22 +38,23 @@ sections:
       - featuredImage:
           alt: Tankeexperiment
           src: /media/Start-Tankeexperiment.png
-        link: /tankeexperiment
+        link: media/Tankeexperiment-ArtikelTE.pdf
         title: Why do thought experiments work?
-        description: |-
+        description: >-
+          How is it possible that one can learn things about the real world by
+          performing unrealistic experiments in ones mind? This is an issue
+          which has been debated among philosophers. My own thoughts on the
+          matter is developed in this article:
 
 
-          [Alla artiklar från Fysikaktuellt](/tankeexperiment)
+          [Thought experiments and the scarcity of good
+          theories](media/Tankeexperiment-ArtikelTE.pdf)
     title: Thought experiments
     description: >-
       Thought experiments is a common way of reasoning within certain parts of
       Science and Philosophy. In spite of the fact that such arguments often
       involve quite unrealistic scenarios, they turn out to be surpricingly
-      useful, not least within Physics. How is it possible that one can learn
-      things about the real world by performing unrealistic experiments in ones
-      mind? This is an issue which has been debated among philosophers. My own
-      thoughts on the matter is developed in the article [Thought experiments
-      and the scarcity of good theories](media/Tankeexperiment-ArtikelTE.pdf).
+      useful, not least within Physics.
     uid: tankeexperiment
   - sectionItems:
       - featuredImage:
