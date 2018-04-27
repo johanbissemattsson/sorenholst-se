@@ -98,75 +98,48 @@ sections:
       - featuredImage:
           alt: Kurser
           src: /media/Start-Kurser.jpg
-        title: Kurser
+        title: Courses
         description: >2-
-           Här är de kurser som är aktuella för närvarande:
+           Hear are my current courses:
 
-          * ## [Mekanik
-          II](https://www.fysik.su.se/utbildning/program-kurser/kursinformation/kursfakta-och-scheman)
-            Kursen ingår som delkurs i Klassisk Fysik (30 hp), den första fysikkursen på Fysikums kandidatprogram.
-          * ## [Allmän relativitetsteori](/general-relativity)
-            Kurs på masternivå om Einsteins teori, som visar hur fenomenet gravitation inte är en kraft, utan måste förstås som en effekt av rumtidens krökning.
-          * ## [Sommarkurs i Relativitetsteori](/sommarkurs-i-relativitetsteori)
-            Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
-          * ## [Tankeexperiment i fysiken](/tankeexperiment-i-fysiken)
-            Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
+          * ## [Mechanics II (Swedish
+          webpage)](https://www.fysik.su.se/utbildning/program-kurser/kursinformation/kursfakta-och-scheman)
+            Part of the course "Klassisk fysik (30 hp)" on the Bachelor's Programme. 
+          * ## [General Relativity](/general-relativity)
+            Master's Programme course about Einstein's important discovery that gravity should not be understood as a force, but rather as a consequence of the curvature of space and time.
+          * ## [Summer course in Relativity (Swedish
+          webpage)](/sommarkurs-i-relativitetsteori)
+            This course explaines the Special Theory of Relativity using a non-mathematical approach. Is also provides a short introduction to General Relativity. (This course is not given for the moment.)
+          * ## [Thought Experiments in Physics (Swedish
+          webpage)](/tankeexperiment-i-fysiken)
+            This course examines the role of thought experimentation in the history of Physics, from Galileo to Einstein and onwards. Using the method of thought experimentation as a springboard, we discuss several interesting areas within physics, such as Relativity and Quantum Physics.
       - featuredImage:
           alt: STINT Programme for Excellence in Teaching
           src: /media/Start-Skidmore.jpg
         title: STINT Programme for Excellence in Teaching
         description: >-
-          Hösten 2007 vistades jag vid Skidmore College i Saratoga Springs, New
-          York, inom ramen för stiftelsen STINT's 'Programme for Excellence in
-          Teaching'. Jag höll en kurs i Relativitetsteori, och ägnade mig åt att
-          studera collegemiljön, och särskilt den amerikanska 'liberal arts'
-          traditionen. Företrädare för denna utbildningstradition är ofta små
-          privata college, så som Skidmore, med särskilt fokus på pedagogik och
-          undervisning.
+          The fall of 2007 I spent at Skidmore College in Saratoga Springs, New
+          York, paid by the governmental foundation STINT, within their
+          'Programme for Excellence in Teaching'. Skidmore College is a
+          so-called liberal arts college, and part of the purpose with my stay
+          there was to learn more about the liberal arts tradition in the United
+          States. I also gave a course in Special Relativity at the Physics
+          Department at Skidmore College. 
 
 
-          Att arbeta vid en amerikansk institution gav också intressanta
-          inblickar i samhället. Somliga fördomar bekräftades - andra kom på
-          skam. Min rapport nedan behandlar både mina intryck av collegemiljön
-          och av det amerikanska samhället i stort.
+          Teaching at an American college also provided some interesting
+          insights into social life and society. Some of my prejudices were
+          confirmed, others were proven wrong. In the report below I comment
+          both on my impressions from the college and from the society at
+          large. 
 
 
-          [Rapport från min vistelse vid Skidmore
-          College](media/Skidmore-Report.pdf)
-
-
-          [Krönika om min vistelse vid Skidmore
-          College](media/Skidmore-Kronika.pdf)
-    title: Undervisning
+          [Report from my stay at Skidmore College
+          2007](/media/Skidmore-Report.pdf)
+    title: Teaching
     description: >-
-      Jag undervisar på såväl kandidat- som masternivå på Fysikum, och håller
-      även sommarkurser.
+      I am teaching at the Bachelor Programme in Physics and I also give summer
+      courses for a broader audience.
     uid: undervisning
-  - more: '[Fler artiklar](/alla-debattinlagg)'
-    sectionItems:
-      - description: >-
-          * ## [Humanismen - en tro bland
-          andra?](media/Debattartikel-Livsaskadning.pdf)
-            Humanismen och den humanistiska rörelsen framställs allt oftare som en alternativ religion. Inom organisationen hävdar vissa att humanismen erbjuder allt som religionerna erbjuder - men utan Gud - samt att man måste framhålla "det positiva i livsåskådningen, det vi tror på". Utanför organisationen framhåller andra (skadeglatt) att humanismen håller på att utvecklas till en "ateistisk tro". Jag ser med oro på dessa missuppfattningar om vad humanismen är och bör vara.
-            _(Artikeln publicerad i Humanistinfo nr 1 2013)_
-          * ## [Att döda foster och
-          violinister](media/Debattartikel-Abortslutversion.pdf)
-            Över en halv miljard kvinnor i fertil ålder lever i länder med mycket stränga abortlagar. Fostrets rätt till liv går före kvinnans. Men har pro life-rörelsen något stöd att hämta i sekulära argument, eller förutsätter den gudomliga påbud? Frågan aktualiserar ett berömt tankeexperiment av den amerikanska filosofen Judith Thomson.
-            _(Artikeln publicerad i Sans nr 3 2011)_
-      - description: >-
-          * ## [Varför vill Södertörns Högskola ha en vetenskapsfientlig
-          rektor?](media/Debattartikel-NyrektorSHv2.pdf)
-            Humanismen och den humanistiska rörelsen framställs allt oftare som en alternativ religion. Inom organisationen hävdar vissa att humanismen erbjuder allt som religionerna erbjuder - men utan Gud - samt att man måste framhålla "det positiva i livsåskådningen, det vi tror på". Utanför organisationen framhåller andra (skadeglatt) att humanismen håller på att utvecklas till en "ateistisk tro". Jag ser med oro på dessa missuppfattningar om vad humanismen är och bör vara.\
-            _(Artikeln publicerad på Newsmill 7 januari 2010)_
-          * ## [En förrädisk
-          könsrasism](http://www.fritankesmedja.se/en-forradisk-konsrasism)
-            Vårt samhälle värderar ännu män och kvinnor enligt en rasistisk logik, där knappt märkbara statistiska skillnader tas till intäkt för att bevara djupgående könsstereotyper.\
-            _(Artikeln publicerad i Humanisten nr 5-6 2008)_
-    title: Debatt och samhälle
-    description: >-
-      När jag engagerar mig i samhällsdebatten handlar det ofta om frågor som
-      rör religion, vetenskap, mänskliga rättigheter och jämställdhet. Här är
-      några exempel på artiklar jag skrivit:
-    uid: debatt-och-samhalle
 ---
 
