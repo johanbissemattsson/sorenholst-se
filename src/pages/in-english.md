@@ -43,6 +43,11 @@ sections:
           matter is developed in this article:
 
 
+          I artikeln [Thought experiments and the scarcity of good
+          theories](media/Tankeexperiment-ArtikelTE.pdf) utvecklar jag dessa
+          tankar.
+
+
           [Thought experiments and the scarcity of good
           theories](media/Tankeexperiment-ArtikelTE.pdf)
     title: Thought experiments
