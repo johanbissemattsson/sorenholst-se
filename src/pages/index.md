@@ -53,7 +53,9 @@ sections:
 
           [Thought experiments and the scarcity of good
           theories](/media/Tankeexperiment-ArtikelTE.pdf)
-      - link: >-
+      - featuredImage:
+          src: /media/teleportation.jpg
+        link: >-
           https://suplay.screen9.tv/media/aFM4l6zE_WRcWok9MUiZXA/framgangsrika-fantasier
         title: Framgångsrika fantasier
         description: >-
