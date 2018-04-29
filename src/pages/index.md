@@ -28,7 +28,7 @@ sections:
           alt: Tankeexperiment
           src: /media/Start-Tankeexperiment.png
         link: /tankeexperiment
-        title: Mer om tankeexperiment
+        title: Tankeexperiment i Fysikaktuellt
         description: >-
           **Fysikaktuellt**
 
@@ -56,6 +56,20 @@ sections:
 
           [Thought experiments and the scarcity of good
           theories](media/Tankeexperiment-ArtikelTE.pdf)
+      - featuredImage:
+          src: /media/Start-Tankeexperiment.png
+        link: /media/Tankeexperiment-ArtikelTE.pdf
+        title: Hur funkar tankeexperiment?
+        description: >-
+          Hur kommer det sig att man kan lära sig något om verkligheten genom
+          att experimentera i tanken? Jag tror att svaret har att göra med de
+          krav vi ställer på våra teorier om verkligheten – att det ska vara
+          både allmängiltiga, enkla och motsägelsefria. I den här artikeln
+          utvecklar jag dessa tankar:
+
+
+          [Thought experiments and the scarcity of good
+          theories](/media/Tankeexperiment-ArtikelTE.pdf)
     title: Tankeexperiment
     description: >-
       Inom vetenskap och filosofi använder man sig ibland av tankeexperiment,
