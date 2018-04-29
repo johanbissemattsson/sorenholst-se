@@ -40,7 +40,7 @@ sections:
 
           [Alla artiklar från Fysikaktuellt](/tankeexperiment)
       - featuredImage:
-          src: /media/Start-Tankeexperiment.png
+          src: /media/teartikelbild.png
         link: /media/Tankeexperiment-ArtikelTE.pdf
         title: Hur funkar tankeexperiment?
         description: >-
