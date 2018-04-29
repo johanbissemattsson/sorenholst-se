@@ -53,6 +53,23 @@ sections:
 
           [Thought experiments and the scarcity of good
           theories](/media/Tankeexperiment-ArtikelTE.pdf)
+      - link: >-
+          https://suplay.screen9.tv/media/aFM4l6zE_WRcWok9MUiZXA/framgangsrika-fantasier
+        title: Framgångsrika fantasier
+        description: >-
+          Vetenskap handlar i grunden om att förstå hur verkligheten är
+          beskaffad. Trots det ägnar man sig ibland åt att fantisera om det
+          overkliga i så kallade ”tankeexperiment”. Men vad är ett
+          tankeexperiment egentligen och hur kan man kan lära sig något om
+          verkligheten genom att grubbla över overkliga scenarion? 
+
+
+          Se min föreläsning om tankeexperiment på Stockholms stadsbibliotek den
+          20 mars 2018:
+
+
+          [Framgångsrika
+          fantasier](https://suplay.screen9.tv/media/aFM4l6zE_WRcWok9MUiZXA/framgangsrika-fantasier)
     title: Tankeexperiment
     description: >-
       Inom vetenskap och filosofi använder man sig ibland av tankeexperiment,
