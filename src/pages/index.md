@@ -30,9 +30,6 @@ sections:
         link: /tankeexperiment
         title: Tankeexperiment i Fysikaktuellt
         description: >-
-          **Fysikaktuellt**
-
-
           Under avdelningen _Tankeexperiment_ i Svenska Fysikersamfundets
           tidskrift Fysikaktuellt har jag i en serie nummer skrivit om olika
           tankeexperiment hämtade från fysiken.
