@@ -24,6 +24,9 @@ sections:
 
           [Läs mer om boken på förlagets
           hemsida](http://fritanke.se/bocker/tankar-som-andrar-allt-2/)
+
+
+          <br><br>
       - featuredImage:
           alt: Tankeexperiment
           src: /media/Start-Tankeexperiment.png
