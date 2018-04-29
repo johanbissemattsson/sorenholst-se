@@ -7,7 +7,8 @@ description: >-
   Universitet, [Fysikum](https://www.fysik.su.se). Till mina huvudintressen inom
   fysiken hör relativitetsteori och kvantfysik.
 sections:
-  - sectionItems:
+  - more: 'Bla bla blaa, tralla laa.'
+    sectionItems:
       - featuredImage:
           alt: Tankar som förändrar allt
           src: /media/Start-OmslagTankarSomForandrarAllt.png
