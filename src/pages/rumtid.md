@@ -2,7 +2,7 @@
 templateKey: page
 title: Rumtid - en introduktion till Einsteins relativitetsteori
 bodyBox: |-
-  ## Instuderingsfrågor
+  <h2 id='instuderingsfragor'>Instuderingsfrågor</h2>
 
   * [Instuderingsfrågor till kapitel 1](/media/Rumtid-Instud1.pdf)
   * [Instuderingsfrågor till kapitel 2](/media/Rumtid-Instud2.pdf)

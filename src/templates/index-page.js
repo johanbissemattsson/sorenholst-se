@@ -40,14 +40,14 @@ export const IndexPageTemplate = ({ title, subtitle, description, sections, cont
                     return (
                       <div className='section-item' key={sectionItemIndex}>
                         {sectionItem.link ?
-                          <Link to={sectionItem.link} className='section-item-link'>
+                          <a href={sectionItem.link} className='section-item-link'>
                             {sectionItem.featuredImage &&
                               <div className='featured-image-container'>
                                 <img className='featured-image' src={sectionItem.featuredImage.src} width='448' height='280' alt={sectionItem.featuredImage.alt} />
                               </div>
                             }
                             {sectionItem.title && <h3>{sectionItem.title}</h3>}
-                          </Link>
+                          </a>
                           : 
                           <div>
                             {sectionItem.featuredImage &&
