@@ -435,7 +435,7 @@ ul li h2 {
 }
 
 .section-more-content {
-  margin-top: 1.5em;
+  margin: -3em 0 3em 0;
 }
 
 @media only screen and (min-width: 480px) {
