@@ -18,7 +18,7 @@ export const IndexPageTemplate = ({ title, subtitle, description, sections, cont
         <header className='index-header'>
         <div className='index-intro-container'>
           <div className='index-intro'>
-            <h1 className='index-title'>{title}</h1>
+            <h1 className='index-title'>Sören Holst</h1>
             <p className='index-subtitle'>{subtitle}</p>
             <PageContent className='index-description' content={convertMarkdownToHtml(description)} />
           </div>
