@@ -407,7 +407,7 @@ ul li h2 {
 
 .page-section {
   margin: 0 auto;
-  padding: 3em 5%;
+  padding: 3em 5% 1em 5%;
   max-width: 1024px;
 }
 
@@ -465,7 +465,6 @@ ul li h2 {
   .section-item {
     width: 50%;
     box-sizing: border-box;
-    margin-bottom: 1em;
   }
 }
 
