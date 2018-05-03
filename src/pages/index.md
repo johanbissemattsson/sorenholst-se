@@ -55,7 +55,7 @@ sections:
           theories](/media/Tankeexperiment-ArtikelTE.pdf)
         featuredImage:
           src: /media/teartikelbild.png
-        link: /media/Tankeexperiment-ArtikelTE.pdf
+        link: media/Tankeexperiment-ArtikelTE.pdf
       - title: Framgångsrika fantasier
         description: >-
           Vetenskap handlar i grunden om att förstå hur verkligheten är
