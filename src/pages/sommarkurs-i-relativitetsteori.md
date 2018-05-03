@@ -1,6 +1,7 @@
 ---
 templateKey: page
 title: Sommarkurs i Relativitetsteori
+language: Swedish
 bodyBox: ''
 ---
 **Fysikums sommarkurs i relativitetsteori (7,5 hp) är för tillfället vilande.**

@@ -1,6 +1,7 @@
 ---
 templateKey: index-page
 title: Sören Holst
+language: Swedish
 subtitle: 'Teoretisk fysiker, författare och föreläsare'
 description: >-
   Jag är teoretisk fysiker verksam vid fysikinstitutionen vid Stockholms

@@ -1,6 +1,7 @@
 ---
 templateKey: page
 title: Alla artiklar
+language: Swedish
 ---
 * ## [Humanismen - en tro bland andra?](media/Debattartikel-Livsaskadning.pdf)
   Humanismen och den humanistiska rörelsen framställs allt oftare som en alternativ religion. Inom organisationen hävdar vissa att humanismen erbjuder allt som religionerna erbjuder - men utan Gud - samt att man måste framhålla "det positiva i livsåskådningen, det vi tror på". Utanför organisationen framhåller andra (skadeglatt) att humanismen håller på att utvecklas till en "ateistisk tro". Jag ser med oro på dessa missuppfattningar om vad humanismen är och bör vara.

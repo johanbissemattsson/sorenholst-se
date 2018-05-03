@@ -1,6 +1,7 @@
 ---
 templateKey: index-page
 title: Sören Holst in English
+language: English
 subtitle: 'Theoretical Physicist, author and lecturer'
 description: >-
   I am a Theoretical Physicist at the Physics Department of Stockholm
@@ -51,7 +52,7 @@ sections:
           alt: Tankeexperiment
           src: /media/Start-Tankeexperiment.png
         link: /media/Tankeexperiment-ArtikelTE.pdf
-    uid: tankeexperiment
+    uid: thought-experiments
   - title: Theory of Relativity
     description: >-
       The Special and the General Theories of Relativity were both formulated by
@@ -93,7 +94,7 @@ sections:
           alt: Föreläsning om relativitetsteori
           src: /media/Start-ForelasningOmRelativitetsteori.png
         link: /forelasning-om-relativitetsteori
-    uid: relativitetsteori
+    uid: theory-of-relativity
   - title: Teaching
     description: >-
       I am teaching at the Bachelor Programme in Physics and I also give summer
@@ -140,6 +141,6 @@ sections:
         featuredImage:
           alt: STINT Programme for Excellence in Teaching
           src: /media/Start-Skidmore.jpg
-    uid: undervisning
+    uid: teaching
 ---
 

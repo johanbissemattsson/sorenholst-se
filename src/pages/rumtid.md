@@ -1,6 +1,7 @@
 ---
 templateKey: page
 title: Rumtid - en introduktion till Einsteins relativitetsteori
+language: Swedish
 bodyBox: |-
   <h2 id='instuderingsfragor'>Instuderingsfrågor</h2>
 

@@ -5,15 +5,16 @@ import Content, { HTMLContent } from '../components/Content';
 import Link from '../components/Link';
 import Remark from 'remark';
 import html from 'remark-html';
+import Nav from '../components/Nav';
 
 const ScrollLink = ReactScroll.Link;
 
-export const IndexPageTemplate = ({ title, subtitle, description, sections, content, contentComponent }) => {
+export const IndexPageTemplate = ({ title, subtitle, description, sections, content, contentComponent, language, navSwedish, navEnglish }) => {
   const PageContent = contentComponent || Content;
-
   const convertMarkdownToHtml = ((markdownString) => Remark().use(html).processSync(markdownString.replace(/\\/g, '  '), ((err, file) => err ? {contents: '' } : file)).contents);
   return (
     <div className='index page'>
+    <Nav isIndex={true} language={language} navItems={language === 'English' ? navEnglish : navSwedish}/>
     <div className='index-header-container'>
         <header className='index-header'>
         <div className='index-intro-container'>
@@ -96,16 +97,18 @@ IndexPageTemplate.propTypes = {
 }
 
 const IndexPage = ({ data }) => {
-  const { markdownRemark: post } = data;
-
+  const { markdownRemark: post, nav: nav } = data;
   return (
     <IndexPageTemplate
       contentComponent={HTMLContent}
       title={post.frontmatter.title}
+      language={post.frontmatter.language}
       subtitle={post.frontmatter.subtitle}
       description={post.frontmatter.description}
       sections={post.frontmatter.sections}
       content={post.html}
+      navSwedish={nav.frontmatter.navMenuSwedish}
+      navEnglish={nav.frontmatter.navMenuEnglish}
     />
   )
 }
@@ -122,6 +125,7 @@ export const indexPageQuery = graphql`
       html
       frontmatter {
         title
+        language
         subtitle
         description
         sections {
@@ -138,6 +142,18 @@ export const indexPageQuery = graphql`
               alt
             }
           }
+        }
+      }
+    }
+    nav: markdownRemark(frontmatter: {templateKey: {eq: "settings-navigation"}}) {
+      frontmatter {
+        navMenuSwedish {
+          link
+          title
+        }
+        navMenuEnglish {
+          link
+          title
         }
       }
     }

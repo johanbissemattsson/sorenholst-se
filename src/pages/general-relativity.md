@@ -1,6 +1,7 @@
 ---
 templateKey: page
 title: General Relativity
+language: Swedish
 bodyBox: >-
   ## Course material
 

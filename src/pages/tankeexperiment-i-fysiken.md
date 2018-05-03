@@ -1,6 +1,7 @@
 ---
 templateKey: page
 title: Tankeexperiment i fysiken
+language: Swedish
 bodyBox: |-
   ## Kursmaterial
 

@@ -27,7 +27,6 @@ export default class TemplateWrapper extends Component {
     return (
       <div className='site-container'>
         <Helmet title='Sören Holst' />
-        <Nav isIndex={isIndex}/>
         <div className='page-container'>{children()}</div>
         <Footer />
         <div className={isIndex ? 'site-background-container index-background' : 'site-background-container'}>

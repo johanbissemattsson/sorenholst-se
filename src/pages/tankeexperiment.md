@@ -1,6 +1,7 @@
 ---
 templateKey: page
 title: Tankeexperiment
+language: Swedish
 list:
   - listItemContent: >-
       Ett av fysikhistoriens mest välkända tankeexperiment är Galileos

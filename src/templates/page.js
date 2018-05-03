@@ -5,14 +5,15 @@ import Helmet from 'react-helmet';
 import Remark from 'remark';
 import html from 'remark-html';
 import Link from '../components/Link';
+import Nav from '../components/Nav';
 
-
-export const PageTemplate = ({ title, content, contentComponent, bodyBox, bodyExtra, list }) => {
+export const PageTemplate = ({ title, content, contentComponent, bodyBox, bodyExtra, list, navSwedish, navEnglish, language }) => {
   const PageContent = contentComponent || Content
   const convertMarkdownToHtml = ((markdownString) => Remark().use(html).processSync(markdownString.replace(/\\/g, '  '), ((err, file) => err ? {contents: '' } : file)).contents);
   return (
     <div className='page'>
       <Helmet title={title + ' | Sören Holst'} />
+      <Nav isIndex={false} navItems={language === 'English' ? navEnglish : navSwedish}/>
       {!list ?
         <article className='page-article'>
           <h1 className='page-title'>{title}</h1>
@@ -79,17 +80,18 @@ PageTemplate.propTypes = {
 }
 
 const Page = ({ data }) => {
-  const { markdownRemark: post } = data
-
+  const { markdownRemark: post, nav: nav} = data
   return (
     <PageTemplate
       contentComponent={HTMLContent}
       title={post.frontmatter.title}
+      language={post.frontmatter.language}
       content={post.html}
       bodyBox={post.frontmatter.bodyBox}
       bodyExtra={post.frontmatter.bodyExtra}
       list={post.frontmatter.list}
-
+      navSwedish={nav.frontmatter.navMenuSwedish}
+      navEnglish={nav.frontmatter.navMenuEnglish}
     />
 
   )
@@ -107,6 +109,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        language
         bodyBox
         bodyExtra
         list {
@@ -117,5 +120,17 @@ export const pageQuery = graphql`
         }
       }
     }
+    nav: markdownRemark(frontmatter: {templateKey: {eq: "settings-navigation"}}) {
+      frontmatter {
+        navMenuSwedish {
+          link
+          title
+        }
+        navMenuEnglish {
+          link
+          title
+        }
+      }
+    }    
   }
 `

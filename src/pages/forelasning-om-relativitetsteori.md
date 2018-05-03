@@ -1,6 +1,7 @@
 ---
 templateKey: page
 title: Föreläsning om relativitetsteori
+language: Swedish
 bodyBox: 
 bodyExtra: ''
 ---

@@ -1,6 +1,7 @@
 ---
 templateKey: page
 title: Test
+language: Swedish
 ---
 Vanlig text lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas accumsan ligula eget augue elementum cursus. Vestibulum pretium odio libero. Sed euismod dignissim justo eu commodo. Maecenas volutpat tellus vitae purus sodales scelerisque.
 

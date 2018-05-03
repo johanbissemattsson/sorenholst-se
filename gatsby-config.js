@@ -14,6 +14,13 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
+        path: `${__dirname}/src/pages/settings`,
+        name: 'settings',
+      },
+    },    
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
         path: `${__dirname}/static/media`,
         name: 'images',
       },

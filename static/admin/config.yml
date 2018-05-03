@@ -20,6 +20,7 @@ collections:
     fields:
       - {label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'page'}
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Language', name: 'language', default: 'Swedish', widget: 'select', options: ['Swedish', 'English']}
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Info box', name: 'bodyBox', widget: 'markdown', required: false}
       - {label: 'Extra content', name: 'bodyExtra', widget: 'markdown', required: false}
@@ -43,6 +44,7 @@ collections:
     fields:
       - {label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'index-page'}
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Language', name: 'language', default: 'Swedish', widget: 'select', options: ['Swedish', 'English']}      
       - {label: 'Subtitle', name: 'subtitle', widget: 'string'}
       - {label: 'Description', name: 'description', widget: 'markdown'}
       - {label: 'Body', name: 'body', widget: 'hidden'}
@@ -68,4 +70,35 @@ collections:
                   - {label: 'Image', name: 'src', widget: 'image'}
                   - {label: 'Image alt text', name: 'alt', widget: 'string'}
           - {label: 'Content under section items', name: 'more', widget: 'markdown', required: false}
+  - name: 'settings'
+    label: 'Settings'
+    editor:
+      preview: false    
+    files:   
+      - label: 'Navigation'
+        name: 'navigation'
+        file: 'src/settings/navigation.md'
+        fields:
+          - {label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'settings-navigation'}
+          - label: 'Swedish nav menu items'
+            name: 'navMenuSwedish'
+            widget: 'list'
+            fields:
+              - label: 'Link'
+                name: 'link'
+                widget: 'string'
+              - label: 'Link Title'
+                name: 'title'
+                widget: 'string'
+          - label: 'English nav menu items'
+            name: 'navMenuEnglish'
+            widget: 'list'
+            fields:
+              - label: 'Link'
+                name: 'link'
+                widget: 'string'
+              - label: 'Link Title'
+                name: 'title'
+                widget: 'string'                       
+                        
                   
