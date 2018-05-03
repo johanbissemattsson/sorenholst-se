@@ -7,13 +7,15 @@ description: >-
   Universitet, [Fysikum](https://www.fysik.su.se). Till mina huvudintressen inom
   fysiken hör relativitetsteori och kvantfysik.
 sections:
-  - more: ''
+  - title: Tankeexperiment
+    description: >-
+      Inom vetenskap och filosofi använder man sig ibland av tankeexperiment,
+      dvs. en sorts tankelekar. Trots att de ofta handlar om orealistiska
+      situationer visar de sig vara förvånansvärt användbara, inte minst inom
+      fysik.
+    more: ''
     sectionItems:
-      - featuredImage:
-          alt: Tankar som förändrar allt
-          src: /media/Start-OmslagTankarSomForandrarAllt.png
-        link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
-        title: Tankar som ändrar allt
+      - title: Tankar som ändrar allt
         description: >-
           Hösten 2012 kom min bok _Tankar som ändrar allt_. Om tankeexperiement
           och nya världsbilder ut på Fri Tanke förlag. Boken handlar om hur
@@ -24,14 +26,11 @@ sections:
 
           [Läs mer om boken på förlagets
           hemsida](http://fritanke.se/bocker/tankar-som-andrar-allt-2/)
-
-
-          <br><br>
-      - featuredImage:
-          alt: Tankeexperiment
-          src: /media/Start-Tankeexperiment.png
-        link: /tankeexperiment
-        title: Tankeexperiment i Fysikaktuellt
+        featuredImage:
+          alt: Tankar som förändrar allt
+          src: /media/Start-OmslagTankarSomForandrarAllt.png
+        link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
+      - title: Tankeexperiment i Fysikaktuellt
         description: >-
           Under avdelningen _Tankeexperiment_ i Svenska Fysikersamfundets
           tidskrift Fysikaktuellt har jag i en serie nummer skrivit om olika
@@ -39,10 +38,11 @@ sections:
 
 
           [Alla artiklar från Fysikaktuellt](/tankeexperiment)
-      - featuredImage:
-          src: /media/teartikelbild.png
-        link: /media/Tankeexperiment-ArtikelTE.pdf
-        title: Hur funkar tankeexperiment?
+        featuredImage:
+          alt: Tankeexperiment
+          src: /media/Start-Tankeexperiment.png
+        link: /tankeexperiment
+      - title: Hur funkar tankeexperiment?
         description: >-
           Hur kommer det sig att man kan lära sig något om verkligheten genom
           att experimentera i tanken? Jag tror att svaret har att göra med de
@@ -53,11 +53,10 @@ sections:
 
           [Thought experiments and the scarcity of good
           theories](/media/Tankeexperiment-ArtikelTE.pdf)
-      - featuredImage:
-          src: /media/teleportation.png
-        link: >-
-          https://suplay.screen9.tv/media/aFM4l6zE_WRcWok9MUiZXA/framgangsrika-fantasier
-        title: Framgångsrika fantasier
+        featuredImage:
+          src: /media/teartikelbild.png
+        link: /media/Tankeexperiment-ArtikelTE.pdf
+      - title: Framgångsrika fantasier
         description: >-
           Vetenskap handlar i grunden om att förstå hur verkligheten är
           beskaffad. Trots det ägnar man sig ibland åt att fantisera om det
@@ -72,19 +71,18 @@ sections:
 
           [Framgångsrika
           fantasier](https://suplay.screen9.tv/media/aFM4l6zE_WRcWok9MUiZXA/framgangsrika-fantasier)
-    title: Tankeexperiment
-    description: >-
-      Inom vetenskap och filosofi använder man sig ibland av tankeexperiment,
-      dvs. en sorts tankelekar. Trots att de ofta handlar om orealistiska
-      situationer visar de sig vara förvånansvärt användbara, inte minst inom
-      fysik.
+        featuredImage:
+          src: /media/teleportation.png
+        link: >-
+          https://suplay.screen9.tv/media/aFM4l6zE_WRcWok9MUiZXA/framgangsrika-fantasier
     uid: tankeexperiment
-  - sectionItems:
-      - featuredImage:
-          alt: Rumtid – en introduktion till Einsteins relativitetsteori
-          src: /media/Start-Rumtid.png
-        link: /rumtid
-        title: Bok i relativitetsteori
+  - title: Relativitetsteori
+    description: >-
+      De båda relativitetsteorierna – den speciella och den allmänna –
+      formulerades av Einstein för över hundra år sedan, men utgör än idag två
+      av grundstenarna inom modern fysik.
+    sectionItems:
+      - title: Bok i relativitetsteori
         description: >-
           Våren 2006 kom min bok _Rumtid – en introduktion till Einsteins
           relativitetsteori_ ut. I Boken förklaras den speciella
@@ -96,11 +94,11 @@ sections:
 
 
           [Instuderingsfrågor till boken](/rumtid/#instuderingsfragor)
-      - featuredImage:
-          alt: Föreläsning om relativitetsteori
-          src: /media/Start-ForelasningOmRelativitetsteori.png
-        link: /forelasning-om-relativitetsteori
-        title: Föreläsning om relativitetsteori
+        featuredImage:
+          alt: Rumtid – en introduktion till Einsteins relativitetsteori
+          src: /media/Start-Rumtid.png
+        link: /rumtid
+      - title: Föreläsning om relativitetsteori
         description: >-
           Vad är det egentligen som får månen att hållas kvar i bana kring
           jorden, och vad är det som gör att äpplen faller till marken? En
@@ -114,17 +112,17 @@ sections:
 
 
           [Titta på föreläsningen](/forelasning-om-relativitetsteori)
-    title: Relativitetsteori
-    description: >-
-      De båda relativitetsteorierna – den speciella och den allmänna –
-      formulerades av Einstein för över hundra år sedan, men utgör än idag två
-      av grundstenarna inom modern fysik.
+        featuredImage:
+          alt: Föreläsning om relativitetsteori
+          src: /media/Start-ForelasningOmRelativitetsteori.png
+        link: /forelasning-om-relativitetsteori
     uid: relativitetsteori
-  - sectionItems:
-      - featuredImage:
-          alt: Kurser
-          src: /media/Start-Kurser.jpg
-        title: Kurser
+  - title: Undervisning
+    description: >-
+      Jag undervisar på såväl kandidat- som masternivå på Fysikum, och håller
+      även sommarkurser.
+    sectionItems:
+      - title: Kurser
         description: >2-
            Här är de kurser som är aktuella för närvarande:
 
@@ -137,10 +135,10 @@ sections:
             Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
           * ## [Tankeexperiment i fysiken](/tankeexperiment-i-fysiken)
             Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
-      - featuredImage:
-          alt: STINT Programme for Excellence in Teaching
-          src: /media/Start-Skidmore.jpg
-        title: STINT Programme for Excellence in Teaching
+        featuredImage:
+          alt: Kurser
+          src: /media/Start-Kurser.jpg
+      - title: STINT Programme for Excellence in Teaching
         description: >-
           Hösten 2007 vistades jag vid Skidmore College i Saratoga Springs, New
           York, inom ramen för stiftelsen STINT's 'Programme for Excellence in
@@ -163,12 +161,16 @@ sections:
 
           [Krönika om min vistelse vid Skidmore
           College](media/Skidmore-Kronika.pdf)
-    title: Undervisning
-    description: >-
-      Jag undervisar på såväl kandidat- som masternivå på Fysikum, och håller
-      även sommarkurser.
+        featuredImage:
+          alt: STINT Programme for Excellence in Teaching
+          src: /media/Start-Skidmore.jpg
     uid: undervisning
-  - more: '[Fler artiklar](/alla-debattinlagg)'
+  - title: Debatt och samhälle
+    description: >-
+      När jag engagerar mig i samhällsdebatten handlar det ofta om frågor som
+      rör religion, vetenskap, mänskliga rättigheter och jämställdhet. Här är
+      några exempel på artiklar jag skrivit:
+    more: '[Fler artiklar](/alla-debattinlagg)'
     sectionItems:
       - description: >-
           * ## [Humanismen - en tro bland
@@ -188,11 +190,6 @@ sections:
           könsrasism](http://www.fritankesmedja.se/en-forradisk-konsrasism)
             Vårt samhälle värderar ännu män och kvinnor enligt en rasistisk logik, där knappt märkbara statistiska skillnader tas till intäkt för att bevara djupgående könsstereotyper.\
             _(Artikeln publicerad i Humanisten nr 5-6 2008)_
-    title: Debatt och samhälle
-    description: >-
-      När jag engagerar mig i samhällsdebatten handlar det ofta om frågor som
-      rör religion, vetenskap, mänskliga rättigheter och jämställdhet. Här är
-      några exempel på artiklar jag skrivit:
     uid: debatt-och-samhalle
 ---
 
