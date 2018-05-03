@@ -325,16 +325,6 @@ ul li h2 {
   .site-background-container.index-background {
     background-position: 50% 33% !important;
   }
-
-  .site-nav .nav-items {
-    margin-top: 0.25em
-  }
-
-  .site-nav .nav-items .nav-home-item {
-      font-size: 1.5em;
-      position: relative;
-      top: -0.25em;
-  }
 }
 
 @media only screen and (min-width: 1024px) {
