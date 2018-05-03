@@ -2,7 +2,7 @@
 templateKey: page
 title: Rumtid - en introduktion till Einsteins relativitetsteori
 bodyBox: |-
-  ## Instuderingsfrågor
+  <h2 id='instuderingsfragor'>Instuderingsfrågor</h2>
 
   * [Instuderingsfrågor till kapitel 1](/media/Rumtid-Instud1.pdf)
   * [Instuderingsfrågor till kapitel 2](/media/Rumtid-Instud2.pdf)
@@ -28,7 +28,6 @@ bodyBox: |-
 
   * [**Rumtidsdiagram**](/media/Rumtid-Diagramproblem.pdf)\
     Övningar på att läsa av, tolka och rita rumtidsdiagram. Behandlar kapitel 1 till 5.
-
   * [**Tidsdilatation och rumtidsgeometri**](/media/Rumtid-Rumtidsproblem.pdf)\
     Tvillingparadoxliknande problem som har med åldrande att göra. Behandlar kapitel 1 till 5.
   * [**Energi och massa**](/media/Rumtid-Energiproblem.pdf)\
