@@ -1,10 +1,10 @@
 ---
 templateKey: settings-navigation
 navMenuSwedish:
-  - link: tankeexperiment
-    title: Tankeexperiment
   - link: relativitetsteori
     title: Relativitetsteori
+  - link: tankeexperiment
+    title: Tankeexperiment
   - link: undervisning
     title: Undervisning
   - link: debatt-och-samhalle
@@ -21,3 +21,4 @@ navMenuEnglish:
   - link: contact
     title: Contact
 ---
+
