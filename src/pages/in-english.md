@@ -11,14 +11,12 @@ description: >-
   _Horizons and Time machines - global structures in locally trivial
   spacetimes_.
 sections:
-  - title: Thought experiments
-    description: >-
-      Thought experiments is a common way of reasoning within certain parts of
-      Science and Philosophy. In spite of the fact that such arguments often
-      involve quite unrealistic scenarios, they turn out to be surpricingly
-      useful, not least within Physics.
-    sectionItems:
-      - title: Book on thought experiments in Physics and Philosophy
+  - sectionItems:
+      - featuredImage:
+          alt: Tankar som förändrar allt
+          src: /media/Start-OmslagTankarSomForandrarAllt.png
+        link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
+        title: Book on thought experiments in Physics and Philosophy
         description: >-
           My latest book (in Swedish) came in the fall 2012 at Fri Tanke förlag
           (Free Thought Publishers): _Tankar som ändrar allt. Om tankeexperiment
@@ -34,11 +32,11 @@ sections:
 
           Read more about the book on [the publisher's
           website](http://fritanke.se/bocker/tankar-som-andrar-allt-2/).
-        featuredImage:
-          alt: Tankar som förändrar allt
-          src: /media/Start-OmslagTankarSomForandrarAllt.png
-        link: 'http://fritanke.se/bocker/tankar-som-andrar-allt-2/'
-      - title: Why do thought experiments work?
+      - featuredImage:
+          alt: Tankeexperiment
+          src: /media/teartikelbild3.png
+        link: /media/Tankeexperiment-ArtikelTE.pdf
+        title: Why do thought experiments work?
         description: >-
           How is it possible that one can learn things about the real world by
           performing unrealistic experiments in ones mind? This is an issue
@@ -48,18 +46,19 @@ sections:
 
           [Thought experiments and the scarcity of good
           theories](/media/Tankeexperiment-ArtikelTE.pdf)
-        featuredImage:
-          alt: Tankeexperiment
-          src: /media/Start-Tankeexperiment.png
-        link: /media/Tankeexperiment-ArtikelTE.pdf
-    uid: thought-experiments
-  - title: Theory of Relativity
+    title: Thought experiments
     description: >-
-      The Special and the General Theories of Relativity were both formulated by
-      Albert Einstein more than hundred years ago, but are still part of the
-      foundations of Modern Theoretical Physics.
-    sectionItems:
-      - title: Book in Relativity
+      Thought experiments is a common way of reasoning within certain parts of
+      Science and Philosophy. In spite of the fact that such arguments often
+      involve quite unrealistic scenarios, they turn out to be surpricingly
+      useful, not least within Physics.
+    uid: thought-experiments
+  - sectionItems:
+      - featuredImage:
+          alt: Rumtid – en introduktion till Einsteins relativitetsteori
+          src: /media/Start-Rumtid.png
+        link: /rumtid
+        title: Book in Relativity
         description: >-
           My book (in swedish) _Rumtid - en introduktion till Einsteins
           relativitetsteori_ (Spacetime - an introduction to Einstein's Theory
@@ -73,11 +72,11 @@ sections:
 
 
           [More about the book, including problems](/rumtid)
-        featuredImage:
-          alt: Rumtid – en introduktion till Einsteins relativitetsteori
-          src: /media/Start-Rumtid.png
-        link: /rumtid
-      - title: Popular lecture on Relativity (in Swedish)
+      - featuredImage:
+          alt: Föreläsning om relativitetsteori
+          src: /media/Start-ForelasningOmRelativitetsteori.png
+        link: /forelasning-om-relativitetsteori
+        title: Popular lecture on Relativity (in Swedish)
         description: >-
           What is it that keeps the Moon in orbit around the Earth, and what
           causes an apple to fall to the ground? A force? Not at all, says
@@ -90,17 +89,17 @@ sections:
 
 
           [View lecture](/forelasning-om-relativitetsteori)
-        featuredImage:
-          alt: Föreläsning om relativitetsteori
-          src: /media/Start-ForelasningOmRelativitetsteori.png
-        link: /forelasning-om-relativitetsteori
-    uid: theory-of-relativity
-  - title: Teaching
+    title: Theory of Relativity
     description: >-
-      I am teaching at the Bachelor Programme in Physics and I also give summer
-      courses for a broader audience.
-    sectionItems:
-      - title: Courses
+      The Special and the General Theories of Relativity were both formulated by
+      Albert Einstein more than hundred years ago, but are still part of the
+      foundations of Modern Theoretical Physics.
+    uid: theory-of-relativity
+  - sectionItems:
+      - featuredImage:
+          alt: Kurser
+          src: /media/Start-Kurser.jpg
+        title: Courses
         description: >2-
            Hear are my current courses:
 
@@ -115,10 +114,10 @@ sections:
           * ## [Thought Experiments in Physics (Swedish
           webpage)](/tankeexperiment-i-fysiken)
             This course examines the role of thought experimentation in the history of Physics, from Galileo to Einstein and onwards. Using the method of thought experimentation as a springboard, we discuss several interesting areas within physics, such as Relativity and Quantum Physics.
-        featuredImage:
-          alt: Kurser
-          src: /media/Start-Kurser.jpg
-      - title: STINT Programme for Excellence in Teaching
+      - featuredImage:
+          alt: STINT Programme for Excellence in Teaching
+          src: /media/Start-Skidmore.jpg
+        title: STINT Programme for Excellence in Teaching
         description: >-
           The fall of 2007 I spent at Skidmore College in Saratoga Springs, New
           York, paid by the governmental foundation STINT, within their
@@ -138,9 +137,10 @@ sections:
 
           [Report from my stay at Skidmore College
           2007](/media/Skidmore-Report.pdf)
-        featuredImage:
-          alt: STINT Programme for Excellence in Teaching
-          src: /media/Start-Skidmore.jpg
+    title: Teaching
+    description: >-
+      I am teaching at the Bachelor Programme in Physics and I also give summer
+      courses for a broader audience.
     uid: teaching
 ---
 
