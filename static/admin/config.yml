@@ -77,7 +77,7 @@ collections:
     files:   
       - label: 'Navigation'
         name: 'navigation'
-        file: 'src/settings/navigation.md'
+        file: 'src/pages/settings/navigation.md'
         fields:
           - {label: 'Template Key', name: 'templateKey', widget: 'hidden', default: 'settings-navigation'}
           - label: 'Swedish nav menu items'
