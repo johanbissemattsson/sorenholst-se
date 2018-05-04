@@ -166,6 +166,20 @@ sections:
       Jag undervisar på såväl kandidat- som masternivå på Fysikum, och håller
       även sommarkurser.
     uid: undervisning
+  - sectionItems:
+      - featuredImage:
+          src: /media/kosmosframsida.png
+        link: 'http://www.fysikersamfundet.se/kosmos/'
+        title: 'Kosmos 2017: Vår kvantvärld'
+        description: >-
+          Temat i 2017 års utgåva är kvantfysik. Här finns essäer om
+          sammanflätning, icke-lokalitet, kvantdatorer med mera.
+
+
+          [Läs artiklarna i Kosmos 2017](http://www.fysikersamfundet.se/kosmos/)
+    title: Kosmos
+    description: "Sedan 2017 är jag redaktör för Svenska fysikersamfundets årsbok Kosmos, som innehåller fördjupande essäer om fysik på svenska. Nivån kan karaktäriseras som ett slags avancerad populärvetenskap. \rSyftet med Kosmos är att bidra till ökad kunskap om fysikämnets innehåll och bredd, samt att spegla den roll fysiken spelar för en modern världsbild."
+    uid: kosmos
   - more: '[Fler artiklar](/alla-debattinlagg)'
     sectionItems:
       - description: >-
@@ -192,19 +206,5 @@ sections:
       rör religion, vetenskap, mänskliga rättigheter och jämställdhet. Här är
       några exempel på artiklar jag skrivit:
     uid: debatt-och-samhalle
-  - sectionItems:
-      - featuredImage:
-          src: /media/kosmosframsida.png
-        link: 'http://www.fysikersamfundet.se/kosmos/'
-        title: 'Kosmos 2017: Vår kvantvärld'
-        description: >-
-          Temat i 2017 års utgåva är kvantfysik. Här finns essäer om
-          sammanflätning, icke-lokalitet, kvantdatorer med mera.
-
-
-          [Läs artiklarna i Kosmos 2017](http://www.fysikersamfundet.se/kosmos/)
-    title: Kosmos
-    description: "Sedan 2017 är jag redaktör för Svenska fysikersamfundets årsbok Kosmos, som innehåller fördjupande essäer om fysik på svenska. Nivån kan karaktäriseras som ett slags avancerad populärvetenskap. \rSyftet med Kosmos är att bidra till ökad kunskap om fysikämnets innehåll och bredd, samt att spegla den roll fysiken spelar för en modern världsbild."
-    uid: kosmos
 ---
 
