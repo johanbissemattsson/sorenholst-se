@@ -193,7 +193,9 @@ sections:
       några exempel på artiklar jag skrivit:
     uid: debatt-och-samhalle
   - sectionItems:
-      - link: 'http://www.fysikersamfundet.se/kosmos/'
+      - featuredImage:
+          src: /media/kosmosframsida.png
+        link: 'http://www.fysikersamfundet.se/kosmos/'
         title: 'Kosmos 2017: Vår kvantvärld'
         description: >-
           Temat i 2017 års utgåva är kvantfysik. Här finns essäer om
