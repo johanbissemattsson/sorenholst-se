@@ -55,7 +55,7 @@ sections:
           src: /media/teleportation.png
         link: >-
           https://suplay.screen9.tv/media/aFM4l6zE_WRcWok9MUiZXA/framgangsrika-fantasier
-        title: Framgångsrika fantasier
+        title: Föredrag om tankeexperiment
         description: >-
           Vetenskap handlar i grunden om att förstå hur verkligheten är
           beskaffad. Trots det ägnar man sig ibland åt att fantisera om det
