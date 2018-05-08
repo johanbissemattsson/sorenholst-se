@@ -2,12 +2,16 @@
 templateKey: page
 title: Tankeexperiment i fysiken
 language: Swedish
-bodyBox: |-
+bodyBox: >-
   ## Kursmaterial
+
 
   (Kommer att fyllas på under kursens gång.)
 
-  * [Kursens schema](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK1021)
+
+  * [Kursens
+  schema](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK1021)
+
   * [Preliminär planering](/media/Tankeexperiment-Planering.pdf)
 bodyExtra: >-
   ## Kursens innehåll och syfte
@@ -97,14 +101,15 @@ bodyExtra: >-
   30% inlämningsuppgift. 
 
 
-  [Kursens sida i Fysikums kurskatalog](http://www.fysik.su.se/studentportal/kursinformation/schema/kursfakta.php?kurs=FK1021)
+  [Kursens sida i Fysikums
+  kurskatalog](http://www.fysik.su.se/studentportal/kursinformation/schema/kursfakta.php?kurs=FK1021)
 
 
   [Länk till den officiella
   kursplanen](https://sisu.it.su.se/pdf_creator/cached/15238/29799)
 
 
-  [Kursens betygskriterier](media/Tankeexperiment-betygskriterier.pdf)
+  [Kursens betygskriterier](/media/Tankeexperiment-betygskriterier.pdf)
 ---
 ![General Relativity](/media/Tankeexperiment-Intro.jpg)
 Fysikhistorien är full av tankeexperiment. Men kan man verkligen lära sig något om hur naturen fungerar bara genom att föreställa sig saker?
