@@ -16,6 +16,8 @@ bodyBox: >-
 
   * [Info about the examination](/media/GeneralRelativity-Examination.pdf)
 
+  * [Questions for oral examination](/media/generalrelativity-munta.pdf)
+
   * [Answers to recommended problems](/media/GeneralRelativity-HartleFacit.pdf)
 
   * [Errata to the course book (Hartle:
@@ -25,12 +27,23 @@ bodyBox: >-
   ## Bonustest I
 
 
-  Here is the bonustest (April 11) and answers to it: 
+  Here is Bonustest I (April 11) and answers to it: 
 
 
   * [Bonustest I](/media/GeneralRelativity-bonustestI.pdf)
 
   * [Bonustest I with answers](/media/GeneralRelativity-bonustestIsvar.pdf)
+
+
+  ## Bonustest II
+
+
+  Here is Bonustest II (May 9) and answers to it: 
+
+
+  * [Bonustest II](/media/generalrelativity-bonustest2.pdf)
+
+  * [Bonustest II with answers](/media/generalrelativity-bonustest2svar.pdf)
 
 
   ## Lecture notes
