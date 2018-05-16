@@ -52,7 +52,7 @@ Kursen vänder sig både till dig som inte tidigare har studerat fysik och matte
 
 Jag som håller i kursen heter Sören Holst. [Här](/) är min hemsida. Om du har frågor om kursen är du välkommen att maila mig på <mailto:holst@fysik.su.se> 
 
-[Kursens sida i Fysikums kurskatalog](#)
+[Kursen i Fysikums kurskatalog](https://www.fysik.su.se/utbildning/program-kurser/kvälls-och-orienteringskurser)
 
 [Länk till den officiella kursplanen](https://sisu.it.su.se/pdf_creator/24683/31346)
 
