@@ -109,7 +109,7 @@ bodyExtra: >-
   kursplanen](https://sisu.it.su.se/pdf_creator/cached/15238/29799)
 
 
-  [Kursens betygskriterier](/media/Tankeexperiment-betygskriterier.pdf)
+  [Kursens betygskriterier](/media/betygskrittankeexp.pdf)
 ---
 ![Tankeexperiment i fysiken](/media/Tankeexperiment-Intro.jpg)
 **Fysikhistorien är full av tankeexperiment. Men kan man verkligen lära sig något om hur naturen fungerar bara genom att föreställa sig saker?**
