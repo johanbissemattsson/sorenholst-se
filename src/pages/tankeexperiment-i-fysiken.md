@@ -101,8 +101,8 @@ bodyExtra: >-
   30% inlämningsuppgift. 
 
 
-  [Kursens sida i Fysikums
-  kurskatalog](http://www.fysik.su.se/studentportal/kursinformation/schema/kursfakta.php?kurs=FK1021)
+  [Kursen i Fysikums
+  kurskatalog](https://www.fysik.su.se/utbildning/program-kurser/kvälls-och-orienteringskurser)
 
 
   [Länk till den officiella
