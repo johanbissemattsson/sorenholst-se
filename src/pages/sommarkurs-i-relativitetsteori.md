@@ -56,4 +56,4 @@ Jag som håller i kursen heter Sören Holst. [Här](/) är min hemsida. Om du ha
 
 [Länk till den officiella kursplanen](https://sisu.it.su.se/pdf_creator/24683/31346)
 
-[Kursens betygskriterier](#)
+[Kursens betygskriterier](/media/betygskritrelteori.pdf)
