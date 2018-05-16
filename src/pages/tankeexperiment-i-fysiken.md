@@ -28,7 +28,7 @@ bodyExtra: >-
   andra; vi försöker sätta oss in i en annan människas situation för att
   förutsäga hur hon kommer att handla. Men har verkligen resonemang av det här
   slaget någon plats inom vetenskapen? Kan man verkligen lära sig något om hur
-  naturen fungerar genom att bara _föreställa _sig saker? 
+  naturen fungerar genom att bara _föreställa_ sig saker? 
 
 
   Fysikhistorien är i varje fall full av sådana tankeexperiment. Vi kommer under
@@ -43,7 +43,7 @@ bodyExtra: >-
   fysikens många delområden, och belysa deras centrala aspekter och problem. 
 
 
-  Kursen förutsätter inga tidigare kunskaper i fysik - bara ett genuint intresse
+  Kursen förutsätter inga tidigare kunskaper i fysik – bara ett genuint intresse
   av att vilja förstå naturlagarna. Kursen rekommenderas således för alla som
   vill få ökad förståelse och kunskap inom fysiken och dess idéhistoria.
   Eftersom kursen belyser och exemplifierar tankeexperimentens pedagogiska
