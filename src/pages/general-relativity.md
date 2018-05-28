@@ -24,7 +24,7 @@ bodyBox: >
   Gravity)](http://media.pearsoncmg.com/aw/aw_hartle_gravity_1/medialib/Hartle_Errata_Printings_1-7.pdf)
 
 
-  # Bonustest I
+  ### Bonustest I
 
 
   Here is Bonustest I (April 11) and answers to it: 
@@ -35,7 +35,7 @@ bodyBox: >
   * [Bonustest I with answers](/media/GeneralRelativity-bonustestIsvar.pdf)
 
 
-  ## Bonustest II
+  ### Bonustest II
 
 
   Here is Bonustest II (May 9) and answers to it: 
@@ -46,7 +46,7 @@ bodyBox: >
   * [Bonustest II with answers](/media/generalrelativity-bonustest2svar.pdf)
 
 
-  ## Lecture notes
+  ### Lecture notes
 
 
   Please note that these notes are written primarily for myself as support
