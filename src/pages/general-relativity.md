@@ -25,7 +25,7 @@ bodyBox: >
 
 
 
-  ### Exam May 31 2108 
+  ### Exams 2108 
 
 
   * [Exam May 31](/media/generalrelativity-tenta18.pdf)
