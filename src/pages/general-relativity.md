@@ -24,15 +24,14 @@ bodyBox: >
   Gravity)](http://media.pearsoncmg.com/aw/aw_hartle_gravity_1/medialib/Hartle_Errata_Printings_1-7.pdf)
 
 
-  ### Bonustest I
+
+  ### Exam May 31 2108 
 
 
-  Here is Bonustest I (April 11) and answers to it: 
+  * [Exam May 31](/media/generalrelativity-tenta18.pdf)
 
+  * [Solutions to exam May 31 (/media/generalrelativity-tenta18losningar.pdf)
 
-  * [Bonustest I](/media/GeneralRelativity-bonustestI.pdf)
-
-  * [Bonustest I with answers](/media/GeneralRelativity-bonustestIsvar.pdf)
 
 
   ### Bonustest II
@@ -44,6 +43,21 @@ bodyBox: >
   * [Bonustest II](/media/generalrelativity-bonustest2.pdf)
 
   * [Bonustest II with answers](/media/generalrelativity-bonustest2svar.pdf)
+
+
+
+
+  ### Bonustest I
+
+
+  Here is Bonustest I (April 11) and answers to it: 
+
+
+  * [Bonustest I](/media/GeneralRelativity-bonustestI.pdf)
+
+  * [Bonustest I with answers](/media/GeneralRelativity-bonustestIsvar.pdf)
+
+
 
 
   ### Lecture notes
