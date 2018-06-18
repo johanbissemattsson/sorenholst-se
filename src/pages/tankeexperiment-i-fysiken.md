@@ -13,6 +13,11 @@ bodyBox: >-
   schema](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK1021)
 
   * [Preliminär planering](/media/Tankeexperiment-Planering.pdf)
+
+  * [Utdrag ur Galileo: _Två nya vetenskaper_](/media/galileoutdrag.pdf)
+
+  * [Kvanttankar (Material till lektion 8, 9 och
+  10)](/media/kvantkompendium.pdf)
 bodyExtra: >-
   ## Kursens innehåll och syfte
 
