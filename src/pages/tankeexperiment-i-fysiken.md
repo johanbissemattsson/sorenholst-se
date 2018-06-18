@@ -14,7 +14,8 @@ bodyBox: >-
 
   * [Preliminär planering](/media/Tankeexperiment-Planering.pdf)
 
-  * [Utdrag ur Galileo: _Två nya vetenskaper_](/media/galileoutdrag.pdf)
+  * [Utdrag ur Galileo: _Två nya vetenskaper_ (Material till lektion
+  1)](/media/galileoutdrag.pdf)
 
   * [Kvanttankar (Material till lektion 8, 9 och
   10)](/media/kvantkompendium.pdf)
