@@ -2,7 +2,7 @@
 templateKey: page
 title: Tankeexperiment i fysiken
 language: Swedish
-bodyBox: >
+bodyBox: >-
   ## Kursmaterial
 
 
@@ -22,6 +22,7 @@ bodyBox: >
 
 
   ### Instuderingsfrågor
+
 
   * [Instuderingsfrågor till lektion 1](/media/instudfragor1.pdf)
 bodyExtra: >-
