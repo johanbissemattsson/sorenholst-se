@@ -2,7 +2,7 @@
 templateKey: page
 title: Tankeexperiment i fysiken
 language: Swedish
-bodyBox: >-
+bodyBox: >
   ## Kursmaterial
 
 
@@ -19,6 +19,11 @@ bodyBox: >-
 
   * [Kvanttankar (Material till lektion 8, 9 och
   10)](/media/kvantkompendium.pdf)
+
+
+  ### Instuderingsfrågor
+
+  * [Instuderingsfrågor till lektion 1](/media/instudfragor1.pdf)
 bodyExtra: >-
   ## Kursens innehåll och syfte
 
