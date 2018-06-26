@@ -14,11 +14,15 @@ bodyBox: >-
 
   * [Preliminär planering](/media/Tankeexperiment-Planering.pdf)
 
+  * [Instruktioner för inlämningsuppgift (inl. senast
+  28/6)](/media/inlamningsuppgift.pdf)
+
   * [Utdrag ur Galileo Galilei: _Två nya vetenskaper_ (Material till lektion
   1)](/media/galileoutdrag.pdf)
 
   * [Kvanttankar (Material till lektion 8, 9 och
   10)](/media/kvantkompendium.pdf)
+
 
 
   ### Instuderingsfrågor
@@ -27,6 +31,8 @@ bodyBox: >-
   * [Instuderingsfrågor till lektion 1](/media/instudfragor1.pdf)
 
   * [Instuderingsfrågor till lektion 2](/media/instudfragor2.pdf)
+
+  * [Instuderingsfrågor till lektion 3](/media/instudfragor3.pdf)
 bodyExtra: >-
   ## Kursens innehåll och syfte
 
