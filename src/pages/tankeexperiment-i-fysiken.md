@@ -15,7 +15,7 @@ bodyBox: >-
   * [Preliminär planering](/media/Tankeexperiment-Planering.pdf)
 
   * [Instruktioner för inlämningsuppgift (inl. senast
-  28/6)](/media/inlamningsuppgift.pdf)
+  28/7)](/media/inlamningsuppgift.pdf)
 
   * [Utdrag ur Galileo Galilei: _Två nya vetenskaper_ (Material till lektion
   1)](/media/galileoutdrag.pdf)
