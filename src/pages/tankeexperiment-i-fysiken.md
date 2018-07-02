@@ -20,6 +20,8 @@ bodyBox: >-
   * [Utdrag ur Galileo Galilei: _Två nya vetenskaper_ (Material till lektion
   1)](/media/galileoutdrag.pdf)
 
+  * [Newtons roterande hink (Material till lektion 4)](/media/newtonshink.pdf)
+
   * [Kvanttankar (Material till lektion 8, 9 och
   10)](/media/kvantkompendium.pdf)
 
@@ -33,6 +35,8 @@ bodyBox: >-
   * [Instuderingsfrågor till lektion 2](/media/instudfragor2.pdf)
 
   * [Instuderingsfrågor till lektion 3](/media/instudfragor3.pdf)
+
+  * [Instuderingsfrågor till lektion 4](/media/instudfragor4.pdf)
 bodyExtra: >-
   ## Kursens innehåll och syfte
 
