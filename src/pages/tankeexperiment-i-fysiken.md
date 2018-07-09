@@ -14,9 +14,6 @@ bodyBox: >-
 
   * [Preliminär planering](/media/Tankeexperiment-Planering.pdf)
 
-  * [Instruktioner för inlämningsuppgift (inl. senast
-  28/7)](/media/inlamningsuppgift.pdf)
-
   * [Utdrag ur Galileo Galilei: _Två nya vetenskaper_ (Material till lektion
   1)](/media/galileoutdrag.pdf)
 
@@ -24,6 +21,18 @@ bodyBox: >-
 
   * [Kvanttankar (Material till lektion 8, 9 och
   10)](/media/kvantkompendium.pdf)
+
+
+
+  ### Material för examination
+
+
+  * [Instruktioner för inlämningsuppgift (inl. senast
+  28/7)](/media/inlamningsuppgift.pdf)
+
+  * [Tidigare tenta (26/7 2014)](/media/tankeexp-tenta14.pdf)
+
+  * [Lösningar till tidigare tenta (26/7 2014)](/media/tankeexp-svartenta14.pdf)
 
 
 
