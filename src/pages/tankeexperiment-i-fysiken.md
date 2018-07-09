@@ -27,7 +27,7 @@ bodyBox: >-
   ### Material för examination
 
 
-  * [Instruktioner för inlämningsuppgift (inl. senast
+  * [Instruktioner för inlämningsuppgift (inlämnas senast
   28/7)](/media/inlamningsuppgift.pdf)
 
   * [Tidigare tenta (26/7 2014)](/media/tankeexp-tenta14.pdf)
