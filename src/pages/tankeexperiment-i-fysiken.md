@@ -30,7 +30,7 @@ bodyBox: >-
   * [Instruktioner för inlämningsuppgift (inlämnas senast
   28/7)](/media/inlamningsuppgift.pdf)
 
-  * [Essäfrågor (en av dessa kommer på tentan)](/media/essafragor.pdf)
+  * [Essäfrågor (en av dessa kommer på tentan)](/media/essafragor18.pdf)
 
   * [Tidigare tenta (26/7 2014)](/media/tankeexp-tenta14.pdf)
 
