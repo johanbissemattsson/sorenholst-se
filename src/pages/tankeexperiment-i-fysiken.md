@@ -50,6 +50,8 @@ bodyBox: >-
   * [Instuderingsfrågor till lektion 5](/media/instudfragor5.pdf)
 
   * [Instuderingsfrågor till lektion 6](/media/instudfragor6.pdf)
+
+  * [Instuderingsfrågor till lektion 7](/media/instudfragor7.pdf)
 bodyExtra: >-
   ## Kursens innehåll och syfte
 
