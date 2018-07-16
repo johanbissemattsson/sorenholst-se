@@ -174,7 +174,7 @@ FR4 (AlbaNova)
 _Observera att man måste anmäla sig till tentan/omtentan. Detta görs enklast genom att skriva upp sitt namn på den anmälningslista jag har med på lektionen, eller genom att skicka ett mail till mig._
 
 **Återlämningstillfälle:**
-Måndag 6 augusti, 19:00 – 19:00,
-Rotundan, AlbaNovas entré
+Måndag 6 augusti, 19:00 – 19:30,
+Rotundan, AlbaNova
 
 _Man kan även lämna in ett adresserat och frankerat kuvert vid tentan, så skickar jag tentan._
