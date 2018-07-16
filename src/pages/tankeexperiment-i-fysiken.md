@@ -163,18 +163,18 @@ bodyExtra: >-
 
 **Examinationen består av en tenta och en inlämningsuppgift.**
 
-**Tenta**
-Lördag 28 juli, 9:00 – 14:00
+**Tenta:**
+Lördag 28 juli, 9:00 – 14:00,
 Brunnsvikssalen (Södra huset, Hus A, plan 5)
 
-**Omtenta**
-Lördag 25 augusti, 9:00 – 14:00
+**Omtenta:**
+Lördag 25 augusti, 9:00 – 14:00,
 FR4 (AlbaNova)
 
 _Observera att man måste anmäla sig till tentan/omtentan. Detta görs enklast genom att skriva upp sitt namn på den anmälningslista jag har med på lektionen, eller genom att skicka ett mail till mig._
 
-**Återlämningstillfälle**
-Måndag 6 augusti, 19:00 – 19:00
+**Återlämningstillfälle:**
+Måndag 6 augusti, 19:00 – 19:00,
 Rotundan, AlbaNovas entré
 
 _Man kan även lämna in ett adresserat och frankerat kuvert vid tentan, så skickar jag tentan._
