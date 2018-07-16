@@ -54,6 +54,8 @@ bodyBox: >-
   * [Instuderingsfrågor till lektion 6](/media/instudfragor6.pdf)
 
   * [Instuderingsfrågor till lektion 7](/media/instudfragor7.pdf)
+
+  * [Instuderingsfrågor till lektion 7](/media/instudfragor7.pdf)
 bodyExtra: >-
   ## Kursens innehåll och syfte
 
@@ -160,3 +162,19 @@ bodyExtra: >-
 **Undervisningen består av tio föreläsningar som äger rum på AlbaNova i sal FD5.**
 
 **Examinationen består av en tenta och en inlämningsuppgift.**
+
+**Tenta**
+Lördag 28 juli, 9:00 – 14:00
+Brunnsvikssalen (Södra huset, Hus A, plan 5)
+
+**Omtenta**
+Lördag 25 augusti, 9:00 – 14:00
+FR4 (AlbaNova)
+
+_Observera att man måste anmäla sig till tentan/omtentan. Detta görs enklast genom att skriva upp sitt namn på den anmälningslista jag har med på lektionen, eller genom att skicka ett mail till mig._
+
+**Återlämningstillfälle**
+Måndag 6 augusti, 19:00 – 19:00
+Rotundan, AlbaNovas entré
+
+_Man kan även lämna in ett adresserat och frankerat kuvert vid tentan, så skickar jag tentan._
