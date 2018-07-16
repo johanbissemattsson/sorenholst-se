@@ -177,4 +177,4 @@ _Observera att man måste anmäla sig till tentan/omtentan. Detta görs enklast 
 Måndag 6 augusti, 19:00 – 19:30,
 Rotundan, AlbaNova
 
-_Man kan även lämna in ett adresserat och frankerat kuvert vid tentan, så skickar jag tentan._
+_Man kan även lämna in ett adresserat och frankerat kuvert vid tentamenstillfället, så postar jag tentan._
