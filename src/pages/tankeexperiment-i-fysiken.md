@@ -27,6 +27,11 @@ bodyBox: >
   ### Material för examination
 
 
+  * [Tentan 28/7 2018)](/media/tenta18.pdf)
+
+  * [Lösningar tentan 28/7 2018)](/media/svartenta18.pdf)
+
+
   * [Instruktioner för inlämningsuppgift (inlämnas senast
   28/7)](/media/inlamningsuppgift.pdf)
 
