@@ -179,7 +179,7 @@ Brunnsvikssalen (Södra huset, Hus A, plan 5)
 
 **Omtenta:**
 Lördag 25 augusti, 9:00 – 14:00,
-FR4 (AlbaNova)
+sal FP22 (AlbaNova) (OBS: Ändrad skrivsal! Skrivsalen FP22 ligger på AlbaNovas campus, men inte i huvudbyggnaden, utan i den höga gula byggnaden intill busshållplatsen för buss 61.)
 
 _Observera att man måste anmäla sig till tentan/omtentan. Detta görs enklast genom att skriva upp sitt namn på den anmälningslista jag har med på lektionen, eller genom att skicka ett mail till mig._
 
