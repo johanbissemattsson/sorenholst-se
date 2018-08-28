@@ -2,7 +2,7 @@
 templateKey: page
 title: General Relativity
 language: Swedish
-bodyBox: >
+bodyBox: >-
   ## Course material
 
 
@@ -24,14 +24,16 @@ bodyBox: >
   Gravity)](http://media.pearsoncmg.com/aw/aw_hartle_gravity_1/medialib/Hartle_Errata_Printings_1-7.pdf)
 
 
+  ### Exams 2108
 
-  ### Exams 2108 
+
+  **Note than the reexam August 29 takes place in room FP22 (which is in the
+  tall yellow building next to the bus stop Ruddammen at AlbaNova campus)**
 
 
   * [Exam May 31](/media/generalrelativity-tenta18.pdf)
 
   * [Solutions to exam May 31](/media/generalrelativity-tenta18losningar.pdf)
-
 
 
   ### Bonustest II
@@ -45,8 +47,6 @@ bodyBox: >
   * [Bonustest II with answers](/media/generalrelativity-bonustest2svar.pdf)
 
 
-
-
   ### Bonustest I
 
 
@@ -56,8 +56,6 @@ bodyBox: >
   * [Bonustest I](/media/GeneralRelativity-bonustestI.pdf)
 
   * [Bonustest I with answers](/media/GeneralRelativity-bonustestIsvar.pdf)
-
-
 
 
   ### Lecture notes
