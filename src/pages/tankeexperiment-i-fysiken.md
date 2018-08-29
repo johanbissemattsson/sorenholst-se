@@ -27,6 +27,12 @@ bodyBox: >
   ### Material för examination
 
 
+  * [Tentan 25/8 2018](/media/tankeexp-omtenta18.pdf)
+
+  * [Lösningar till tentan 25/8 2018](/media/tankeexp-svaromtenta18.pdf)
+
+
+
   * [Tentan 28/7 2018](/media/tankeexp-tenta18.pdf)
 
   * [Lösningar till tentan 28/7 2018](/media/tankeexp-svartenta18.pdf)
