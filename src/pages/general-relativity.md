@@ -27,9 +27,11 @@ bodyBox: >-
   ### Exams 2108
 
 
-  **Note than the reexam August 29 takes place in room FP22 (which is in the
-  tall yellow building next to the bus stop Ruddammen at AlbaNova campus) at
-  8:00 – 13:00.**
+  * [Exam August 29](/media/generalrelativity-omtenta18.pdf)
+
+  * [Solutions to exam August
+  29](/media/generalrelativity-omtenta18losningar.pdf)
+
 
 
   * [Exam May 31](/media/generalrelativity-tenta18.pdf)
