@@ -36,9 +36,9 @@ bodyBox: |-
 
   ## Svar till övningsuppgifter
 
-  * [Svar rumtidsdiagram](/media/Rumtid-Svar1.pdf)
-  * [Svar tidsdilatation och rumtidsgeometri](/media/Rumtid-Svar2.pdf)
-  * [Svar energi och massa](/media/Rumtid-Svar3.pdf)
+  * [Svar rumtidsdiagram](/media/Rumtid-Diagramsvar.pdf)
+  * [Svar tidsdilatation och rumtidsgeometri](/media/Rumtid-Rumtidssvar.pdf)
+  * [Svar energi och massa](/media/Rumtid-Energisvar.pdf)
 bodyExtra: ''
 ---
 <div class='omslag'><img src='/media/Rumtid-Omslag.jpg' alt='Rumtid'/></div>
