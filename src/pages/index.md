@@ -6,7 +6,7 @@ subtitle: 'Teoretisk fysiker, författare och föreläsare'
 description: >-
   Jag är teoretisk fysiker verksam vid fysikinstitutionen vid Stockholms
   Universitet, [Fysikum](https://www.fysik.su.se). Till mina huvudintressen inom
-  fysiken hör relativitetsteori och kvantfysik. Bla bla.
+  fysiken hör relativitetsteori och kvantfysik.
 sections:
   - sectionItems:
       - featuredImage:
