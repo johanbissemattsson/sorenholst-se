@@ -48,6 +48,6 @@ På denna sida hittar du instuderingsfrågor till boken, samt blandade övningsu
 
 [Länk till bokens sida på bokfynd.nu](http://www.bokfynd.nu/9144001231.html)
 
-[Recension av boken](media/Rumtid-RecensionBorg.pdf)
+[Recension av boken](media/rumtid-recensionBorg.pdf)
 
 Här följer instuderingsfrågor till bokens nio kapitel. De belyser de viktigaste resultaten i respektive kapitel, och är tänkta att fungera som ett stöd för den som läser boken. Har man väl tillgodogjord sig ett kapitel ska de flesta av frågorna som hör dit vara tämligen enkla att besvara. Några av dem kräver dock att man tänker till lite extra.
