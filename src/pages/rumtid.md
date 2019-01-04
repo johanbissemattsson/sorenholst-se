@@ -34,7 +34,7 @@ bodyBox: |-
   * [**Energi och massa**](/media/Rumtid-Energiproblem.pdf)\
     Övningar som handlar om energi och massa, och deras förhållande till världsvektorn. Behandlar kapitel 1 till 6.
 
-  ## Svar till övningsuppgifterna
+  ## Svar till övningsuppgifter
 
   * [Svar rumtidsdiagram](/media/Rumtid-Diagramsvar.pdf)
   * [Svar tidsdilatation och rumtidsgeometri](/media/Rumtid-Rumtidssvar.pdf)
