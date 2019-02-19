@@ -4,9 +4,9 @@ title: Sommarkurs i Relativitetsteori
 language: Swedish
 bodyBox: ''
 ---
-**Fysikums sommarkurs i relativitetsteori (7,5 hp) är för tillfället vilande.**
+**Fysikums sommarkurs i relativitetsteori (7,5 hp) ges sommaren 2019, kvällstid vecka 25 till 29.**
 
-**Nästa gång kursen går blir troligen sommaren 2019.**
+
 
 ## Kursinnehåll
 
