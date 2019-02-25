@@ -4,9 +4,15 @@ title: Sommarkurs i Relativitetsteori
 language: Swedish
 bodyBox: ''
 ---
-**Fysikums sommarkurs i relativitetsteori (7,5 hp) ges sommaren 2019, kvällstid vecka 25 till 29.**
+**Fysikums sommarkurs i relativitetsteori (7,5 hp) ges sommaren 2019, kvällstid vecka 25 till 30.**
 
+**Undervisningen består av elva föreläsningar som äger rum på AlbaNova i sal FR4.**
 
+**Examinationen består av en tenta.**
+
+**Tenta:**
+Lördag 27 juli, 9:00 – 14:00,
+Brunnsvikssalen (Södra huset, Hus A, plan 5)
 
 ## Kursinnehåll
 
