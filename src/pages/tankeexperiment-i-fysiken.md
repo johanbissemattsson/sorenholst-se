@@ -173,9 +173,15 @@ bodyExtra: >-
 ![Tankeexperiment i fysiken](/media/Tankeexperiment-Intro.jpg)
 **Fysikhistorien är full av tankeexperiment. Men kan man verkligen lära sig något om hur naturen fungerar bara genom att föreställa sig saker?**
 
-**Fysikums sommarkurs _Tankeexperiment i fysiken_ (7,5 hp) ges sommaren 2018, kvällstid vecka 25 till 30.**
+**Fysikums sommarkurs _Tankeexperiment i fysiken_ (7,5 hp) är för tillfället vilande.**
 
+
+
+```
 **Undervisningen består av tio föreläsningar som äger rum på AlbaNova i sal FD5.**
+
+```
+
 
 **Examinationen består av en tenta och en inlämningsuppgift.**
 
