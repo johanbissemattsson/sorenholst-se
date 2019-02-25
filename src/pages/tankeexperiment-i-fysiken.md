@@ -139,8 +139,8 @@ bodyExtra: >-
   ## Lärare på kursen
 
 
-  Jag som håller i kursen heter [Sören Holst](https://sorenholst.se). Om du har
-  frågor om kursen är du välkommen att maila mig på <mailto:holst@fysik.su.se>. 
+  Jag som håller i kursen heter [Sören Holst](/). Om du har frågor om kursen är
+  du välkommen att maila mig på <mailto:holst@fysik.su.se>. 
 
 
   ## Kurslitteratur
