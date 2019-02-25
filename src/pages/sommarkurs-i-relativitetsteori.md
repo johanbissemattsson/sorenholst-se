@@ -2,7 +2,15 @@
 templateKey: page
 title: Sommarkurs i Relativitetsteori
 language: Swedish
-bodyBox: ''
+bodyBox: >-
+  ## Kursmaterial
+
+
+  (Kommer att fyllas på under kursens gång.)
+
+
+  * [Kursens
+  schema](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK1018)
 bodyExtra: >-
   ## Kursinnehåll
 
