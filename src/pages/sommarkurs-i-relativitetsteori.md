@@ -111,7 +111,7 @@ bodyExtra: >-
 
 
   [Kursen i Fysikums
-  kurskatalog](https://www.fysik.su.se/utbildning/program-kurser/kvälls-och-orienteringskurser)
+  kurskatalog](https://www.fysik.su.se/utbildning/program-kurser/kursfakta-och-scheman?kurs=FK1018)
 
 
   [Länk till den officiella
