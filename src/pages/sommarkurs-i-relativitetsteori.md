@@ -54,9 +54,9 @@ bodyExtra: >-
 
   Kurslitteratur på kursen är boken _Rumtid - en introduktion till Einsteins
   relativitetsteori av Sören Holst_ (ISBN: 9144001231). Den kan beställas via
-  nätet från till exempel [adlibris
-  ](http://www.adlibris.com/se/product.aspx?isbn=9144001231)eller
-  [bokus](http://www.bokus.com/b/9789144001234.html?pt=search_result). 
+  nätet från till exempel
+  [adlibris](https://www.adlibris.com/se/bok/rumtid-en-introduktion-till-einsteins-relativitetsteori-9789144001234)
+  eller [bokus](http://www.bokus.com/b/9789144001234.html?pt=search_result). 
 
 
   Utöver boken tillkommer instuderingsuppgifter och annat material som delas ut
