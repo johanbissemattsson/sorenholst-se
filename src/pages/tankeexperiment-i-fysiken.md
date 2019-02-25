@@ -2,7 +2,10 @@
 templateKey: page
 title: Tankeexperiment i fysiken
 language: Swedish
-bodyBox: >
+bodyBox: >-
+  <!--
+
+
   ## Kursmaterial
 
 
@@ -72,6 +75,9 @@ bodyBox: >
   * [Instuderingsfrågor till lektion 9](/media/instudfragor9.pdf)
 
   * [Instuderingsfrågor till lektion 10](/media/instudfragor10.pdf)
+
+
+  -->
 bodyExtra: >-
   ## Kursens innehåll och syfte
 
@@ -133,8 +139,8 @@ bodyExtra: >-
   ## Lärare på kursen
 
 
-  Jag som håller i kursen heter [Sören Holst](/). Om du har frågor om kursen är
-  du välkommen att maila mig på <mailto:holst@fysik.su.se>. 
+  Jag som håller i kursen heter [Sören Holst](https://sorenholst.se). Om du har
+  frågor om kursen är du välkommen att maila mig på <mailto:holst@fysik.su.se>. 
 
 
   ## Kurslitteratur
@@ -161,7 +167,7 @@ bodyExtra: >-
 
 
   [Kursen i Fysikums
-  kurskatalog](https://www.fysik.su.se/utbildning/program-kurser/kvälls-och-orienteringskurser)
+  kurskatalog](https://www.fysik.su.se/utbildning/program-kurser/kursfakta-och-scheman?kurs=FK1021)
 
 
   [Länk till den officiella
@@ -179,11 +185,7 @@ bodyExtra: >-
 
 **Undervisningen består av tio föreläsningar som äger rum på AlbaNova i sal FD5.**
 
-
-
 **Examinationen består av en tenta och en inlämningsuppgift.**
-
--->
 
 **Tenta:**
 Lördag 28 juli, 9:00 – 14:00,
@@ -200,3 +202,5 @@ Måndag 6 augusti, 19:00 – 19:30,
 Rotundan, AlbaNova
 
 _Man kan även lämna in ett adresserat och frankerat kuvert vid tentamenstillfället, så postar jag tentan._
+
+-->
