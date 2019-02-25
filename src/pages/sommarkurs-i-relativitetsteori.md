@@ -120,7 +120,7 @@ bodyExtra: >-
 
   [Kursens betygskriterier](/media/betygskritrelteori.pdf)
 ---
-![Tankeexperiment i fysiken](/media/Tankeexperiment-Intro.jpg)
+![Sommarkurs i relativitetsteori](/media/grav_lens150914.jpg)
 
 **Fysikums sommarkurs i relativitetsteori (7,5 hp) ges sommaren 2019, kvällstid vecka 25 till 30.**
 
