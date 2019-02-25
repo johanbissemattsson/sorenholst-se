@@ -3,6 +3,10 @@ templateKey: page
 title: Tankeexperiment i fysiken
 language: Swedish
 bodyBox: >-
+  **Fysikums sommarkurs _Tankeexperiment i fysiken_ (7,5 hp) är för tillfället
+  vilande.**
+
+
   <!--
 
 
@@ -178,8 +182,6 @@ bodyExtra: >-
 ---
 ![Tankeexperiment i fysiken](/media/Tankeexperiment-Intro.jpg)
 **Fysikhistorien är full av tankeexperiment. Men kan man verkligen lära sig något om hur naturen fungerar bara genom att föreställa sig saker?**
-
-**Fysikums sommarkurs _Tankeexperiment i fysiken_ (7,5 hp) är för tillfället vilande.**
 
 <!--
 
