@@ -132,9 +132,9 @@ sections:
           * ## [Allmän relativitetsteori](/general-relativity)
             Kurs på masternivå om Einsteins teori, som visar hur fenomenet gravitation inte är en kraft, utan måste förstås som en effekt av rumtidens krökning.
           * ## [Sommarkurs i Relativitetsteori](/sommarkurs-i-relativitetsteori)
-            Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen vilar för tillfället.
+            Kursen förklarar den speciella relativitetsteorin med ett minimum av matematik och ger även en kortfattad introduktion till den allmänna relativitetsteorin. Kursen ges sommaren 2019.
           * ## [Tankeexperiment i fysiken](/tankeexperiment-i-fysiken)
-            Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen ges sommaren 2018.
+            Kursen ger idéhistoriska inblickar i den roll som tankeexperiment har spelat genom fysikhistorien, från Galileo och framåt. Kursen vilar för tillfället.
       - featuredImage:
           alt: STINT Programme for Excellence in Teaching
           src: /media/Start-Skidmore.jpg
