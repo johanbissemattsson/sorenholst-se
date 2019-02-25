@@ -175,15 +175,15 @@ bodyExtra: >-
 
 **Fysikums sommarkurs _Tankeexperiment i fysiken_ (7,5 hp) är för tillfället vilande.**
 
+<!--
 
-
-```
 **Undervisningen består av tio föreläsningar som äger rum på AlbaNova i sal FD5.**
 
-```
 
 
 **Examinationen består av en tenta och en inlämningsuppgift.**
+
+-->
 
 **Tenta:**
 Lördag 28 juli, 9:00 – 14:00,
