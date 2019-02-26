@@ -188,8 +188,11 @@ sections:
           planeter, och en del annat.
 
 
+          [Förord till Kosmos 2018](media/Kosmos_2018_forord.pdf)
+
+
           [Läs artiklarna i Kosmos
-          2017](http://www.fysikersamfundet.se/kosmos/#2018)
+          2018](http://www.fysikersamfundet.se/kosmos/#2018)
     title: Kosmos
     description: "Sedan 2017 är jag redaktör för Svenska fysikersamfundets årsbok Kosmos, som innehåller fördjupande essäer om fysik på svenska. Nivån kan karaktäriseras som ett slags avancerad populärvetenskap. \rSyftet med Kosmos är att bidra till ökad kunskap om fysikämnets innehåll och bredd, samt att spegla den roll fysiken spelar för en modern världsbild."
     uid: kosmos
