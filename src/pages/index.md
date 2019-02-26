@@ -176,6 +176,9 @@ sections:
           sammanflätning, icke-lokalitet, kvantdatorer med mera.
 
 
+          [Förord till Kosmos 2017](media/Kosmos_2017_forord.pdf)
+
+
           [Läs artiklarna i Kosmos
           2017](http://www.fysikersamfundet.se/kosmos/#2017)
       - featuredImage:
