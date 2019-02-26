@@ -169,14 +169,27 @@ sections:
   - sectionItems:
       - featuredImage:
           src: /media/kosmosframsida.png
-        link: 'http://www.fysikersamfundet.se/kosmos/'
+        link: 'http://www.fysikersamfundet.se/kosmos/#2017'
         title: 'Kosmos 2017: Vår kvantvärld'
         description: >-
           Temat i 2017 års utgåva är kvantfysik. Här finns essäer om
           sammanflätning, icke-lokalitet, kvantdatorer med mera.
 
 
-          [Läs artiklarna i Kosmos 2017](http://www.fysikersamfundet.se/kosmos/)
+          [Läs artiklarna i Kosmos
+          2017](http://www.fysikersamfundet.se/kosmos/#2017)
+      - featuredImage:
+          src: /media/kosmosframsida18.png
+        link: 'http://www.fysikersamfundet.se/kosmos/#2017'
+        title: 'Kosmos 2018: Planeten jorden'
+        description: >-
+          Temat i 2018 års utgåva är vår planet jorden. Här finns essäer om
+          klimatet, åska och blixtar, jordens hav, sökandet efter jordlika
+          planeter, och en del annat.
+
+
+          [Läs artiklarna i Kosmos
+          2017](http://www.fysikersamfundet.se/kosmos/#2017)
     title: Kosmos
     description: "Sedan 2017 är jag redaktör för Svenska fysikersamfundets årsbok Kosmos, som innehåller fördjupande essäer om fysik på svenska. Nivån kan karaktäriseras som ett slags avancerad populärvetenskap. \rSyftet med Kosmos är att bidra till ökad kunskap om fysikämnets innehåll och bredd, samt att spegla den roll fysiken spelar för en modern världsbild."
     uid: kosmos
