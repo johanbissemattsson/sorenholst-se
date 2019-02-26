@@ -180,7 +180,7 @@ sections:
           2017](http://www.fysikersamfundet.se/kosmos/#2017)
       - featuredImage:
           src: /media/kosmosframsida18.png
-        link: 'http://www.fysikersamfundet.se/kosmos/#2017'
+        link: 'http://www.fysikersamfundet.se/kosmos/#2018'
         title: 'Kosmos 2018: Planeten jorden'
         description: >-
           Temat i 2018 års utgåva är vår planet jorden. Här finns essäer om
@@ -189,7 +189,7 @@ sections:
 
 
           [Läs artiklarna i Kosmos
-          2017](http://www.fysikersamfundet.se/kosmos/#2017)
+          2017](http://www.fysikersamfundet.se/kosmos/#2018)
     title: Kosmos
     description: "Sedan 2017 är jag redaktör för Svenska fysikersamfundets årsbok Kosmos, som innehåller fördjupande essäer om fysik på svenska. Nivån kan karaktäriseras som ett slags avancerad populärvetenskap. \rSyftet med Kosmos är att bidra till ökad kunskap om fysikämnets innehåll och bredd, samt att spegla den roll fysiken spelar för en modern världsbild."
     uid: kosmos
