@@ -16,7 +16,7 @@ bodyBox: >-
   * [Preliminary courseplan](/media/generalrelativity-kursplanering19.pdf)
 
 
-  * [Info about the examination](/media/GeneralRelativity-Examination.pdf)
+  * [Info about the examination](/media/generalrelativity-examination.pdf)
 
 
   <!-- * [Questions for oral examination](/media/generalrelativity-munta.pdf)
