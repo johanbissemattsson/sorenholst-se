@@ -73,7 +73,6 @@ bodyBox: >-
   -->
 
 
-  <!--
 
 
   ### Lecture notes
@@ -89,6 +88,10 @@ bodyBox: >-
   * [Notes to lecture 1](/media/GeneralRelativity-Lecture1.pdf)
 
   * [Notes to lecture 2](/media/GeneralRelativity-Lecture2.pdf)
+
+
+  <!--
+
 
   * [Notes to lecture 3](/media/GeneralRelativity-Lecture3.pdf)
 
