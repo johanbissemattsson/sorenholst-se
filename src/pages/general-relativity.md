@@ -92,13 +92,13 @@ bodyBox: >-
 
   * [Notes to lecture 3](/media/GeneralRelativity-Lecture3.pdf)
 
-
-  <!--
-
-
   * [Notes to lecture 4](/media/GeneralRelativity-Lecture4.pdf)
 
   * [Notes to lecture 5](/media/GeneralRelativity-Lecture5.pdf)
+
+
+  <!--
+
 
   * [Notes to lecture 6](/media/GeneralRelativity-Lecture6.pdf)
 
