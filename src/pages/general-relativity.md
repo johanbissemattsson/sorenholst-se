@@ -59,18 +59,18 @@ bodyBox: >-
   * [Bonustest II with answers](/media/generalrelativity-bonustest2svar.pdf)
 
 
+  -->
+
+
   ### Bonustest I
 
 
-  Here is Bonustest I (April 11) and answers to it: 
+  Here is Bonustest I (April 15) and answers to it: 
 
 
-  * [Bonustest I](/media/GeneralRelativity-bonustest1.pdf)
+  * [Bonustest I](/media/generalrelativity-bonustest1.pdf)
 
-  * [Bonustest I with answers](/media/GeneralRelativity-bonustest1svar.pdf)
-
-
-  -->
+  * [Bonustest I with answers](/media/generalrelativity-bonustest1svar.pdf)
 
 
   <br>
