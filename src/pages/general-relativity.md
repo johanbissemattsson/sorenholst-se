@@ -65,9 +65,9 @@ bodyBox: >-
   Here is Bonustest I (April 11) and answers to it: 
 
 
-  * [Bonustest I](/media/GeneralRelativity-bonustestI.pdf)
+  * [Bonustest I](/media/GeneralRelativity-bonustest1.pdf)
 
-  * [Bonustest I with answers](/media/GeneralRelativity-bonustestIsvar.pdf)
+  * [Bonustest I with answers](/media/GeneralRelativity-bonustest1svar.pdf)
 
 
   -->
@@ -98,11 +98,11 @@ bodyBox: >-
 
   * [Notes to lecture 6](/media/GeneralRelativity-Lecture6.pdf)
 
+  * [Notes to lecture 7](/media/GeneralRelativity-Lecture7.pdf)
+
 
   <!--
 
-
-  * [Notes to lecture 7](/media/GeneralRelativity-Lecture7.pdf)
 
   * [Notes to lecture 8](/media/GeneralRelativity-Lecture8.pdf)
 
