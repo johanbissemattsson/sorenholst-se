@@ -13,18 +13,20 @@ bodyBox: >-
   2019](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK8025)
 
 
-  * [Preliminary courseplan](/media/generalrelativity-kursplanering19.pdf)
+  _Change in schedule: The Problem Solving Session 13/5 is moved to Thursday
+  16/5 15:15 – 17:00, room FB41._
 
+
+  * [Preliminary courseplan](/media/generalrelativity-kursplanering19.pdf)
 
   * [Info about the examination](/media/generalrelativity-examination.pdf)
 
 
-  <!-- * [Questions for oral examination](/media/generalrelativity-munta.pdf)
+  <!-- * \[Questions for oral examination](/media/generalrelativity-munta.pdf)
   -->
 
 
   * [Answers to recommended problems](/media/GeneralRelativity-HartleFacit.pdf)
-
 
   * [Errata to the course book (Hartle:
   Gravity)](http://media.pearsoncmg.com/aw/aw_hartle_gravity_1/medialib/Hartle_Errata_Printings_1-7.pdf)
@@ -36,16 +38,16 @@ bodyBox: >-
   ### Exams 2108
 
 
-  * [Exam August 29](/media/generalrelativity-omtenta18.pdf)
+  \* \[Exam August 29](/media/generalrelativity-omtenta18.pdf)
 
-  * [Solutions to exam August
+  \* \[Solutions to exam August
   29](/media/generalrelativity-omtenta18losningar.pdf)
 
 
 
-  * [Exam May 31](/media/generalrelativity-tenta18.pdf)
+  \* \[Exam May 31](/media/generalrelativity-tenta18.pdf)
 
-  * [Solutions to exam May 31](/media/generalrelativity-tenta18losningar.pdf)
+  \* \[Solutions to exam May 31](/media/generalrelativity-tenta18losningar.pdf)
 
 
   ### Bonustest II
@@ -54,9 +56,9 @@ bodyBox: >-
   Here is Bonustest II (May 9) and answers to it: 
 
 
-  * [Bonustest II](/media/generalrelativity-bonustest2.pdf)
+  \* \[Bonustest II](/media/generalrelativity-bonustest2.pdf)
 
-  * [Bonustest II with answers](/media/generalrelativity-bonustest2svar.pdf)
+  \* \[Bonustest II with answers](/media/generalrelativity-bonustest2svar.pdf)
 
 
   -->
@@ -103,31 +105,31 @@ bodyBox: >-
 
   * [Notes to lecture 7](/media/GeneralRelativity-Lecture7.pdf)
 
-
-  <!--
-
-
   * [Notes to lecture 8](/media/GeneralRelativity-Lecture8.pdf)
 
   * [Notes to lecture 9](/media/GeneralRelativity-Lecture9.pdf)
 
-  * [Notes to lecture 10](/media/generalrelativity-lecture10.pdf)
 
-  * [Notes to lecture 11](/media/generalrelativity-lecture11.pdf)
+  <!--
 
-  * [Notes to lecture 12](/media/generalrelativity-lecture12.pdf)
 
-  * [Notes to lecture 13](/media/generalrelativity-lecture13.pdf)
+  \* \[Notes to lecture 10](/media/generalrelativity-lecture10.pdf)
 
-  * [Notes to lecture 14](/media/generalrelativity-lecture14.pdf)
+  \* \[Notes to lecture 11](/media/generalrelativity-lecture11.pdf)
 
-  * [Notes to lecture 15](/media/generalrelativity-lecture15.pdf)
+  \* \[Notes to lecture 12](/media/generalrelativity-lecture12.pdf)
 
-  * [Notes to lecture 16](/media/generalrelativity-lecture16.pdf)
+  \* \[Notes to lecture 13](/media/generalrelativity-lecture13.pdf)
 
-  * [Notes to lecture 17](/media/generalrelativity-lecture17.pdf)
+  \* \[Notes to lecture 14](/media/generalrelativity-lecture14.pdf)
 
-  * [Notes to lecture 18](/media/generalrelativity-lecture18.pdf)
+  \* \[Notes to lecture 15](/media/generalrelativity-lecture15.pdf)
+
+  \* \[Notes to lecture 16](/media/generalrelativity-lecture16.pdf)
+
+  \* \[Notes to lecture 17](/media/generalrelativity-lecture17.pdf)
+
+  * \[Notes to lecture 18](/media/generalrelativity-lecture18.pdf)
 
 
   -->
