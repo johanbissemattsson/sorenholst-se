@@ -111,6 +111,8 @@ bodyBox: >-
 
   * [Notes to lecture 10](/media/generalrelativity-lecture10.pdf)
 
+  * [Notes to lecture 11](/media/generalrelativity-lecture11.pdf)
+
 
   <!--
 
