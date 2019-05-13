@@ -121,10 +121,6 @@ bodyBox: >-
   <!--
 
 
-  \* \[Notes to lecture 12](/media/generalrelativity-lecture12.pdf)
-
-  \* \[Notes to lecture 13](/media/generalrelativity-lecture13.pdf)
-
   \* \[Notes to lecture 14](/media/generalrelativity-lecture14.pdf)
 
   \* \[Notes to lecture 15](/media/generalrelativity-lecture15.pdf)
