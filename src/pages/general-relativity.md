@@ -21,15 +21,15 @@ bodyBox: >-
 
   * [Info about the examination](/media/generalrelativity-examination.pdf)
 
-
-  <!-- * \[Questions for oral examination](/media/generalrelativity-munta.pdf)
-  -->
-
+  * [Questions for oral examination](/media/generalrelativity-munta.pdf)
 
   * [Answers to recommended problems](/media/GeneralRelativity-HartleFacit.pdf)
 
   * [Errata to the course book (Hartle:
   Gravity)](http://media.pearsoncmg.com/aw/aw_hartle_gravity_1/medialib/Hartle_Errata_Printings_1-7.pdf)
+
+  * [The Appedices in Hartle (for those that have the edition without
+  these)](/media/GeneralRelativity-HartleAppedix.pdf)
 
 
   <!--
@@ -117,11 +117,12 @@ bodyBox: >-
 
   * [Notes to lecture 13](/media/generalrelativity-lecture13.pdf)
 
+  * [Notes to lecture 14](/media/generalrelativity-lecture14.pdf)
+
 
   <!--
 
 
-  \* \[Notes to lecture 14](/media/generalrelativity-lecture14.pdf)
 
   \* \[Notes to lecture 15](/media/generalrelativity-lecture15.pdf)
 
