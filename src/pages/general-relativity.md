@@ -28,8 +28,8 @@ bodyBox: >-
   * [Errata to the course book (Hartle:
   Gravity)](http://media.pearsoncmg.com/aw/aw_hartle_gravity_1/medialib/Hartle_Errata_Printings_1-7.pdf)
 
-  * [The Appedices in Hartle (for those that have the edition without
-  these)](/media/generalrelativity-hartleappedices.pdf)
+  * [The Appendices in Hartle (for those that have the edition without
+  these)](/media/generalrelativity-hartleappendices.pdf)
 
 
   <!--
