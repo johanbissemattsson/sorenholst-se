@@ -12,11 +12,6 @@ bodyBox: >-
   * [Schedule
   2019](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK8025)
 
-
-  _Change in schedule: The Problem Solving Session 13/5 is moved to Thursday
-  16/5 15:15 – 17:00, room FB41._
-
-
   * [Preliminary courseplan](/media/generalrelativity-kursplanering19.pdf)
 
   * [Info about the examination](/media/generalrelativity-examination.pdf)
@@ -52,6 +47,8 @@ bodyBox: >-
 
   -->
 
+
+  <br>
 
 
   ### Bonustest II
