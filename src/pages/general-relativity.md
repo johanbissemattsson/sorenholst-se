@@ -50,18 +50,19 @@ bodyBox: >-
   \* \[Solutions to exam May 31](/media/generalrelativity-tenta18losningar.pdf)
 
 
+  -->
+
+
+
   ### Bonustest II
 
 
   Here is Bonustest II (May 9) and answers to it: 
 
 
-  \* \[Bonustest II](/media/generalrelativity-bonustest2.pdf)
+  * [Bonustest II](/media/generalrelativity-bonustest2.pdf)
 
-  \* \[Bonustest II with answers](/media/generalrelativity-bonustest2svar.pdf)
-
-
-  -->
+  * [Bonustest II with answers](/media/generalrelativity-bonustest2svar.pdf)
 
 
   <br>
@@ -119,12 +120,12 @@ bodyBox: >-
 
   * [Notes to lecture 14](/media/generalrelativity-lecture14.pdf)
 
+  * [Notes to lecture 15](/media/generalrelativity-lecture15.pdf)
+
+
 
   <!--
 
-
-
-  \* \[Notes to lecture 15](/media/generalrelativity-lecture15.pdf)
 
   \* \[Notes to lecture 16](/media/generalrelativity-lecture16.pdf)
 
