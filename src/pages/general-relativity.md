@@ -54,7 +54,7 @@ bodyBox: >-
   ### Bonustest II
 
 
-  Here is Bonustest II (May 9) and answers to it: 
+  Here is Bonustest II (May 16) and answers to it: 
 
 
   * [Bonustest II](/media/generalrelativity-bonustest2.pdf)
