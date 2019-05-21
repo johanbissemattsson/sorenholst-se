@@ -44,9 +44,9 @@ bodyBox: >-
   -->
 
 
-  \* \[Exam May 31](/media/generalrelativity-tenta18.pdf)
+  * [Exam May 31](/media/generalrelativity-tenta18.pdf)
 
-  \* \[Solutions to exam May 31](/media/generalrelativity-tenta18losningar.pdf)
+  * [Solutions to exam May 31](/media/generalrelativity-tenta18losningar.pdf)
 
 
   <br>
