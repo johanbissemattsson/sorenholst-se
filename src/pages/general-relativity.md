@@ -27,10 +27,12 @@ bodyBox: >-
   these)](/media/generalrelativity-hartleappendices.pdf)
 
 
+
+
+  ### Exam 2108
+
+
   <!--
-
-
-  ### Exams 2108
 
 
   \* \[Exam August 29](/media/generalrelativity-omtenta18.pdf)
@@ -39,13 +41,12 @@ bodyBox: >-
   29](/media/generalrelativity-omtenta18losningar.pdf)
 
 
+  -->
+
 
   \* \[Exam May 31](/media/generalrelativity-tenta18.pdf)
 
   \* \[Solutions to exam May 31](/media/generalrelativity-tenta18losningar.pdf)
-
-
-  -->
 
 
   <br>
