@@ -153,3 +153,10 @@ bodyExtra: "## Course content\r\n\nWe start by introducing the basic ideas behin
 **The general theory of relativity is Einstein's theory of gravity. Here he shows that gravity should not be described as a force, as in Newtonian physics, but instead as a consequence of the curvature of space and time. In short, gravity is spacetime geometry.**
 
 **This course is about this remarkable discovery: what it means, how the theory can be (and has been) tested, its predictions and consequences.**
+
+
+<br>
+
+<font color="red">The reexam will be Friday August 30 2019, 8:00 – 13:00.</font>
+
+<br>
