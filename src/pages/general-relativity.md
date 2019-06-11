@@ -30,24 +30,15 @@ bodyBox: >
   <br>
 
 
-  ### Exam 2018
+  ### Exam 2019
 
 
-  <!--
+  Here is the Exam (June 5) with solutions:
 
 
-  \* \[Exam August 29](/media/generalrelativity-omtenta18.pdf)
+  * [Exam June 5](/media/generalrelativity-tenta19.pdf)
 
-  \* \[Solutions to exam August
-  29](/media/generalrelativity-omtenta18losningar.pdf)
-
-
-  -->
-
-
-  * [Exam May 31](/media/generalrelativity-tenta18.pdf)
-
-  * [Solutions to exam May 31](/media/generalrelativity-tenta18losningar.pdf)
+  * [Solutions to exam June 5](/media/generalrelativity-tenta19losningar.pdf)
 
 
   <br>
@@ -76,6 +67,29 @@ bodyBox: >
   * [Bonustest I](/media/generalrelativity-bonustest1.pdf)
 
   * [Bonustest I with answers](/media/generalrelativity-bonustest1svar.pdf)
+
+
+  <br>
+
+
+  ### Exam 2018
+
+
+  <!--
+
+
+  \* \[Exam August 29](/media/generalrelativity-omtenta18.pdf)
+
+  \* \[Solutions to exam August
+  29](/media/generalrelativity-omtenta18losningar.pdf)
+
+
+  -->
+
+
+  * [Exam May 31](/media/generalrelativity-tenta18.pdf)
+
+  * [Solutions to exam May 31](/media/generalrelativity-tenta18losningar.pdf)
 
 
   <br>
