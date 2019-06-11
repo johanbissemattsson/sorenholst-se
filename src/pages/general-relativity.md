@@ -30,12 +30,6 @@ bodyBox: >
   <br>
 
 
-  ### The reexam will be Friday August 30 2019, 8:00 – 13:00.
-
-
-  <br>
-
-
   ### Exam 2019
 
 
@@ -157,6 +151,6 @@ bodyExtra: "## Course content\r\n\nWe start by introducing the basic ideas behin
 
 <br>
 
-<font color="red">The reexam will be Friday August 30 2019, 8:00 – 13:00.</font>
+**<font color="red">Note: The reexam will be Friday August 30 2019, 8:00 – 13:00.</font>**
 
 <br>
