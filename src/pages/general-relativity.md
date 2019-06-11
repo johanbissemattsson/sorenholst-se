@@ -30,6 +30,12 @@ bodyBox: >
   <br>
 
 
+  ### The reexam will be Friday August 30 2019, 8:00 – 13:00.
+
+
+  <br>
+
+
   ### Exam 2019
 
 
