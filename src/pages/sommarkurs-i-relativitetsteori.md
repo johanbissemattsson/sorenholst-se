@@ -124,12 +124,10 @@ bodyExtra: >-
 ---
 ![Sommarkurs i relativitetsteori](/media/grav_lens150914.jpg)
 
-**Fysikums sommarkurs i relativitetsteori (7,5 hp) ges sommaren 2019, kvällstid vecka 25 till 30. Undervisningen består av elva föreläsningar som äger rum på AlbaNova (oftast i sal FR4, se schemat nedan).**
+**Fysikums sommarkurs i relativitetsteori (7,5 hp) ges sommaren 2019, kvällstid vecka 25 till 30. Undervisningen består av elva föreläsningar som äger rum på AlbaNova (oftast i sal FR4, se schemat nedan). Examinationen består av en tenta.**
 
 **<font color="red">Välkommen till kursstart nu på onsdag den 19 juni! <br>
 Klockan 19:00 i sal FR4, AlbaNova.</font>**
-
-**Examinationen består av en tenta.**
 
 **Tenta:**
 Lördag 27 juli, 9:00 – 14:00,
