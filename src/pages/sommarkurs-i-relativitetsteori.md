@@ -2,7 +2,7 @@
 templateKey: page
 title: Sommarkurs i Relativitetsteori
 language: Swedish
-bodyBox: >-
+bodyBox: >+
   ## Kursmaterial
 
 
@@ -15,6 +15,12 @@ bodyBox: >-
   * [Preliminär planering](/media/relativitetsteori-planering.pdf)
 
   * [Instuderingsfrågor till lektion 1](/media/relativitetsteori-instud1.pdf)
+
+  * [Svar till instuderingsfrågor till lektion
+  1](/media/relativitetsteori-instud1svar.pdf)
+
+  * [Instuderingsfrågor till lektion 2](/media/relativitetsteori-instud2.pdf)
+
 bodyExtra: >-
   ## Kursinnehåll
 
@@ -127,9 +133,6 @@ bodyExtra: >-
 ![Sommarkurs i relativitetsteori](/media/grav_lens150914.jpg)
 
 **Fysikums sommarkurs i relativitetsteori (7,5 hp) ges sommaren 2019, kvällstid vecka 25 till 30. Undervisningen består av elva föreläsningar som äger rum på AlbaNova (oftast i sal FR4, se schemat nedan). Examinationen består av en tenta.**
-
-**<font color="red">Välkommen till kursstart nu på onsdag den 19 juni! <br>
-Klockan 19:00 i sal FR4, AlbaNova.</font>**
 
 **Tenta:**
 Lördag 27 juli, 9:00 – 14:00,
