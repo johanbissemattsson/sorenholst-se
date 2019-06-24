@@ -12,14 +12,12 @@ bodyBox: >+
   * [Kursens
   schema](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK1018)
 
-  * [Preliminär planering](/media/relativitetsteori-planering.pdf)
-
+  * [Preliminär planering](/media/relativitetsteori-planering.pdf)<br>
 
   * [Instuderingsfrågor till lektion 1](/media/relativitetsteori-instud1.pdf)
 
   * [Svar till instuderingsfrågor till lektion
-  1](/media/relativitetsteori-instud1svar.pdf)
-
+  1](/media/relativitetsteori-instud1svar.pdf)<br>
 
   * [Instuderingsfrågor till lektion 2](/media/relativitetsteori-instud2.pdf)
 
