@@ -73,7 +73,9 @@ bodyExtra: >-
 
   * universums expansion
 
-  * Kurslitteratur
+
+
+  ## Kurslitteratur
 
 
   Kurslitteratur på kursen är boken _Rumtid - en introduktion till Einsteins
