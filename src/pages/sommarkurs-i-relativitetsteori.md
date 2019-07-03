@@ -30,6 +30,11 @@ bodyBox: >
   3](/media/relativitetsteori-instud3svar.pdf)<br><br>
 
   * [Instuderingsfrågor till lektion 4](/media/relativitetsteori-instud4.pdf)
+
+  * [Svar till instuderingsfrågor till lektion
+  4](/media/relativitetsteori-instud4svar.pdf)<br><br>
+
+  * [Instuderingsfrågor till lektion 5](/media/relativitetsteori-instud5.pdf)
 bodyExtra: >-
   ## Kursinnehåll
 
