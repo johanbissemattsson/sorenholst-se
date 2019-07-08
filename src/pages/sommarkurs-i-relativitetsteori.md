@@ -35,6 +35,11 @@ bodyBox: >
   4](/media/relativitetsteori-instud4svar.pdf)<br><br>
 
   * [Instuderingsfrågor till lektion 5](/media/relativitetsteori-instud5.pdf)
+
+  * [Svar till instuderingsfrågor till lektion
+  5](/media/relativitetsteori-instud5svar.pdf)<br><br>
+
+  * [Instuderingsfrågor till lektion 6](/media/relativitetsteori-instud6.pdf)
 bodyExtra: >-
   ## Kursinnehåll
 
@@ -156,7 +161,10 @@ Brunnsvikssalen (Södra huset, Hus A, plan 5)
 
 (Ett andra tentamenstillfälle (för den som inte klarar första tentan eller inte har möjlighet att skriva då) är planerat lördagen den 24 augusti.)
 
+<!--
+
 <br>
 
 **<font color="red">OBS: Lektion 4 och 5 (måndag den 1 juli och onsdag den 3 juli) äger rum i sal FD5 på AlbaNova. (Du hittar salen till höger alldeles efter rotundan innanför huvudentrén.)</font>**
 
+-->
