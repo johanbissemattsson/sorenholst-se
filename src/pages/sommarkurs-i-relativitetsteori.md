@@ -50,6 +50,21 @@ bodyBox: >
   7](/media/relativitetsteori-instud7svar.pdf)<br><br>
 
   * [Instuderingsfrågor till lektion 8](/media/relativitetsteori-instud8.pdf)
+
+
+  <br>
+
+
+  ### Material inför kursexamination
+
+  * [Tenta 2017](/media/relativitetsteori-tenta17.pdf)
+
+  * [Lösningar till tentan
+  2017](/media/relativitetsteori-tenta17svar.pdf)<br><br>
+
+  * [Tenta 2015](/media/relativitetsteori-tenta15.pdf)
+
+  * [Lösningar till tentan 2015](/media/relativitetsteori-tenta15svar.pdf)
 bodyExtra: >-
   ## Kursinnehåll
 
