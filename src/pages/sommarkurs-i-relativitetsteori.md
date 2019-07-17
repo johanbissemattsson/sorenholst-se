@@ -191,10 +191,8 @@ Brunnsvikssalen (Södra huset, Hus A, plan 5)
 
 (Ett andra tentamenstillfälle (för den som inte klarar första tentan eller inte har möjlighet att skriva då) är planerat lördagen den 24 augusti.)
 
-<!--
 
 <br>
 
 **<font color="red">OBS: Anmälan till tentan sker genom att skriva upp sig på den lista jag har med vid lektionen, eller genom att skicka ett mail till mig.</font>**
 
--->
