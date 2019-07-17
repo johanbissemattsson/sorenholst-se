@@ -195,6 +195,6 @@ Brunnsvikssalen (Södra huset, Hus A, plan 5)
 
 <br>
 
-**<font color="red">OBS: Lektion 4 och 5 (måndag den 1 juli och onsdag den 3 juli) äger rum i sal FD5 på AlbaNova. (Du hittar salen till höger alldeles efter rotundan innanför huvudentrén.)</font>**
+**<font color="red">OBS: Anmälan till tentan sker genom att skriva upp sig på den lista jag har med vid lektionen, eller genom att skicka ett mail till mig.</font>**
 
 -->
