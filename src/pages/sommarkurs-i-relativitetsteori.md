@@ -192,5 +192,7 @@ Brunnsvikssalen (Södra huset, Hus A, plan 5)
 (Ett andra tentamenstillfälle (för den som inte klarar första tentan eller inte har möjlighet att skriva då) är planerat lördagen den 24 augusti.)
 
 
-**<font color="red">OBS: Anmälan till tentan sker genom att skriva upp sig på den lista jag har med vid lektionen, eller genom att skicka ett mail till mig.</font>**
+**<font color="red">OBS: Anmälan till tentan sker genom att skriva upp sig på den lista jag har med vid lektionerna, eller genom att skicka ett mail till mig.</font>**
+
+<b>Det sista lektionstillfället (24/7)</b> kommer att ägnas åt repetition. Tillsammans löser vi ett par typiska problem i den speciella relativitetsteorin. Därefter blir det frågestund, där förhoppningsvis alla återstående frågetecken kan rätas ut.
 
