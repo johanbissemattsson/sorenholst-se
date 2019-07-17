@@ -51,6 +51,11 @@ bodyBox: >
 
   * [Instuderingsfrågor till lektion 8](/media/relativitetsteori-instud8.pdf)
 
+  * [Svar till instuderingsfrågor till lektion
+  8](/media/relativitetsteori-instud8svar.pdf)<br><br>
+
+  * [Instuderingsfrågor till lektion 9](/media/relativitetsteori-instud9.pdf)
+
 
   <br>
 
