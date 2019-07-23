@@ -193,7 +193,7 @@ bodyExtra: >-
 
 **Tenta:**
 Lördag 27 juli, 9:00 – 14:00,
-<font color="blue">Ugglevikssalen</font> (Södra huset, Hus E, plan 5, [Hitta salen](http://www.su.se/polopoly_fs/1.2958.1320939294!/Usalen.pdf)
+<font color="blue">Ugglevikssalen</font> (Södra huset, Hus E, plan 5, [Hitta till salen](http://www.su.se/polopoly_fs/1.2958.1320939294!/Usalen.pdf))
 
 **<font color="blue">OBS: Tentasal är Ugglevikssalen, och inget annat. Det har tyvärr stått fel sal i kursplaneringen tidigare.</font>**
 
