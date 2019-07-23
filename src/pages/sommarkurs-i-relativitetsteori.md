@@ -193,10 +193,11 @@ bodyExtra: >-
 
 **Tenta:**
 Lördag 27 juli, 9:00 – 14:00,
-Brunnsvikssalen (Södra huset, Hus A, plan 5)
+Ugglevikssalen (Södra huset, Hus E, plan 5, [Hitta salen](http://www.su.se/polopoly_fs/1.2958.1320939294!/Usalen.pdf)
 
 (Ett andra tentamenstillfälle (för den som inte klarar första tentan eller inte har möjlighet att skriva då) är planerat lördagen den 24 augusti.)
 
+**<font color="blue">OBS: Tentasal är Ugglevikssalen, och inget annat. Det har tyvärr stått fel sal i kursplaneringen tidigare.</font>**
 
 **<font color="red">OBS: Anmälan till tentan sker genom att skriva upp sig på den lista jag har med vid lektionerna, eller genom att skicka ett mail till mig.</font>**
 
