@@ -200,11 +200,12 @@ Lördag 27 juli, 9:00 – 14:00,
 **<font color="red">OBS: Anmälan till tentan sker genom att skriva upp sig på den lista jag har med vid lektionerna, eller genom att skicka ett mail till mig.</font>**
 
 **Återlämningstillfälle:**
-Måndag 5 augusti, 19:00 – 19:30, Rotundan AlbaNova (dvs. alldeles innanför huvudentrén) <br> Den som inte har möjlighet att komma till återlämningstillfället, kan lämna in ett frankerat och adresserat kuvert vid tentamenstillfället så postar jag tentan, eller hämta ut tentan när studentexpeditionen har öppnat igen efter den 12 augusti.
+Måndag 5 augusti, 19:00 – 19:30, Rotundan AlbaNova (dvs. alldeles innanför huvudentrén). Den som inte har möjlighet att komma till återlämningstillfället, kan lämna in ett frankerat och adresserat kuvert vid tentamenstillfället så postar jag tentan, eller hämta ut tentan när studentexpeditionen har öppnat igen efter den 12 augusti.
 
 <br>
 
-(Ett andra tentamenstillfälle (för den som inte klarar första tentan eller inte har möjlighet att skriva då) är planerat lördagen den 24 augusti.)
+**Omtenta:**
+Lördag 24 augusti, 9:00 – 14:00. Sal FP22 (AlbaNova Campus, Gula huset vid ändhållplatsen Ruddammen). 
 
 <b>Det sista lektionstillfället (24/7)</b> kommer att ägnas åt repetition. Tillsammans löser vi ett par typiska problem i den speciella relativitetsteorin. Därefter blir det frågestund, där förhoppningsvis alla återstående frågetecken kan rätas ut.
 
