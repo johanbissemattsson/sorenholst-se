@@ -151,6 +151,6 @@ bodyExtra: "## Course content\r\n\nWe start by introducing the basic ideas behin
 
 <br>
 
-**<font color="red">Note: The reexam will be Friday August 30 2019, 8:00 – 13:00, in room FP22. (This room is located on the AlbaNova campus in the yellow building next to the buss stop Ruddammen) </font>**
+**<font color="red">Note: The reexam will be Friday August 30 2019, 8:00 – 13:00, in room FP22. (This room is located on the AlbaNova campus in the yellow building next to the bus stop Ruddammen) </font>**
 
 <br>
