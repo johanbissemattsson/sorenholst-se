@@ -191,12 +191,21 @@ bodyExtra: >-
 
 **Fysikums sommarkurs i relativitetsteori (7,5 hp) ges sommaren 2019, kvällstid vecka 25 till 30. Undervisningen består av elva föreläsningar som äger rum på AlbaNova (oftast i sal FR4, se schemat nedan). Examinationen består av en tenta.**
 
+**Omtenta:**
+Här är tentan lördagen den 24 augusti, samt lösningar till den:
+
+* [Tenta 24/8 2019](/media/relativitetsteori-omtenta19.pdf)<br><br>
+* [Lösningar till tenta 24/8 2019](/media/relativitetsteori-omtenta19svar.pdf)
+
+**<font color="red"> Omtentorna är nu rättade och finns att hämta på studentexpeditionen.</font>**
+
 **Tenta:**
 Här är tentan lördagen den 27 juli, samt lösningar till den:
 
 * [Tenta 27/7 2019](/media/relativitetsteori-tenta19.pdf)<br><br>
 * [Lösningar till tenta 27/7 2019](/media/relativitetsteori-tenta19svar.pdf)
 
+<!--
 
 **Återlämningstillfälle:**
 Måndag 5 augusti, 19:00 – 19:30, Rotundan AlbaNova (dvs. alldeles innanför huvudentrén). Den som inte har möjlighet att komma till återlämningstillfället, kan lämna in ett frankerat och adresserat kuvert vid tentamenstillfället så postar jag tentan, eller hämta ut tentan när studentexpeditionen har öppnat igen efter den 12 augusti.
@@ -205,3 +214,5 @@ Måndag 5 augusti, 19:00 – 19:30, Rotundan AlbaNova (dvs. alldeles innanför h
 Lördag 24 augusti, 9:00 – 14:00. Sal FP22 (AlbaNova Campus, Gula huset vid ändhållplatsen Ruddammen). 
 
 **<font color="red">OBS: Anmälan till tentan sker genom att skriva upp sig på den lista jag har med vid lektionerna, eller genom att skicka ett mail till mig.</font>**
+
+-->
