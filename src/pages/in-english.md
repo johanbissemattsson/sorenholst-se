@@ -113,7 +113,7 @@ sections:
             This course explaines the Special Theory of Relativity using a non-mathematical approach. It also provides a short introduction to General Relativity. (This course is not given for the moment.)
           * ## [Thought Experiments in Physics (Swedish
           webpage)](/tankeexperiment-i-fysiken)
-            This course examines the role of thought experimentation in the history of Physics, from Galileo to Einstein and onwards. Using the method of thought experimentation as a springboard, we discuss several interesting areas within physics, such as Relativity and Quantum Physics.
+            This course examines the role of thought experimentation in the history of Physics, from Galileo to Einstein and onwards. Using the method of thought experimentation as a springboard, we discuss several interesting areas within physics, such as Relativity and Quantum Physics. (This course is not given for the moment.)
       - featuredImage:
           alt: STINT Programme for Excellence in Teaching
           src: /media/Start-Skidmore.jpg
