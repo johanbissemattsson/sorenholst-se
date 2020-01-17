@@ -12,13 +12,13 @@ bodyBox: >
   * [Schedule
   2020](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK8025)
 
-  * [Preliminary courseplan](/media/generalrelativity-kursplanering19.pdf)
-
-  * [Info about the examination](/media/generalrelativity-examination.pdf)
-
 
   <!--
 
+
+  * [Preliminary courseplan](/media/generalrelativity-kursplanering19.pdf)
+
+  * [Info about the examination](/media/generalrelativity-examination.pdf)
 
   * [Questions for oral examination](/media/generalrelativity-munta.pdf)
 
