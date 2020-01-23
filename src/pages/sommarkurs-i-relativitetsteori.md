@@ -2,8 +2,14 @@
 templateKey: page
 title: Sommarkurs i Relativitetsteori
 language: Swedish
-bodyBox: >
+bodyBox: >-
   ## Kursmaterial
+
+
+  (Inget material att visa för tillfället.)
+
+
+  <!--
 
 
   (Kommer att fyllas på under kursens gång.)
@@ -76,6 +82,9 @@ bodyBox: >
   * [Tenta 2015](/media/relativitetsteori-tenta15.pdf)
 
   * [Lösningar till tentan 2015](/media/relativitetsteori-tenta15svar.pdf)
+
+
+  -->
 bodyExtra: >-
   ## Kursinnehåll
 
@@ -189,7 +198,16 @@ bodyExtra: >-
 ---
 ![Sommarkurs i relativitetsteori](/media/grav_lens150914.jpg)
 
-**Fysikums sommarkurs i relativitetsteori (7,5 hp) ges sommaren 2019, kvällstid vecka 25 till 30. Undervisningen består av elva föreläsningar som äger rum på AlbaNova (oftast i sal FR4, se schemat nedan). Examinationen består av en tenta.**
+**Fysikums sommarkurs i relativitetsteori (7,5 hp) är för tillfället vilande. Den kommer inte att ges sommaren 2020, men eventuellt sommaren därpå.
+
+<!--
+
+ges sommaren 2019, kvällstid vecka 25 till 30. Undervisningen består av elva föreläsningar som äger rum på AlbaNova (oftast i sal FR4, se schemat nedan). Examinationen består av en tenta.**
+
+-->
+
+
+<!--
 
 **Omtenta:**
 Här är tentan lördagen den 24 augusti, samt lösningar till den:
@@ -205,7 +223,7 @@ Här är tentan lördagen den 27 juli, samt lösningar till den:
 * [Tenta 27/7 2019](/media/relativitetsteori-tenta19.pdf)<br><br>
 * [Lösningar till tenta 27/7 2019](/media/relativitetsteori-tenta19svar.pdf)
 
-<!--
+
 
 **Återlämningstillfälle:**
 Måndag 5 augusti, 19:00 – 19:30, Rotundan AlbaNova (dvs. alldeles innanför huvudentrén). Den som inte har möjlighet att komma till återlämningstillfället, kan lämna in ett frankerat och adresserat kuvert vid tentamenstillfället så postar jag tentan, eller hämta ut tentan när studentexpeditionen har öppnat igen efter den 12 augusti.
