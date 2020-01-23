@@ -198,11 +198,11 @@ bodyExtra: >-
 ---
 ![Sommarkurs i relativitetsteori](/media/grav_lens150914.jpg)
 
-**Fysikums sommarkurs i relativitetsteori (7,5 hp) är för tillfället vilande. Den kommer inte att ges sommaren 2020, men eventuellt sommaren därpå.
+**Fysikums sommarkurs i relativitetsteori (7,5 hp) är för tillfället vilande. Den kommer inte att ges sommaren 2020, men eventuellt sommaren därpå.**
 
 <!--
 
-ges sommaren 2019, kvällstid vecka 25 till 30. Undervisningen består av elva föreläsningar som äger rum på AlbaNova (oftast i sal FR4, se schemat nedan). Examinationen består av en tenta.**
+**ges sommaren 2019, kvällstid vecka 25 till 30. Undervisningen består av elva föreläsningar som äger rum på AlbaNova (oftast i sal FR4, se schemat nedan). Examinationen består av en tenta.**
 
 -->
 
