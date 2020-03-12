@@ -196,6 +196,21 @@ sections:
 
           [Läs artiklarna i Kosmos
           2018](http://www.fysikersamfundet.se/kosmos/#2018)
+      - featuredImage:
+          src: /media/kosmosframsida19.png
+        link: 'http://www.fysikersamfundet.se/kosmos/#2019'
+        title: 'Kosmos 2019: Fysikens mysterier'
+        description: >-
+          Temat i 2019 års utgåva är vår fysikens mysterier. Här finns essäer om
+          till exempel mörk materia, vattnets hemligheter och universums
+          ursprung.
+
+
+          [Förord till Kosmos 2019](media/Kosmos_2019_forord.pdf)
+
+
+          [Läs artiklarna i Kosmos
+          2019](http://www.fysikersamfundet.se/kosmos/#2019)
     title: Kosmos
     description: "Sedan 2017 är jag redaktör för Svenska fysikersamfundets årsbok Kosmos, som innehåller fördjupande essäer om fysik på svenska. Nivån kan karaktäriseras som ett slags avancerad populärvetenskap. \rSyftet med Kosmos är att bidra till ökad kunskap om fysikämnets innehåll och bredd, samt att spegla den roll fysiken spelar för en modern världsbild."
     uid: kosmos
