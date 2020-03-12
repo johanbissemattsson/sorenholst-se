@@ -12,11 +12,12 @@ bodyBox: >
   * [Schedule
   2020](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK8025)
 
+  * [Preliminary courseplan](/media/generalrelativity-kursplanering20.pdf)
+
 
   <!--
 
 
-  * [Preliminary courseplan](/media/generalrelativity-kursplanering19.pdf)
 
   * [Info about the examination](/media/generalrelativity-examination.pdf)
 
