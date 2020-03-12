@@ -201,7 +201,7 @@ sections:
         link: 'http://www.fysikersamfundet.se/kosmos/#2019'
         title: 'Kosmos 2019: Fysikens mysterier'
         description: >-
-          Temat i 2019 års utgåva är vår fysikens mysterier. Här finns essäer om
+          Temat i 2019 års utgåva är fysikens mysterier. Här finns essäer om
           till exempel mörk materia, vattnets hemligheter och universums
           ursprung.
 
