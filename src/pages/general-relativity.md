@@ -175,7 +175,7 @@ bodyExtra: "## Course content\r\n\nWe start by introducing the basic ideas behin
 
 **This course is about this remarkable discovery: what it means, how the theory can be (and has been) tested, its predictions and consequences.**
 
-**<font color="red">Note: If you have not yet signed up for the course, but still is interested in taking it, it is important that you contact me as soon as possible!**
+**<font color="red">Note: If you have not yet signed up for the course, but still is interested in taking it, it is important that you contact me as soon as possible!</font>**
 
 <!--
 
