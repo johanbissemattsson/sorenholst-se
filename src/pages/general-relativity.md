@@ -114,6 +114,9 @@ bodyBox: >
   ### Lecture notes
 
 
+  (Will be uploaded here after each lecture.)
+
+
   Please note that these notes are written primarily for myself as support
   during the lecture. Their content may therefore not be understandable for
   someone who didn't attend the lecture. (The first page is usually a summary of
@@ -121,11 +124,12 @@ bodyBox: >
   the board. Pink question marks are things that I may ask during the lecture). 
 
 
-  * [Notes to lecture 1](/media/GeneralRelativity-Lecture1.pdf)
 
 
   <!--
 
+
+  * [Notes to lecture 1](/media/GeneralRelativity-Lecture1.pdf)
 
   * [Notes to lecture 2](/media/GeneralRelativity-Lecture2.pdf)
 
@@ -170,6 +174,8 @@ bodyExtra: "## Course content\r\n\nWe start by introducing the basic ideas behin
 **The general theory of relativity is Einstein's theory of gravity. Here he shows that gravity should not be described as a force, as in Newtonian physics, but instead as a consequence of the curvature of space and time. In short, gravity is spacetime geometry.**
 
 **This course is about this remarkable discovery: what it means, how the theory can be (and has been) tested, its predictions and consequences.**
+
+**<font color="red">Note: If you have not yet signed up for the course, but still is interested in taking it, it is important that you contact me as soon as possible!**
 
 <!--
 
