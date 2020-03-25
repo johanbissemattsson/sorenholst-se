@@ -110,6 +110,9 @@ bodyBox: >
 
 
 
+  <!--
+
+
   ### Lecture notes
 
 
@@ -121,11 +124,6 @@ bodyBox: >
   someone who didn't attend the lecture. (The first page is usually a summary of
   the content of the lecture. Green text are things that I say but not write on
   the board. Pink question marks are things that I may ask during the lecture). 
-
-
-
-
-  <!--
 
 
   * [Notes to lecture 1](/media/GeneralRelativity-Lecture1.pdf)
