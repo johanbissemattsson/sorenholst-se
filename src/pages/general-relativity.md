@@ -16,14 +16,8 @@ bodyBox: >
 
   * [Info about the examination](/media/generalrelativity-examination.pdf)
 
-
-  <!--
-
-
   * [Questions for oral examination](/media/generalrelativity-munta.pdf)
 
-
-  -->
 
 
   * [Answers to recommended problems](/media/GeneralRelativity-HartleFacit.pdf)
