@@ -172,13 +172,11 @@ bodyExtra: "## Course content\r\n\nWe start by introducing the basic ideas behin
 
 **This course is about this remarkable discovery: what it means, how the theory can be (and has been) tested, its predictions and consequences.**
 
-**<font color="red">Note: If you have not yet signed up for the course, but still is interested in taking it, it is important that you contact me as soon as possible! </font>**
-
 <!--
 
 <br>
 
-**<font color="red">Note: The reexam will be Friday August 30 2019, 8:00 – 13:00, in room FP22. (This room is located on the AlbaNova campus in the yellow building next to the bus stop Ruddammen) </font>**
+\*\*<font color="red">Note: The reexam will be Friday August 30 2019, 8:00 – 13:00, in room FP22. (This room is located on the AlbaNova campus in the yellow building next to the bus stop Ruddammen) </font>\*\*
 
 <br>
 
