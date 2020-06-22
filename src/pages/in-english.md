@@ -110,7 +110,7 @@ sections:
             Master's Programme course about Einstein's important discovery that gravity should not be understood as a force, but rather as a consequence of the curvature of space and time.
           * ## [Summer course in Relativity (Swedish
           webpage)](/sommarkurs-i-relativitetsteori)
-            This course explaines the Special Theory of Relativity using a non-mathematical approach. It also provides a short introduction to General Relativity. (This course is not given for the moment.)
+            This course explaines the Special Theory of Relativity using a non-mathematical approach. It also provides a short introduction to General Relativity.
           * ## [Thought Experiments in Physics (Swedish
           webpage)](/tankeexperiment-i-fysiken)
             This course examines the role of thought experimentation in the history of Physics, from Galileo to Einstein and onwards. Using the method of thought experimentation as a springboard, we discuss several interesting areas within physics, such as Relativity and Quantum Physics. (This course is not given for the moment.)
