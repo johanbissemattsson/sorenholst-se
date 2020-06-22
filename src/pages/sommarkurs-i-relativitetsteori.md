@@ -6,7 +6,9 @@ bodyBox: >-
   ## Kursmaterial
 
 
-  (Inget material att visa för tillfället.)
+  * [Kursens
+  schema](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK1018&next=yes)
+
 
 
   <!--
@@ -186,8 +188,8 @@ bodyExtra: >-
   frågor om kursen är du välkommen att maila mig på <mailto:holst@fysik.su.se> 
 
 
-  [Kursen i Fysikums
-  kurskatalog](https://www.fysik.su.se/utbildning/program-kurser/kursfakta-och-scheman?kurs=FK1018)
+  [Kursens sida i Stockholms universitets
+  kurskatalog](https://www.su.se/sok-kurser-och-program/fk1018-1.427255?open-collapse-boxes=course-detail)
 
 
   [Länk till den officiella
@@ -198,13 +200,9 @@ bodyExtra: >-
 ---
 ![Sommarkurs i relativitetsteori](/media/grav_lens150914.jpg)
 
-**Fysikums sommarkurs i relativitetsteori (7,5 hp) är för tillfället vilande. Den kommer inte att ges sommaren 2020, men eventuellt sommaren därpå.**
+**Fysikums orienteringskurs i relativitetsteori (7,5 hp) kommer att ges kvällstid under hösten 2020, vecka 45 – 51. Undervisningen består av tretton föreläsningar som äger rum på AlbaNova (se schemat nedan). Kursen avslutas med en skriftlig examination.**
 
-<!--
 
-**ges sommaren 2019, kvällstid vecka 25 till 30. Undervisningen består av elva föreläsningar som äger rum på AlbaNova (oftast i sal FR4, se schemat nedan). Examinationen består av en tenta.**
-
--->
 
 
 <!--
