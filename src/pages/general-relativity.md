@@ -9,6 +9,9 @@ bodyBox: >
   (Will be updated during the course.)
 
 
+  <!--
+
+
   * [Schedule
   2020](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK8025)
 
@@ -28,9 +31,6 @@ bodyBox: >
   * [The Appendices in Hartle (for those that have the edition without
   these)](/media/generalrelativity-hartleappendices.pdf)
 
-
-
-  <!--
 
 
   <br>
