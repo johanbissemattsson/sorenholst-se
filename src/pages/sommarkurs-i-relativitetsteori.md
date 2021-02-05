@@ -1,6 +1,6 @@
 ---
 templateKey: page
-title: Sommarkurs i Relativitetsteori
+title: Kvällskurs i Relativitetsteori
 language: Swedish
 bodyBox: >-
   ## Kursmaterial
