@@ -44,7 +44,7 @@ bodyExtra: ''
 <div class='omslag'><img src='/media/Rumtid-Omslag.jpg' alt='Rumtid'/></div>
 På denna sida hittar du instuderingsfrågor till boken, samt blandade övningsuppgifter och problem anpassade till bokens framställning.
 
-[Länk till bokens sida hos Studentlitteratur](https://www.studentlitteratur.se/#32472-01)
+[Länk till bokens sida hos Studentlitteratur](https://www.studentlitteratur.se/kurslitteratur/naturvetenskap-och-miljo/fysik-och-kemi/rumtid/)
 
 [Länk till bokens sida på bokfynd.nu](http://www.bokfynd.nu/9144001231.html)
 
