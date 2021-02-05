@@ -140,7 +140,7 @@ sections:
     title: Teaching
     description: >-
       I am teaching at the Bachelor Programme in Physics at the Physics
-      department at Stockholm university, and I also give summer courses for a
+      Department at Stockholm University, and I also give summer courses for a
       broader audience.
     uid: teaching
 ---
