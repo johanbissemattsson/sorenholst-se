@@ -169,7 +169,7 @@ sections:
   - sectionItems:
       - featuredImage:
           src: /media/kosmosframsida.png
-        link: 'http://www.fysikersamfundet.se/kosmos/#2017'
+        link: 'http://www.fysikersamfundet.se/kosmos-2017/'
         title: 'Kosmos 2017: Vår kvantvärld'
         description: >-
           Temat i 2017 års utgåva är kvantfysik. Här finns essäer om
@@ -183,7 +183,7 @@ sections:
           2017](http://www.fysikersamfundet.se/kosmos-2017/)
       - featuredImage:
           src: /media/kosmosframsida18.png
-        link: 'http://www.fysikersamfundet.se/kosmos/#2018'
+        link: 'http://www.fysikersamfundet.se/kosmos-2108/'
         title: 'Kosmos 2018: Planeten jorden'
         description: >-
           Temat i 2018 års utgåva är vår planet jorden. Här finns essäer om
@@ -198,7 +198,7 @@ sections:
           2018](http://www.fysikersamfundet.se/kosmos-2108/)
       - featuredImage:
           src: /media/kosmosframsida19.png
-        link: 'http://www.fysikersamfundet.se/kosmos/#2019'
+        link: 'http://www.fysikersamfundet.se/kosmos-2019/'
         title: 'Kosmos 2019: Fysikens mysterier'
         description: >-
           Temat i 2019 års utgåva är fysikens mysterier. Här finns essäer om
