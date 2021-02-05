@@ -6,19 +6,15 @@ bodyBox: >-
   ## Kursmaterial
 
 
-  * [Kursens
-  schema](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK1018&next=yes)
+  (Kommer att fyllas på under kursens gång.)
 
 
 
   <!--
 
 
-  (Kommer att fyllas på under kursens gång.)
-
-
   * [Kursens
-  schema](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK1018)
+  schema](https://ssl.fysik.su.se/studentportal/kursinformation/schema/makepdf.php?kurs=FK1018&next=yes)
 
   * [Preliminär planering](/media/relativitetsteori-planering.pdf)<br><br>
 
@@ -198,9 +194,9 @@ bodyExtra: >-
 
   [Kursens betygskriterier](/media/betygskritrelteori.pdf)
 ---
-![Sommarkurs i relativitetsteori](/media/grav_lens150914.jpg)
+![Orienteringskurs i relativitetsteori](/media/grav_lens150914.jpg)
 
-**Fysikums orienteringskurs i relativitetsteori (7,5 hp) kommer att ges kvällstid under hösten 2020, vecka 45 – 51. Undervisningen består av tretton föreläsningar som äger rum på AlbaNova (se schemat nedan). Kursen avslutas med en skriftlig examination.**
+**Fysikums orienteringskurs i relativitetsteori (7,5 hp) kommer att ges kvällstid under hösten 2021. Undervisningen består av tretton föreläsningar som äger rum på AlbaNova (se schemat nedan). Kursen avslutas med en skriftlig examination.**
 
 
 
