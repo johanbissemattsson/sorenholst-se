@@ -180,7 +180,7 @@ sections:
 
 
           [Läs artiklarna i Kosmos
-          2017](http://www.fysikersamfundet.se/kosmos/#2017)
+          2017](http://www.fysikersamfundet.se/kosmos-2017/)
       - featuredImage:
           src: /media/kosmosframsida18.png
         link: 'http://www.fysikersamfundet.se/kosmos/#2018'
@@ -195,7 +195,7 @@ sections:
 
 
           [Läs artiklarna i Kosmos
-          2018](http://www.fysikersamfundet.se/kosmos/#2018)
+          2018](http://www.fysikersamfundet.se/kosmos-2108/)
       - featuredImage:
           src: /media/kosmosframsida19.png
         link: 'http://www.fysikersamfundet.se/kosmos/#2019'
@@ -210,9 +210,9 @@ sections:
 
 
           [Läs artiklarna i Kosmos
-          2019](http://www.fysikersamfundet.se/kosmos/#2019)
+          2019](http://www.fysikersamfundet.se/kosmos-2019/)
     title: Kosmos
-    description: "Sedan 2017 är jag redaktör för Svenska fysikersamfundets årsbok Kosmos, som innehåller fördjupande essäer om fysik på svenska. Nivån kan karaktäriseras som ett slags avancerad populärvetenskap. \rSyftet med Kosmos är att bidra till ökad kunskap om fysikämnets innehåll och bredd, samt att spegla den roll fysiken spelar för en modern världsbild."
+    description: "Under åren 2017, 2018 och 2019 var jag redaktör för Svenska fysikersamfundets årsbok Kosmos, som innehåller fördjupande essäer om fysik på svenska. Nivån kan karaktäriseras som ett slags avancerad populärvetenskap. \rSyftet med Kosmos är att bidra till ökad kunskap om fysikämnets innehåll och bredd, samt att spegla den roll fysiken spelar för en modern världsbild."
     uid: kosmos
   - more: '[Fler artiklar](/alla-debattinlagg)'
     sectionItems:
