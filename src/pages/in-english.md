@@ -104,7 +104,7 @@ sections:
            Hear are my current courses:
 
           * ## [Mechanics I and II (Swedish
-          webpage)](https://www.fysik.su.se/utbildning/program-kurser/kursinformation/kursfakta-och-scheman)
+          webpage)](https://www.su.se/sok-kurser-och-program/fk3014-1.412643)
             Parts of the course "Klassisk fysik (30 hp)" on the Bachelor's Programme. 
           * ## [General Relativity](/general-relativity)
             Master's Programme course about Einstein's important discovery that gravity should not be understood as a force, but rather as a consequence of the curvature of space and time.
