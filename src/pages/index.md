@@ -126,9 +126,9 @@ sections:
         description: >2-
            Här är de kurser som är aktuella för närvarande:
 
-          * ## [Mekanik
+          * ## [Mekanik I och
           II](https://www.su.se/sok-kurser-och-program/fk3014-1.412643)
-            Kursen ingår som delkurs i Klassisk Fysik (30 hp), den första fysikkursen på Fysikums kandidatprogram.
+            Kurserna ingår som delkurser i Klassisk Fysik (30 hp), den första fysikkursen på Fysikums kandidatprogram.
           * ## [Allmän relativitetsteori](/general-relativity)
             Kurs på masternivå om Einsteins teori, som visar hur fenomenet gravitation inte är en kraft, utan måste förstås som en effekt av rumtidens krökning.
           * ## [Kvällskurs i Relativitetsteori](/sommarkurs-i-relativitetsteori)
