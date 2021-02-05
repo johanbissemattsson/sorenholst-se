@@ -163,8 +163,8 @@ sections:
           College](media/Skidmore-Kronika.pdf)
     title: Undervisning
     description: >-
-      Jag undervisar på såväl kandidat- som masternivå på Fysikum, och håller
-      även sommarkurser.
+      Jag undervisar på såväl kandidat- som masternivå på Fysikum, Stockholms
+      universitet, och håller även sommarkurser.
     uid: undervisning
   - sectionItems:
       - featuredImage:
