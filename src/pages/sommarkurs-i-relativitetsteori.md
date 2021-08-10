@@ -3,14 +3,11 @@ templateKey: page
 title: Kvällskurs i Relativitetsteori
 language: Swedish
 bodyBox: >-
+  <!--
+
+
   ## Kursmaterial
 
-
-  (Kommer att fyllas på under kursens gång.)
-
-
-
-  <!--
 
 
   * [Kursens
@@ -87,8 +84,8 @@ bodyExtra: >-
   ## Kursinnehåll
 
 
-  Syftet med kursen är att förmedla en fullständig förståelse av innehållet i
-  den speciella relativitetsteorin, och att ge en mer introduktiv översikt av
+  Syftet med kursen är att förmedla en bred förståelse av innehållet i den
+  speciella relativitetsteorin, och att ge en mer introduktiv översikt av
   innehållet i den allmänna relativitetsteorin. 
 
 
@@ -149,12 +146,6 @@ bodyExtra: >-
   experimentella aspekterna. Bra komplement till den senare delen av kursen. 
 
 
-  O. Gron, A. Naess: _Einstein's Theory. A Rigorous Introduction for the
-  Mathematically Untrained_ (Springer Verlag, 2011). Detta är en bok för den som
-  vill ha mer av matematiken bakom den allmänna relativitetsteorin. Man behöver
-  inte ha så mycket förkunskaper, men man bör å andra sidan inte rädas
-  matematik. 
-
 
   ## Till vem vänder sig kursen och vilka förkunskaper krävs?
 
@@ -196,7 +187,7 @@ bodyExtra: >-
 ---
 ![Orienteringskurs i relativitetsteori](/media/grav_lens150914.jpg)
 
-**Fysikums orienteringskurs i relativitetsteori (7,5 hp) kommer att ges kvällstid under hösten 2021. Undervisningen består av tretton föreläsningar som äger rum på AlbaNova (se schemat nedan). Kursen avslutas med en skriftlig examination.**
+**Fysikums orienteringskurs i relativitetsteori (7,5 hp) kommer att ges kvällstid under hösten 2021. Undervisningen består av tretton föreläsningar som äger rum på AlbaNova. Kursen avslutas med en skriftlig examination.**
 
 
 
