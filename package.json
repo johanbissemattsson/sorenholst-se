@@ -5,7 +5,7 @@
   "author": "Austin Green",
   "dependencies": {
     "exenv": "^1.2.2",
-    "gatsby": "^1.9.213",
+    "gatsby": "^5.3.3",
     "gatsby-link": "^1.6.37",
     "gatsby-plugin-catch-links": "^1.0.19",
     "gatsby-plugin-netlify-cms": "^2.0.1",
